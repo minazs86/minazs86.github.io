@@ -29,7 +29,10 @@
       const poopScript = transcript.replace(/poop|poo|shit|dump/gi, '💩');
       p.textContent = poopScript;
 
-    
+      if (e.results[0].isFinal) {
+        p = document.createElement('p');
+        words.appendChild(p);
+      }
   });
 
   recognition.addEventListener('end', recognition.start);
@@ -41,30 +44,24 @@
 
   <style>
     html {
-      font-size: 7px;
-	
-
+      font-size: 10px;
     }
 
     body {
-      background: black;
+      background: #ffc600;
       font-family: 'helvetica neue';
       font-weight: 200;
       font-size: 20px;
-     color: white;
-
     }
 
     .words {
       max-width: 500px;
       margin: 50px auto;
-     // background: white;
-      //border-radius: 5px;
-      //box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
+      background: white;
+      border-radius: 5px;
+      box-shadow: 10px 10px 0 rgba(0,0,0,0.1);
       padding: 1rem 2rem 1rem 5rem;
-      background: black;
-
-//-webkit-gradient(linear, 0 0, 0 100%, from(#d9eaf3), color-stop(4%, #fff)) 0 4px;
+      background: -webkit-gradient(linear, 0 0, 0 100%, from(#d9eaf3), color-stop(4%, #fff)) 0 4px;
       background-size: 100% 3rem;
       position: relative;
       line-height: 3rem;
@@ -81,8 +78,8 @@
       top: 0;
       left: 30px;
       bottom: 0;
-     // border: 1px solid;
-     // border-color: transparent #efe4e4;
+      border: 1px solid;
+      border-color: transparent #efe4e4;
     }
   </style>
 
