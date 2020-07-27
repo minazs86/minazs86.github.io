@@ -14,7 +14,7 @@
 p {
 
   text-align: center;
-  font-size: calc(1rem + ((1vw - 7.68px) * 0.6944));
+  font-size: calc(2rem + ((1vw - 7.68px) * 0.6944));
     min-height: 0vw;
   margin-top: 0px;
 font-family: courier;
@@ -71,7 +71,7 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("demo").innerHTML = "GAME OVER.";
   }
 }, 1000);
 </script>
