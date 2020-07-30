@@ -18,7 +18,13 @@ p {
     min-height: 0vw;
   margin-top: 0px;
 font-family: courier;
-font-color: white;
+ animation: color-change 1s infinite;
+}
+
+@keyframes color-change {
+  0% { color: red; }
+  50% { color: green; }
+  100% { color: blue; }
 
 
 }
