@@ -4,13 +4,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 
-#myVideo {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
+body {    background-image: url("boxes.gif");
+ height: 500px; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
+
 p {
 
   text-align: center;
@@ -65,10 +65,6 @@ font-family: courier;
 
 <body>
 
-<video autoplay muted loop id="myVideo">
-  <source src="dust.MOV" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
 
 
 <div class="content">
