@@ -1,0 +1,78 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body { background-image: url("stars.jpg");
+}
+
+#dummy {width: 1000px;
+	
+	
+}
+
+#pone {
+	position: relative;
+	top: 180px;
+	left: 323px;
+}
+
+#sone {
+	position: relative;
+	top: 71px;
+	left: 204px;
+}
+
+#yone {
+	position: relative;
+	top: 265px;
+	left: 99px;
+	width: 50px;
+}
+
+#cone {
+	position: relative;
+	top: 211px;
+	left: 396px;
+	width: 50px;
+}
+
+#hone {
+	position: relative;
+	top: 521px;
+	left: 1060px;
+	width: 50px;
+}
+
+#oone {
+	position: relative;
+	top: 739px;
+	left: 135px;
+	width: 50px;
+}
+
+#ptwo {
+	position: relative;
+	top: 545px;
+	left: 142px;
+	width: 50px;
+}
+
+#aone {
+	position: relative;
+	top: 581px;
+	left: 666px;
+	width: 50px;
+}
+
+#tone {
+	position: relative;
+	top: 708px;
+	left: 573px;
+	width: 50px;
+}
+
+#htwo {
+	position: relative;
+	top: 340px;
+	left: 659px;
+	width: 50px;
+}
