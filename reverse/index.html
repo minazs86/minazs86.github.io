@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <style>
+      body {
+        margin: 20px;
+        padding: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <canvas id="myCanvas" width="1000" height="200"></canvas>
+    <script>
+      var canvas = document.getElementById('myCanvas');
+      var context = canvas.getContext('2d');
+
+      // translate context to center of canvas
+      context.translate(canvas.width / 2, canvas.height / 2);
+
+      // flip context horizontally
+      context.scale(-1, 1);
+
+      context.font = '20pt Courier';
+      context.textAlign = 'center';
+      context.fillStyle = 'black';
+      context.fillText('I had a dream last night! I had two heads and no eyes!', 0, 0);
+    </script>
+  </body>
+</html>      
