@@ -24,7 +24,7 @@ body {
 	line-height: 1;
 	color: black;
 	background: black;
-	font-family:Lucida Grande,trebuchet ms,verdana,arial,helvetica,sans-serif;
+	font-family:Courier, Lucida Grande,trebuchet ms,verdana,arial,helvetica,sans-serif;
 }
 ol, ul {
 	list-style: none;
