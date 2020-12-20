@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<style type="text/css">
+			* {
+				background-color: black;
+				font-family: futura;
+				color: white;
+				text-align: center;
+			  }
+
+          		#timer {
+         	 		color: white;
+          			position: fixed;
+	  			z-index: 10;
+	  			top: 0px;
+	  			font-size: 10px;
+	  			font-family: arial;
+          		}
+		</style>
+	</head>
+	<body>
+		<br><br><br><br><br><br>
+		<div id="timer">page expires in <span id="time">01:00</div>
+		<p> the following variations were inspired by the poem "the city" by c. p. cavafy (1894)</p>
+		<p> each variation centers around the concept of confinement</p>
+		<p> variation one - text</p>
+		<p> html only</p>
+		<p> variation two - color</p>
+		<p> html, css</p>
+		<p> variation three - motion</p>
+		<p> html, css, javascript</p>
+		<p> variation four - sound</p>
+		<p> html, css, javascript</p>
+
+	<script>
+    		function startTimer(duration, display) {
+	        var timer = duration, minutes, seconds;
+	        var end =setInterval(function () {
+	        minutes = parseInt(timer / 60, 10)
+            	seconds = parseInt(timer % 60, 10);
+
+            	minutes = minutes < 10 ? "0" + minutes : minutes;
+            	seconds = seconds < 10 ? "0" + seconds : seconds;
+
+            	display.textContent = minutes + ":" + seconds;
+
+            	if (--timer < 0) {
+                	window.location.href = "navpage.html";
+                	clearInterval(end);
+            	}
+        	}, 1000);
+    	}
+
+    	window.onload = function () {
+        	var fiveMinutes = 60,
+            	display = document.querySelector('#time');
+        	startTimer(fiveMinutes, display);
+    	     };
+	</script>
+	</body>
+</html>

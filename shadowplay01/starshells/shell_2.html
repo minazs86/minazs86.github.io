@@ -1,0 +1,266 @@
+<!doctype html>
+<html>
+	<head>
+		  
+		
+			 <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <link rel="stylesheet" media="screen" href="part/css/style.css">
+			
+		
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+		<title>shadowplay</title>
+		<style type="text/css">
+		
+			body {
+				position: absolute;
+				top: 0;
+				left:0;
+	
+				background-color: #0C1419;;
+
+					width: 960px;
+	height: 3000px;
+				
+				}
+			
+			button{
+				display: block;
+				width: 0.7%;
+				height: 0.4%;
+				border-radius: 50%;
+				background-color: white; 
+  				border: none;
+				cursor: pointer;
+				overflow: hidden;
+				 box-shadow: 0 0 0 0 rgba(90, 153, 212, 0.5);
+  -webkit-animation: pulse 2s infinite;
+
+				}
+			
+@-webkit-keyframes pulse {
+  0% {
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+  }
+  70% {
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
+    -webkit-transform: scale(.5);
+    transform: scale(.5);
+    box-shadow: 0 0 0 10px rgba(90, 153, 212, 0);
+  }
+  100% {
+    -moz-transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    transform: scale(0.8);
+    box-shadow: 0 0 0 0 rgba(90, 153, 212, 0);
+  }
+}
+
+			.screenshots {
+			
+				position: absolute;
+				left: 400px;
+				top: 315px;
+				background: none;
+				background-color: yellow; 
+				
+			}
+
+			.notes{
+				
+				position: absolute;
+				left: 650px;
+				top: 410px;
+				background: none;
+				border: none;
+				background-color: yellow; 
+			}
+
+			.misc {
+			
+				position: absolute;
+				left: 870px;
+				top: 340px;
+				background: none;
+				border: none;
+				background-color: yellow; 
+		
+			}
+
+			.slotiframe {
+				display: none;
+				position: absolute;
+				top: 10%;
+				left: 10%;
+				z-index: 4;
+				background-color: yellow; 
+			}
+
+			.skyiframe {
+				display: none;
+				position: absolute;
+				top: 46%;
+				left: 10%;
+				z-index: 4;
+				background-color: yellow; 
+			}
+
+			.misciframe {
+				display: none;
+				position: absolute;
+				top: 16%;
+				left: 21%;
+				z-index: 4;
+				background-color: yellow; 
+			}
+			
+			
+#particle-canvas {
+				position: absolute;
+				left: 0;
+				top: 0;
+  			width: 960px;
+	height: 3000px;
+		
+				z-index:-1;}
+			
+		</style>
+		
+	
+	</head>
+
+	<body>
+		
+		<div class="count-particles">
+  <span class="js-count-particles">--</span> 
+</div>
+
+<!-- particles.js container -->
+<div id="particles-js"></div>
+
+<!-- scripts -->
+<script src="../part/particles.js"></script>
+<script src="part/js/app.js"></script>
+
+<!-- stats.js -->
+<script src="part/js/lib/stats.js"></script>
+<script>
+  var count_particles, stats, update;
+  stats = new Stats;
+  stats.setMode(0);
+  stats.domElement.style.position = 'absolute';
+  stats.domElement.style.left = '0px';
+  stats.domElement.style.top = '0px';
+  document.body.appendChild(stats.domElement);
+  count_particles = document.querySelector('.js-count-particles');
+  update = function() {
+    stats.begin();
+    stats.end();
+    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
+      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
+    }
+    requestAnimationFrame(update);
+  };
+  requestAnimationFrame(update);
+</script>
+
+		
+		<button class="screenshots"></button>
+		<button class="notes"></button>
+		<button class="misc"></button>
+		<button onclick="reveal('img1')" style="left: 555px; top: 265px;  position: absolute; "></button>
+		<button onclick="reveal('img2')" style="left: 720px; top: 480px;  position: absolute; "></button>
+		<button onclick="reveal('img3')" style="left: 475px; top: 432px;  position: absolute; "></button>
+		<button onclick="reveal('img4')" style="left: 805px; top: 955px;  position: absolute; "></button>
+		<button onclick="reveal('img5')" style="left: 180px; top: 1023px;  position: absolute; "></button>
+		<button onclick="reveal('img6')" style="left: 305px; top: 1940px;  position: absolute; "></button>
+		<button class="sky" onclick="reveal('img7')" style="left: 120px; top: 1250px;  position: absolute; "></button>
+		<button onclick="reveal('img8')" style="left: 420px; top: 1534px;  position: absolute; "></button>
+		<button onclick="reveal('img9')" style="left: 375px; top: 2293px;  position: absolute; "></button>
+		<button onclick="reveal('img10')" style="left: 660px; top: 1910px;  position: absolute; "></button>
+		<button onclick="reveal('img11')" style="left: 140px; top: 765px;  position: absolute; "></button>
+		<button onclick="reveal('img12')" style="left: 940px; top: 175px;  position: absolute; "></button>
+		<button class="slot" onclick="reveal('img13')" style="left: 324px; top: 105px; position: absolute;"></button>
+		<button onclick="reveal('img14')" style="left: 700px; top: 715px;  position: absolute; "></button>
+		<button onclick="reveal('img15')" style="left: 440px; top: 1765px;  position: absolute; "></button>
+		<button onclick="reveal('img16')" style="left: 140px; top: 2065px;   position: absolute; "></button>
+		<button onclick="reveal('img17')" style="left: 560px; top: 2775px;  position: absolute; "></button>
+		<button onclick="reveal('img18')" style="left: 770px; top: 1300px;  position: absolute; "></button>
+		<button onclick="reveal('img19')" style="left: 640px; top: 650px;  position: absolute; "></button>
+		<button onclick="reveal('img20')" style="left: 940px; top: 1020px;  position: absolute; "></button>
+
+		<div id="img1" style="display:none;"><img src="messages/feel.png" alt="feel" style="width:70px;height:50px;position:fixed;top:155px;left:685px;"></div>
+		<div id="img2" style="display:none;"><img src="messages/close.png" alt="close" style="width:70px;height:50px;position:fixed;top:110px;left:780px;"></div>
+		<div id="img3" style="display:none;"><img src="messages/know.png" alt="know" style="width:70px;height:50px;position:fixed;top:630px;left:450px;"></div>
+		<div id="img4" style="display:none;"><img src="messages/me.png" alt="me" style="width:70px;height:50px;position:fixed;top:595px;left:580px;"></div>
+		<div id="img5" style="display:none;"><img src="messages/do.png" alt="do" style="width:70px;height:50px;position:fixed;top:160px;left:440px;"></div>
+		<div id="img6" style="display:none;"><img src="messages/you.png" alt="you" style="width:70px;height:50px;position:fixed;top:130px;left:560px;"></div>
+		<div id="img7" style="display:none;"><img src="messages/meq.png" alt="meq" style="width:70px;height:50px;position:fixed;top:140px;left:1000px;"></div>
+		<div id="img8" style="display:none;"><img src="messages/to.png" alt="to" style="width:70px;height:50px;position:fixed;top:120px;left:895px;"></div>
+		<div id="img9" style="display:none;"><img src="messages/better.png" alt="better" style="width:70px;height:50px;position:fixed;top:600px;left:700px;"></div>
+		<div id="img10" style="display:none;"><img src="messages/do2.png" alt="do" style="width:70px;height:50px;position:fixed;top:615px;left:210px;"></div>
+		<div id="img11" style="display:none;"><img src="messages/you2.png" alt="you" style="width:70px;height:50px;position:fixed;top:604px;left:345px;"></div>
+
+
+        	<iframe class="slotiframe" src="truthmachine/index.html"
+                	width="625px" height="500px">
+                	browser does not support content
+                </iframe>
+
+        	<iframe class="skyiframe" src="sky.html"
+                	width="625px" height="400px">
+                	browser does not support content
+                </iframe>
+
+        	<iframe class="misciframe" src="misc.html"
+                	width="825px" height="500px">
+                	browser does not support content
+                </iframe>
+
+		<script>
+			function reveal(pic) {
+				var x = document.getElementById(pic);
+				if (x.style.display === "none") {
+					x.style.display = "block";
+				}
+    
+			}
+
+
+			// toggle iframes
+			function showiFrame(button, elem) {
+				$(button).toggle(
+					function () {
+						$(elem).show();
+					},
+					function () {
+						$(elem).show();
+					}
+
+				);
+    
+			}
+
+			showiFrame(".slot", ".slotiframe");
+			showiFrame(".sky", ".skyiframe");
+			showiFrame(".misc", ".misciframe");
+
+			// clicking anywhere in window closes open iframe
+			$(document).add(parent.document).click(function(e) {
+				var iframe = $('iframe');
+				if (!iframe.is(e.target) && iframe.has(e.target).length === 0) {
+					iframe.hide();
+				}
+			});
+
+
+		</script>
+
+
+	</body>
+
+</html>
