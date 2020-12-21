@@ -2,6 +2,19 @@ body {
 background-color: transparent;
 }
 
+	button{
+			
+				width:160px;
+		height:40px;
+	background-color: transparent;
+		font-family: courier;
+		color: white;
+			line-height: 12px;
+			font-size: 12px;
+			margin: 20px auto 20px auto;
+			 letter-spacing: 0.1rem;
+ cursor: pointer;	}
+
 img {position:absolute;
 
    left: 50%;

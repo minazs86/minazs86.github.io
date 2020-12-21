@@ -1,0 +1,82 @@
+<!doctype html>
+<html>
+
+<head>
+	
+	<link rel="stylesheet" type="text/css" href="animate.min.css">
+<style type="text/css">
+	
+	body {width:600px;
+	background-color: none;
+		font-family: courier;
+		color: black;
+			line-height: 12px;
+			font-size: 12px;
+			margin: 20px;
+			 letter-spacing: 0.1rem;}
+	
+		.intro {
+			
+			width: auto;
+			height:760px;
+			font-weight: normal;
+				font-size: 10px;
+				color:#A6BBCD ;
+			}
+	#introtext {width:600px;
+	
+		font-family: courier;
+		color: #D1ECF5;
+				position: absolute;
+				top:300px;
+				left: 300px;
+			line-height: 12px;
+			font-size: 12px;
+			 letter-spacing: 0.1rem;}
+
+	
+			botton {
+			font-family: andale mono, monospace;
+			line-height: 10px;
+			font-size: 20px;
+			margin: 20px;
+			 letter-spacing: 2.5px;
+			position: absolute;
+			top:50px;
+			 cursor: pointer;	
+	}
+		
+		botton:hover {
+			color: #DCDCAC; }
+	
+	</style>
+
+	
+</head>
+<body>
+	
+	<div class="intro"> 
+		
+	<botton onclick="typeWriter()"> In Between Times </botton>
+		
+
+
+		<p id="introtext"> </p>
+
+	<script>
+var i = 0;
+var codeBlock = '<p> What a <span class="one animate__animated   animate__fadeOut  animate__delay-4s ">(adjective)</span> day today turned out to be! I thought I was running late for <span class="two animate__animated   animate__fadeOut  animate__delay-7s ">(verb)</span> practice because my alarm clock stopped. <span class="three animate__animated   animate__fadeOut  animate__delay-8s ">“(Exclamation)”</span> I shouted when I saw it. I jumped out of bed and threw on my <span class="four animate__animated   animate__fadeOut  animate__delay-12s ">(animal)</span> slippers. I <span class="five animate__animated   animate__fadeOut  animate__delay-16s ">(adverb)</span> picked up my watch to check on the time, but it had stopped, too. “What the </p>';
+var speed = 50;
+
+function typeWriter() {
+  if (i < codeBlock.length) {
+    document.getElementById("introtext").innerHTML += codeBlock.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+
+	</div>
+</body>
+</html>
