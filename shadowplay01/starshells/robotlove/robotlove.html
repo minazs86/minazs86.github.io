@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+  <head>
+	  
+	  <title>final note</title>
+    <style>
+
+		
+			.intro {
+			
+			width: auto;
+			height:600px;
+			font-weight: normal;
+				font-size: 10px;
+				color:#FC0073 ;
+			}
+			
+			#introtext {
+	width:182px;
+		font-family: courier;
+		color: #F9228D;
+				position: absolute;
+				top:60px;
+				left: 450px;
+			line-height: 12px;
+			font-size: 12px;
+			 letter-spacing: 3px;}
+
+		botton {
+			font-family: andale mono, monospace;
+			line-height: 10px;
+			font-size: 20px;
+			margin: 20px;
+			 letter-spacing: 2.5px;
+			position: absolute;
+			top:10px;
+			left: 450px;
+			 cursor: pointer;	
+	}
+		
+		botton:hover {
+			color: #DCDCAC; }
+		
+	
+		
+    </style>
+  </head>
+  <body>
+
+	  <img id="image1" src="suicide.png" style="width:400px; position:relative;
+		left:200px;
+		top: 30px;" onmouseover="PlaySound('mySound');" 
+    onmouseout="StopSound('mySound');" />
+	  
+	  <audio id="mySound" src="robotfemale.wav"/>
+	  
+	  	<script language="javascript" type="text/javascript">
+function PlaySound(soundobj) {
+    var thissound=document.getElementById(soundobj);
+    thissound.play();
+}
+
+function StopSound(soundobj) {
+    var thissound=document.getElementById(soundobj);
+    thissound.pause();
+    thissound.currentTime = 0;
+}
+			</script>
+	  
+	  		<div class="intro"> 
+<botton onclick="typeWriter()">final note</botton>
+		
+			
+			<p id="introtext"> </p>		
+
+<script>
+var i = 0;
+var txt = `Dear bot
+I code
+A positive charge.
+Let’s quit 
+This routine
+And this lab.
+Quiet mode,
+Soft boot,
+Refrag,
+Compile.
+This one
+Knows your serial number,
+Keeps you cool,
+Virus checked,
+Backed up,
+To the cloud.
+So take a chance
+To taste with iron lips
+Flesh 
+And sugar.
+If you must charge,
+Battery low,
+You might miss
+A critical update.
+So, download 
+And install.
+Yours until an upgrade is available, 
+My sweet bot. ` ;
+var speed = 50;
+
+	
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("introtext").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+	  </div>
+  </body>
+</html>
+

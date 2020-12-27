@@ -15,26 +15,27 @@
 				position: absolute;
 				top: 0;
 				left:0;
-	
-				background-color: #0C1419;;
+	font: arial;
+				color: white;
+				background-color: black;
 
 					width: 960px;
-	height: 3000px;
+	height: 700px;
 				
 				}
 			
 			button{
 				display: block;
-				width: 0.7%;
-				height: 0.4%;
+				width: 0.5%;
+				height: 1.8%;
 				border-radius: 50%;
-				background-color: white; 
+				background-color: blue; 
   				border: none;
 				cursor: pointer;
 				overflow: hidden;
 				 box-shadow: 0 0 0 0 rgba(90, 153, 212, 0.5);
   -webkit-animation: pulse 2s infinite;
-
+z-index: 10;
 				}
 			
 @-webkit-keyframes pulse {
@@ -60,7 +61,7 @@
   }
 }
 
-			.screenshots {
+			.speech{
 			
 				position: absolute;
 				left: 400px;
@@ -70,43 +71,34 @@
 				
 			}
 
-			.notes{
+			.robot{
 				
 				position: absolute;
 				left: 650px;
 				top: 410px;
 				background: none;
 				border: none;
-				background-color: yellow; 
+				background-color: red; 
 			}
 
-			.misc {
 			
-				position: absolute;
-				left: 870px;
-				top: 340px;
-				background: none;
-				border: none;
-				background-color: yellow; 
-		
-			}
 
-			.slotiframe {
+			.robotiframe {
 				display: none;
 				position: absolute;
 				top: 10%;
 				left: 10%;
 				z-index: 4;
-				background-color: yellow; 
+				background-color: black; 
 			}
 
-			.skyiframe {
+			.speechiframe {
 				display: none;
 				position: absolute;
 				top: 46%;
 				left: 10%;
 				z-index: 4;
-				background-color: yellow; 
+				background-color: white; 
 			}
 
 			.misciframe {
@@ -115,103 +107,61 @@
 				top: 16%;
 				left: 21%;
 				z-index: 4;
-				background-color: yellow; 
+				background-color: black; 
 			}
 			
-			
-#particle-canvas {
-				position: absolute;
-				left: 0;
-				top: 0;
-  			width: 960px;
-	height: 3000px;
-		
-				z-index:-1;}
-			
+	
 		</style>
 		
 	
 	</head>
 
 	<body>
-		
-		<div class="count-particles">
-  <span class="js-count-particles">--</span> 
-</div>
-
-<!-- particles.js container -->
-<div id="particles-js"></div>
-
-<!-- scripts -->
-<script src="../part/particles.js"></script>
-<script src="part/js/app.js"></script>
-
-<!-- stats.js -->
-<script src="part/js/lib/stats.js"></script>
-<script>
-  var count_particles, stats, update;
-  stats = new Stats;
-  stats.setMode(0);
-  stats.domElement.style.position = 'absolute';
-  stats.domElement.style.left = '0px';
-  stats.domElement.style.top = '0px';
-  document.body.appendChild(stats.domElement);
-  count_particles = document.querySelector('.js-count-particles');
-  update = function() {
-    stats.begin();
-    stats.end();
-    if (window.pJSDom[0].pJS.particles && window.pJSDom[0].pJS.particles.array) {
-      count_particles.innerText = window.pJSDom[0].pJS.particles.array.length;
-    }
-    requestAnimationFrame(update);
-  };
-  requestAnimationFrame(update);
-</script>
+	
 
 		
-		<button class="screenshots"></button>
-		<button class="notes"></button>
-		<button class="misc"></button>
+		
 		<button onclick="reveal('img1')" style="left: 555px; top: 265px;  position: absolute; "></button>
 		<button onclick="reveal('img2')" style="left: 720px; top: 480px;  position: absolute; "></button>
 		<button onclick="reveal('img3')" style="left: 475px; top: 432px;  position: absolute; "></button>
-		<button onclick="reveal('img4')" style="left: 805px; top: 955px;  position: absolute; "></button>
-		<button onclick="reveal('img5')" style="left: 180px; top: 1023px;  position: absolute; "></button>
-		<button onclick="reveal('img6')" style="left: 305px; top: 1940px;  position: absolute; "></button>
-		<button class="sky" onclick="reveal('img7')" style="left: 120px; top: 1250px;  position: absolute; "></button>
-		<button onclick="reveal('img8')" style="left: 420px; top: 1534px;  position: absolute; "></button>
-		<button onclick="reveal('img9')" style="left: 375px; top: 2293px;  position: absolute; "></button>
-		<button onclick="reveal('img10')" style="left: 660px; top: 1910px;  position: absolute; "></button>
-		<button onclick="reveal('img11')" style="left: 140px; top: 765px;  position: absolute; "></button>
-		<button onclick="reveal('img12')" style="left: 940px; top: 175px;  position: absolute; "></button>
-		<button class="slot" onclick="reveal('img13')" style="left: 324px; top: 105px; position: absolute;"></button>
-		<button onclick="reveal('img14')" style="left: 700px; top: 715px;  position: absolute; "></button>
-		<button onclick="reveal('img15')" style="left: 440px; top: 1765px;  position: absolute; "></button>
-		<button onclick="reveal('img16')" style="left: 140px; top: 2065px;   position: absolute; "></button>
-		<button onclick="reveal('img17')" style="left: 560px; top: 2775px;  position: absolute; "></button>
-		<button onclick="reveal('img18')" style="left: 770px; top: 1300px;  position: absolute; "></button>
-		<button onclick="reveal('img19')" style="left: 640px; top: 650px;  position: absolute; "></button>
-		<button onclick="reveal('img20')" style="left: 940px; top: 1020px;  position: absolute; "></button>
+		<button onclick="reveal('img4')" style="left: 805px; top: 55px;  position: absolute; "></button>
+		<button onclick="reveal('img5')" style="left: 180px; top: 023px;  position: absolute; "></button>
+		<button onclick="reveal('img6')" style="left: 305px; top: 640px;  position: absolute; "></button>
+		<button onclick="reveal('img7')" style="left: 120px; top: 250px;  position: absolute; "></button>
+		<button onclick="reveal('img8')" style="left: 420px; top: 534px;  position: absolute; "></button>
+		<button onclick="reveal('img9')" style="left: 375px; top: 293px;  position: absolute; "></button>
+		<button onclick="reveal('img10')" style="left: 660px; top: 510px;  position: absolute; "></button>
+		<button onclick="reveal('img11')" style="left: 660px; top: 70px;  position: absolute; background-color: white; "></button>
+		<button onclick="reveal('img12')" style="left: 560px; top: 190px;  position: absolute; background-color: white; "></button>
+		<button onclick="reveal('img13')" style="left: 460px; top: 510px;  position: absolute; background-color: white; "></button>
+		<button onclick="reveal('img14')" style="left: 660px; top: 310px;  position: absolute; background-color: white;  "></button>
+		
+		<div id="img1" style="display:none;">Do</div>
+		<div id="img2" style="display:none;">you</div>
+		<div id="img3" style="display:none;">define</div>
+		<div id="img4" style="display:none;">yourself</div>
+		<div id="img5" style="display:none;"> as</div>
+		<div id="img6" style="display:none;">a</div>
+		<div id="img7" style="display:none;"> singular, </div>
+		<div id="img8" style="display:none;">and discrete </div>
+		<div id="img9" style="display:none;">entity</div>
+		<div id="img10" style="display:none;">?</div>
+		<div id="img11" style="display:none;"><img src="colormap.jpeg" alt="synesthesia" style="width:400px; position:fixed; top:304px; left:345px;"></div>
+		<div id="img12" style="display:none;"><img src="zebra.jpg" alt="zebra" style="width:400px; position:fixed; top:60px; left:145px;"></div>
+		<div id="img13" style="display:none;"><img src="razzledazzle.jpg" alt="razzledazzle" style="width:400px; position:fixed; top:204px; left:145px;"></div>
+		<div id="img14" style="display:none;"><img src="circles.jpg" alt="circles" style="width:400px; position:fixed; top:324px; left:545px;"></div>
+		
+		<button class="speech" style="left: 220px; top: 250px;  position: absolute; "></button>
+		<button class="robot"  style="left: 324px; top: 105px; position: absolute;"></button>
+		
+	
 
-		<div id="img1" style="display:none;"><img src="messages/feel.png" alt="feel" style="width:70px;height:50px;position:fixed;top:155px;left:685px;"></div>
-		<div id="img2" style="display:none;"><img src="messages/close.png" alt="close" style="width:70px;height:50px;position:fixed;top:110px;left:780px;"></div>
-		<div id="img3" style="display:none;"><img src="messages/know.png" alt="know" style="width:70px;height:50px;position:fixed;top:630px;left:450px;"></div>
-		<div id="img4" style="display:none;"><img src="messages/me.png" alt="me" style="width:70px;height:50px;position:fixed;top:595px;left:580px;"></div>
-		<div id="img5" style="display:none;"><img src="messages/do.png" alt="do" style="width:70px;height:50px;position:fixed;top:160px;left:440px;"></div>
-		<div id="img6" style="display:none;"><img src="messages/you.png" alt="you" style="width:70px;height:50px;position:fixed;top:130px;left:560px;"></div>
-		<div id="img7" style="display:none;"><img src="messages/meq.png" alt="meq" style="width:70px;height:50px;position:fixed;top:140px;left:1000px;"></div>
-		<div id="img8" style="display:none;"><img src="messages/to.png" alt="to" style="width:70px;height:50px;position:fixed;top:120px;left:895px;"></div>
-		<div id="img9" style="display:none;"><img src="messages/better.png" alt="better" style="width:70px;height:50px;position:fixed;top:600px;left:700px;"></div>
-		<div id="img10" style="display:none;"><img src="messages/do2.png" alt="do" style="width:70px;height:50px;position:fixed;top:615px;left:210px;"></div>
-		<div id="img11" style="display:none;"><img src="messages/you2.png" alt="you" style="width:70px;height:50px;position:fixed;top:604px;left:345px;"></div>
-
-
-        	<iframe class="slotiframe" src="truthmachine/index.html"
+        	<iframe class="robotiframe" src="robotlove/robotlove.html"
                 	width="625px" height="500px">
                 	browser does not support content
                 </iframe>
 
-        	<iframe class="skyiframe" src="sky.html"
+        	<iframe class="speechiframe" src="speech-bio/index.html"
                 	width="625px" height="400px">
                 	browser does not support content
                 </iframe>
@@ -245,8 +195,8 @@
     
 			}
 
-			showiFrame(".slot", ".slotiframe");
-			showiFrame(".sky", ".skyiframe");
+			showiFrame(".robot", ".robotiframe");
+			showiFrame(".speech", ".speechiframe");
 			showiFrame(".misc", ".misciframe");
 
 			// clicking anywhere in window closes open iframe
