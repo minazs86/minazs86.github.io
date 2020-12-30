@@ -125,7 +125,7 @@ function SlotGame() {
 
     $('#play').click(function(e) {
 	// start game on play button click
-	$('h1').text();
+	$('h1').text('Rolling!');
 	game.restart();
     });
 
