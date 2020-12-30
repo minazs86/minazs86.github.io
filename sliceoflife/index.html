@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+    .viewport {
+      position: absolute;
+      width: 960px;
+      height: 300px;
+    }
+
+    .viewport:hover img {
+      opacity: 0;
+    }
+
+    .viewport:hover video {
+      opacity: 1;
+    }
+
+    img {
+		 position: absolute;
+   
+      width: 100%;
+      opacity: 1;
+   
+    }
+
+    .fade {
+      transition: opacity .5s ease-in-out;
+    }
+
+    video {
+      
+      width: 100%;
+  
+      position: absolute;
+      top: 0px;
+      opacity: 0;
+    }
+    </style>
+  </head>
+  <body>
+
+    <div class="viewport">
+      <img class="fade" src="cover.png"/>
+
+      <video id="video" class="fade" preload="auto">
+        <source src="Seq_1_medium.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+
+      <!--
+      <div class="mask">hi</div>
+      -->
+
+    </div>
+
+    <script>
+      var viewport = document.getElementsByClassName('viewport')[0]
+      var video = document.getElementById('video')
+      viewport.addEventListener('mouseover', function() { video.play() }, false);
+      viewport.addEventListener('mouseout', function() { video.pause() }, false);
+    </script>
+
+  </body>
+</html>
+

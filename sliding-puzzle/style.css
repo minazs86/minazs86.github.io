@@ -1,0 +1,44 @@
+body { 
+background-color: transparent;
+}
+
+	button{
+			
+				width:160px;
+		height:40px;
+	background-color: transparent;
+		font-family: courier;
+		color: white;
+			line-height: 12px;
+			font-size: 12px;
+			margin: 20px auto 20px auto;
+			 letter-spacing: 0.1rem;
+ cursor: pointer;	}
+
+img {position:absolute;
+
+   left: 50%;
+   width: 360px;
+   height: 360px;
+   margin-left: -180px; /* Half the width */
+z-index: -1;}
+
+.tile1, .tile2, .tile3, .tile4, .tile5, .tile6, .tile7, .tile8, .tile9 {
+  display: table-cell;
+  width: 120px;
+  height: 120px;
+  border: 1px solid white;
+  background: url('dont.png'); 
+  cursor: pointer;
+
+}
+
+.tile1 {background-position: left top;}
+.tile2 {background-position: center top;}
+.tile3 {background-position: right top;}
+.tile4 {background-position: left center;}
+.tile5 {background-position: center center;}
+.tile6 {background-position: right center;}
+.tile7 {background-position: left bottom;}
+.tile8 {background-position: center bottom;}
+.tile9 {background: none; cursor: default;}

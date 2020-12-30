@@ -1,0 +1,258 @@
+<!doctype html>
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style type="text/css">
+
+    body {
+      background-image: url('aerial-view.jpg');
+      background-repeat: no-repeat;
+      background-size: auto;
+      overflow: hidden;
+		cursor: pointer;
+    }
+
+    #timer {
+          color: white;
+          position: fixed;
+	  z-index: 10;
+	  top: 0px;
+	  font-size: 14px;
+	  font-family: arial;
+          }
+    </style>
+  </head>
+
+  <body>
+	  <div id="timer">experience expires in <span id="time">01:00</span></div>
+
+		
+			 
+    <audio id="oneTrack" src="one.wav" preload="auto"></audio>
+    <audio id="twoTrack" src="two.mp3" preload="auto"></audio>
+    <audio id="threeTrack" src="three.wav" preload="auto"></audio>
+    <audio id="fourTrack" src="four.wav" preload="auto"></audio>
+	<audio id="fiveTrack" src="five.wav" preload="auto"></audio>
+    <audio id="sixTrack" src="six.mp3" preload="auto"></audio>
+    <audio id="sevenTrack" src="seven.mp3" preload="auto"></audio>
+    <audio id="eightTrack" src="eight.wav" preload="auto"></audio>
+	<audio id="nineTrack" src="nine.mp3" preload="auto"></audio>
+
+		
+			 
+    <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.5s">
+      <div style="position: absolute; left: 925px; top: 600px; z-index: 3;"> 
+        <img src="one.png"  onclick="playOne();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.1s">
+      <div style="position: absolute; left: 990px; top: 467px; height:200px;"> 
+        <img src="two.png"  onclick="playTwo();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.1s">
+      <div style="position: absolute; left: 315px; top: 500px;"> 
+        <img src="three.png"  onclick="playThree();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.4s">
+      <div style="position: absolute; left: 576px; top: 26px;"> 
+        <img src="four.png"  onclick="playFour();" />
+      </div>
+    </div>
+		
+		<div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.3s">
+      <div style="position: absolute; left: 296px; top: 26px; z-index: -1;"> 
+        <img src="five.png"  onclick="playFive();" />
+      </div>
+    </div>
+
+			<div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.2s">
+      <div style="position: absolute; left: 196px; top: 26px;"> 
+        <img src="six.png"  onclick="playSix();" />
+      </div>
+    </div>
+		
+		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.3s">
+      <div style="position: absolute; left: 896px; top: 356px;"> 
+        <img src="seven.png"  onclick="playSeven();" />
+      </div>
+    </div>
+		
+		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.3s">
+      <div style="position: absolute; left: 256px; top: 260px;"> 
+        <img src="eight.png"  onclick="playEight();" />
+      </div>
+    </div>
+		
+		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.5s">
+      <div style="position: absolute; left: 596px; top: 160px;"> 
+        <img src="nine.png"  onclick="playNine();" />
+      </div>
+    </div>
+		
+
+
+    	
+
+
+    <script>
+document.documentElement.style.setProperty('--animate-duration', '45s');
+
+      var oneTrack = document.getElementById("oneTrack");
+      function playOne() {
+       oneTrack.volume = .7;
+        oneTrack.currentTime = 1;
+
+        if (oneTrack.paused) {
+	  oneTrack.play();
+        } else {
+	  oneTrack.pause();
+          audio.currentTime = 1;
+        }
+      };
+
+      var twoTrack = document.getElementById("twoTrack");
+      function playTwo() {
+       twoTrack.volume = .10;
+        twoTrack.currentTime = 1;
+
+        if (twoTrack.paused) {
+	  twoTrack.play();
+        } else {
+	  twoTrack.pause();
+          twoTrack.currentTime = 1;
+        }
+      };
+
+      var threeTrack = document.getElementById("threeTrack");
+      function playThree() {
+		  twoTrack.volume = .4;
+        threeTrack.currentTime = 1;
+
+        if (threeTrack.paused) {
+	  threeTrack.play();
+        } else {
+	  threeTrack.pause();
+          threeTrack.currentTime = 1;
+        }
+      };
+
+      var fourTrack = document.getElementById("fourTrack");
+      function playFour() {
+
+        fourTrack.volume = .7;
+        fourTrack.currentTime = 1;
+
+        if (fourTrack.paused) {
+	  fourTrack.play();
+        } else {
+	  fourTrack.pause();
+          fourTrack.currentTime = 1;
+        }
+      };
+
+   
+		 var fiveTrack = document.getElementById("fiveTrack");
+      function playFive() {
+
+        fiveTrack.volume = .9;
+        fiveTrack.currentTime = 1;
+
+        if (fiveTrack.paused) {
+	  fiveTrack.play();
+        } else {
+	  fiveTrack.pause();
+          fiveTrack.currentTime = 1;
+        }
+      };
+		
+		 var sixTrack = document.getElementById("sixTrack");
+      function playSix() {
+
+        sixTrack.volume = .8;
+        sixTrack.currentTime = 1;
+
+        if (sixTrack.paused) {
+	  sixTrack.play();
+        } else {
+	  sixTrack.pause();
+          sixTrack.currentTime = 1;
+        }
+      };
+		
+		 var sevenTrack = document.getElementById("sevenTrack");
+      function playSeven() {
+
+        sevenTrack.volume = .6;
+        sevenTrack.currentTime = 1;
+
+        if (sevenTrack.paused) {
+	  sevenTrack.play();
+        } else {
+	  sevenTrack.pause();
+          sevenTrack.currentTime = 1;
+        }
+      };
+		
+		 var eightTrack = document.getElementById("eightTrack");
+      function playEight() {
+
+        eightTrack.volume = .7;
+        eightTrack.currentTime = 1;
+
+        if (eightTrack.paused) {
+	  eightTrack.play();
+        } else {
+	  eightTrack.pause();
+          eightTrack.currentTime = 1;
+        }
+      };
+		
+		 var nineTrack = document.getElementById("nineTrack");
+      function playNine() {
+
+        nineTrack.volume = .8;
+        nineTrack.currentTime = 1;
+
+        if (nineTrack.paused) {
+	  nineTrack.play();
+        } else {
+	  nineTrack.pause();
+          nineTrack.currentTime = 1;
+        }
+      };
+		
+
+		 function startTimer(duration, display) {
+        var timer = duration, minutes, seconds;
+        var end =setInterval(function () {
+            minutes = parseInt(timer / 60, 10)
+            seconds = parseInt(timer % 60, 10);
+
+            minutes = minutes < 10 ? "0" + minutes : minutes;
+            seconds = seconds < 10 ? "0" + seconds : seconds;
+
+            display.textContent = minutes + ":" + seconds;
+
+            if (--timer < 0) {
+                window.top.location.href = "../hearme/hearme.html";
+                clearInterval(end);
+            }
+        }, 1000);
+    }
+
+    window.onload = function () {
+        var fiveMinutes = 60,
+            display = document.querySelector('#time');
+        startTimer(fiveMinutes, display);
+    };
+    </script>
+			 
+  </body>
+</html>

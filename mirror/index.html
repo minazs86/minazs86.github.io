@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+  <head>
+    <style>
+    .viewport {
+      position: absolute;
+      width:200px;
+      height: 300px;
+		left:300px;
+    }
+
+    .viewport:hover img {
+      opacity: 0;
+    }
+
+    .viewport:hover video {
+      opacity: 1;
+    }
+
+    img {
+		 position: absolute;
+   
+      width: 100%;
+      opacity: 1;
+   
+    }
+
+    .fade {
+      transition: opacity .5s ease-in-out;
+    }
+
+    video {
+      
+      width: 100%;
+  
+      position: absolute;
+      top: 0px;
+      opacity: 0;
+    }
+		
+			.intro {
+			
+			width: auto;
+			height:600px;
+			font-weight: normal;
+				font-size: 10px;
+				color:#F9F522 ;
+			}
+			
+			#introtext {
+	width:182px;
+		font-family: courier;
+		color: #F9F522;
+				position: relative;
+				top:100px;
+				left: 450px;
+			line-height: 12px;
+			font-size: 12px;
+			 letter-spacing: 3px;}
+
+		botton {
+			font-family: andale mono, monospace;
+			line-height: 10px;
+			font-size: 20px;
+			margin: 20px;
+			 letter-spacing: 2.5px;
+			position: absolute;
+			top:50px;
+			 cursor: pointer;	
+	}
+		
+		botton:hover {
+			color: #DCDCAC; }
+		
+    </style>
+  </head>
+  <body>
+
+    <div class="viewport">
+      <img class="fade" src="cover1.png"/>
+
+      <video id="video" class="fade" preload="auto">
+        <source src="mirror_magritte_vertical_medium_short.mp4" type="video/mp4">
+        Your browser does not support HTML5 video.
+      </video>
+
+      <!--
+      <div class="mask">hi</div>
+      -->
+
+    </div>
+
+    <script>
+      var viewport = document.getElementsByClassName('viewport')[0]
+      var video = document.getElementById('video')
+      viewport.addEventListener('mouseover', function() { video.play() }, false);
+      viewport.addEventListener('mouseout', function() { video.pause() }, false);
+    </script>
+
+	  
+	  		<div class="intro"> 
+<botton onclick="typeWriter()">MIRROR MIRROR</botton>
+		
+			
+			<p id="introtext"> </p>		
+	
+
+
+<script>
+var i = 0;
+var txt = `Mirror mirror,
+Shining bright,
+Wish I may or,
+wish I might,
+What dark geometry
+must we try,       
+To decouple  
+you and I ` ;
+var speed = 50;
+
+	
+function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("introtext").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+}
+</script>
+	  </div>
+  </body>
+</html>
+
