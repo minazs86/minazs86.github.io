@@ -11,10 +11,10 @@ var SLOT_SPEED = 15; // how many pixels per second slots roll
 var DRAW_OFFSET = 45 // how much draw offset in slot display from top
 
 var BLURB_TBL = [
-    'No win!',
-    'Good!',
-    'Excellent!',
-    'JACKPOT!'
+    'Untimely Demise',
+    'Cellular Logic!',
+    'Parallel Moralities',
+    'Universal Progress'
 ];
 
 function shuffleArray( array ) {
@@ -125,7 +125,7 @@ function SlotGame() {
 
     $('#play').click(function(e) {
 	// start game on play button click
-	$('h1').text('Rolling!');
+	$('h1').text();
 	game.restart();
     });
 

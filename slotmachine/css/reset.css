@@ -23,7 +23,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 body {
 	line-height: 1;
 	color: black;
-	background: #0C1419;
+	background: black;
 	font-family:Courier, Lucida Grande,trebuchet ms,verdana,arial,helvetica,sans-serif;
 }
 ol, ul {
