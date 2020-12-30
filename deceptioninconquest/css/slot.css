@@ -153,8 +153,7 @@ html , body
     display:block;
     text-align: center;
     color: #fff;
-    box-shadow: inset rgba(255,255,255,0.15) 0px 1px 0px;
-    border: 1px solid rgba(0,0,0,0.15);
+   
    width: 50px;
     background-position: 0px -1px;
     text-shadow:#000 0px 0px 1px;
@@ -167,8 +166,7 @@ html , body
 }
 .button.button-default:hover
 {
-    background-image:-moz-linear-gradient(#ffd539,#af861e);
-    background-image:-webkit-gradient(linear, left top, left bottom, from(#ffd539), to(#af861e));
+      color: #CFB1B1;
     cursor:pointer;
 }
 .button.button-default:active

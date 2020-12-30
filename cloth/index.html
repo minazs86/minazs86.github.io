@@ -1,0 +1,114 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!--this is an adaptation of Andrew Hoyer Experiments. He has all the rights to the work. I am simply experimenting with his experiments in canvas
+
+The MIT License (MIT)
+
+Copyright (c) 2014 Andrew Hoyer
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.-->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta name="author" content="Andrew Hoyer" />
+    <meta name="description" content="Nice simple JS cloth simulation built with the HTML5 canvas" />
+
+    <title>The Cloth Simulation</title>
+    <link rel="stylesheet" href="assets/reset.css" type="text/css" charset="utf-8">
+    <link rel="stylesheet" href="assets/styles.css" type="text/css" charset="utf-8">
+
+    <script type="text/javascript" charset="utf-8" src="lib/mootools-1.2.4-core-yc.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/fast_vector.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/fast_vector.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/canvas.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/point.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/constraint.js"></script>
+    <script type="text/javascript" charset="utf-8" src="source/cloth.js"></script>
+</head>
+<body>
+
+<audio autoplay hidden loop>
+     <source src="beat.mp3" type="audio/mpeg">
+                If you're reading this, audio isn't supported. 
+    </audio>
+
+<!--<object data="beat.mp3" type="audio/mp3" width="0" height="0">
+    <param name="filename" value="beat.mp3">
+    <param name="autostart">
+  <param name="repeat">
+</object>-->
+
+<script>
+var RhythmSample = {
+};
+
+RhythmSample.play = function() {
+  function playSound(buffer, time) {
+    var source = context.createBufferSource();
+    source.buffer = buffer;
+    source.connect(context.destination);
+    if (!source.start)
+      source.start = source.noteOn;
+    source.start(time);
+  }
+
+  var kick = BUFFERS.kick;
+  var snare = BUFFERS.snare;
+  var hihat = BUFFERS.hihat;
+
+  // We'll start playing the rhythm 100 milliseconds from "now"
+  var startTime = context.currentTime + 0.100;
+  var tempo = 80; // BPM (beats per minute)
+  var eighthNoteTime = (60 / tempo) / 2;
+
+  // Play 2 bars of the following:
+  for (var bar = 0; bar < 2; bar++) {
+    var time = startTime + bar * 8 * eighthNoteTime;
+    // Play the bass (kick) drum on beats 1, 5
+    playSound(kick, time);
+    playSound(kick, time + 4 * eighthNoteTime);
+
+    // Play the snare drum on beats 3, 7
+    playSound(snare, time + 2 * eighthNoteTime);
+    playSound(snare, time + 6 * eighthNoteTime);
+
+    // Play the hi-hat every eighthh note.
+    for (var i = 0; i < 8; ++i) {
+      playSound(hihat, time + i * eighthNoteTime);
+    }
+  }
+};
+</script>
+
+<div class="right-column">
+
+    <div class="experiment">
+        <canvas width="1000px" height="680px">
+            <strong>Sorry, It looks as though your browser does not support the canvas tag...</strong> If you can, I suggest that you try Chrome or Safari.
+        </canvas>
+        
+        <p><input type="checkbox" id="constraints" checked="checked"/> &nbsp; <input type="checkbox" id="points" /><br/></p>
+    </div>
+
+   
+</div>
+</body>
+</html>
