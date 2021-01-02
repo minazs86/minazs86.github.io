@@ -19,8 +19,8 @@ var BLURB_TBL = [
 
 function shuffleArray( array ) {
 
-    for (i = array.length - 1; i > 0; i--) {
-	var j = parseInt(Math.random() * i)
+    for (i=array.length-1; i>0; i--) {
+	var j=parseInt(Math.random()*i)
 	var tmp = array[i];
 	array[i] = array[j]
 	array[j] = tmp;
