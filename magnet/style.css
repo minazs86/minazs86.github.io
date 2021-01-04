@@ -1,7 +1,6 @@
 * {
   cursor: none;
   box-sizing: border-box;
-	
 }
 
 html {
@@ -33,7 +32,7 @@ nav {
 
 .a {
   display: inline-block;
-  color: #000;
+  color: #fff
 ;
   padding: 1rem;
   margin-right: 1rem;
