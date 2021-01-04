@@ -9,24 +9,18 @@
     body {
       background-image: url('aerial-view.jpg');
       background-repeat: no-repeat;
-      background-size: auto;
+       width: 100%;
+  height: auto;
       overflow: hidden;
 		cursor: pointer;
     }
 
-    #timer {
-          color: white;
-          position: fixed;
-	  z-index: 10;
-	  top: 0px;
-	  font-size: 14px;
-	  font-family: arial;
-          }
+   
     </style>
   </head>
 
   <body>
-	  <div id="timer">experience expires in <span id="time">01:00</span></div>
+	
 
 		
 			 
@@ -43,56 +37,65 @@
 		
 			 
     <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.5s">
-      <div style="position: absolute; left: 925px; top: 600px; z-index: 3;"> 
-        <img src="one.png"  onclick="playOne();" />
+      <div style="position: absolute; left: 925px; top: 600px; z-index: 3;  width: 100%;
+  height: auto;"> 
+        <img src="one.png"  onclick="playOne();" alt="roundtexture"/>
       </div>
     </div>
 
     <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.1s">
-      <div style="position: absolute; left: 990px; top: 467px; height:200px;"> 
-        <img src="two.png"  onclick="playTwo();" />
+      <div style="position: absolute; left: 990px; top: 467px;  width: 100%;
+  height: auto;"> 
+        <img src="two.png"  onclick="playTwo();" alt="roundtexture"/>
       </div>
     </div>
 
     <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.1s">
-      <div style="position: absolute; left: 315px; top: 500px;"> 
-        <img src="three.png"  onclick="playThree();" />
+      <div style="position: absolute; left: 315px; top: 500px;  width: 100%;
+  height: auto; "> 
+        <img src="three.png"  onclick="playThree();" alt="roundtexture"/>
       </div>
     </div>
 
     <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.4s">
-      <div style="position: absolute; left: 576px; top: 26px;"> 
-        <img src="four.png"  onclick="playFour();" />
+      <div style="position: absolute; left: 576px; top: 26px;  width: 100%;
+  height: auto;"> 
+        <img src="four.png"  onclick="playFour();" alt="roundtexture"/>
       </div>
     </div>
 		
 		<div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.3s">
-      <div style="position: absolute; left: 296px; top: 26px; z-index: -1;"> 
-        <img src="five.png"  onclick="playFive();" />
+      <div style="position: absolute; left: 296px; top: 26px; z-index: -1;  width: 100%;
+  height: auto;"> 
+        <img src="five.png"  onclick="playFive();" alt="roundtexture"/>
       </div>
     </div>
 
 			<div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.2s">
-      <div style="position: absolute; left: 196px; top: 26px;"> 
-        <img src="six.png"  onclick="playSix();" />
+      <div style="position: absolute; left: 196px; top: 26px;  width: 100%;
+  height: auto;"> 
+        <img src="six.png"  onclick="playSix();" alt="roundtexture"/>
       </div>
     </div>
 		
 		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.3s">
-      <div style="position: absolute; left: 896px; top: 356px;"> 
-        <img src="seven.png"  onclick="playSeven();" />
+      <div style="position: absolute; left: 896px; top: 356px;  width: 100%;
+  height: auto;"> 
+        <img src="seven.png"  onclick="playSeven();" alt="roundtexture" />
       </div>
     </div>
 		
 		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.3s">
-      <div style="position: absolute; left: 256px; top: 260px;"> 
-        <img src="eight.png"  onclick="playEight();" />
+      <div style="position: absolute; left: 256px; top: 260px;  width: 100%;
+  height: auto;"> 
+        <img src="eight.png"  onclick="playEight();" alt="roundtexture"/>
       </div>
     </div>
 		
 		<div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.5s">
-      <div style="position: absolute; left: 596px; top: 160px;"> 
-        <img src="nine.png"  onclick="playNine();" />
+      <div style="position: absolute; left: 596px; top: 160px;  width: 100%;
+  height: auto;"> 
+        <img src="nine.png"  onclick="playNine();" alt="roundtexture"/>
       </div>
     </div>
 		
@@ -229,29 +232,7 @@ document.documentElement.style.setProperty('--animate-duration', '45s');
       };
 		
 
-		 function startTimer(duration, display) {
-        var timer = duration, minutes, seconds;
-        var end =setInterval(function () {
-            minutes = parseInt(timer / 60, 10)
-            seconds = parseInt(timer % 60, 10);
-
-            minutes = minutes < 10 ? "0" + minutes : minutes;
-            seconds = seconds < 10 ? "0" + seconds : seconds;
-
-            display.textContent = minutes + ":" + seconds;
-
-            if (--timer < 0) {
-                window.top.location.href = "../hearme/hearme.html";
-                clearInterval(end);
-            }
-        }, 1000);
-    }
-
-    window.onload = function () {
-        var fiveMinutes = 60,
-            display = document.querySelector('#time');
-        startTimer(fiveMinutes, display);
-    };
+	
     </script>
 			 
   </body>

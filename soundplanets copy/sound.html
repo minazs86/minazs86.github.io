@@ -1,0 +1,123 @@
+<html>
+  <head>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+    <style type="text/css">
+
+    body {
+      background-image: url('aerial-view.jpg');
+      background-repeat: no-repeat;
+      background-size: auto;
+      overflow: hidden;
+    }
+
+    #timer {
+          color: white;
+          position: fixed;
+	  z-index: 10;
+	  top: 0px;
+	  font-size: 10px;
+	  font-family: arial;
+          }
+    </style>
+  </head>
+
+  <body>
+    <div id="timer">page expires in <span id="time">01:00</div>
+
+    <audio id="descendingShepard" src="descendingshepard.ogg" preload="auto"></audio>
+    <audio id="ascendingShepard" src="ascendingshepard.wav" preload="auto"></audio>
+    <audio id="leftPan" src="leftpanambient.wav" preload="auto"></audio>
+    <audio id="rightPan" src="rightpan.wav" preload="auto"></audio>
+
+    <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.5s">
+      <div style="position: absolute; left: 325px; top: 11px;"> 
+        <img src="one.png" width="590" height="125" onclick="playDescending();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.1s">
+      <div style="position: absolute; left: 800px; top: 27px;"> 
+        <img src="two.png" width="133" height="590" onclick="playRight();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeY animate__infinite infinite animate__delay-.1s">
+      <div style="position: absolute; left: 315px; top: 500px;"> 
+        <img src="three.png" width="590" height="123" onclick="playAscending();" />
+      </div>
+    </div>
+
+    <div class="animate__animated animate__shakeX animate__infinite infinite animate__delay-.4s">
+      <div style="position: absolute; left: 296px; top: 26px;"> 
+        <img src="four.png" width="130" height="590" onclick="playLeft();" />
+      </div>
+    </div>
+
+    <div style="position: absolute; left: 455px; top: 160px;"> 
+        <img src="five.png" width="330" height="330" />
+    </div>
+
+
+
+    <script>
+document.documentElement.style.setProperty('--animate-duration', '25s');
+
+      var descendingShepard = document.getElementById("descendingShepard");
+      function playDescending() {
+        descendingShepard.volume = .7;
+        descendingShepard.currentTime = 6;
+
+        if (descendingShepard.paused) {
+	  descendingShepard.play();
+        } else {
+	  descendingShepard.pause();
+          audio.currentTime = 6;
+        }
+      };
+
+      var ascendingShepard = document.getElementById("ascendingShepard");
+      function playAscending() {
+        ascendingShepard.volume = .12;
+        ascendingShepard.currentTime = 6;
+
+        if (ascendingShepard.paused) {
+	  ascendingShepard.play();
+        } else {
+	  ascendingShepard.pause();
+          ascendingShepard.currentTime = 6;
+        }
+      };
+
+      var leftPan = document.getElementById("leftPan");
+      function playLeft() {
+        leftPan.currentTime = 100;
+
+        if (leftPan.paused) {
+	  leftPan.play();
+        } else {
+	  leftPan.pause();
+          leftPan.currentTime = 100;
+        }
+      };
+
+      var rightPan = document.getElementById("rightPan");
+      function playRight() {
+
+        rightPan.volume = .6;
+        rightPan.currentTime = 12;
+
+        if (rightPan.paused) {
+	  rightPan.play();
+        } else {
+	  rightPan.pause();
+          rightPan.currentTime = 12;
+        }
+      };
+
+   
+
+    </script>
+  </body>
+</html>
