@@ -16,8 +16,8 @@ a:hover {
 
 button {
   position: fixed;
-	top: 200px;
-	left: 240px;
+	top: 400px;
+	left: 340px;
 	border-radius: 25px;
 
 	
@@ -37,7 +37,7 @@ h1 {
   
 	 position: fixed;
 	top:200px;
-	left: 240px;
+	left: 300px;
 	font-family: courier;
 		color: white;
 			line-height: 12px;
@@ -51,7 +51,7 @@ h1 {
 	
   background-color: #e1eef6;
   position: fixed;
-  top: 80px;;
+  top: 160px;;
   left: 340px;
   width: 60%;
   height: 90%;

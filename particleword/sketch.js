@@ -10,13 +10,13 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 
   points = font.textToPoints(
-    'shadowplay', 0, 0, 200, {
+    'shadowplay', 0, 0, 100, {
       sampleFactor: 1,
       simplifyThreshold: 0
     });
 
   bounds = font.textBounds(
-    'shadowplay', 0, 0, 200);
+    'shadowplay', 0, 0, 100);
 
   cursor(CROSS);
   fill(255, 127);
