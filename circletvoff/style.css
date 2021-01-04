@@ -16,8 +16,8 @@ a:hover {
 
 button {
   position: fixed;
-	top:50%;
-	left: 50%;
+	top: 300px;
+	left: 340px;
 	border-radius: 25px;
 	vertical-align: middle;
 	
@@ -36,8 +36,8 @@ button {
 h1 {
   
 	 position: fixed;
-	top:30%;
-	left: 20%;
+	top:300px;
+	left: 340px;
 	font-family: courier;
 		color: white;
 			line-height: 12px;
@@ -51,8 +51,8 @@ h1 {
 	
   background-color: #e1eef6;
   position: absolute;
-  top: 30%;
-  left: 18%;
+  top: 300px;;
+  left: 340px;
   width: 50%;
   height: 100%;
   transform: translate(-50%, -50%);
