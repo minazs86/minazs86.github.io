@@ -61,7 +61,8 @@ class TextScramble {
 // ——————————————————————————————————————————————————
 
 const phrases = [
-
+'',
+'',
 'Science originates with speculations.',
 'and it has reconciled with coincidence long ago,',
 'but it is still in denial. ',
@@ -72,7 +73,11 @@ const phrases = [
 'Truth begins in lies.',
 'and, lying is a creative process.',
 'Is life a grand stupid gesture?',
-'Whatever the answer is we do not have it.',];
+'Whatever the answer is we do not have it.',
+'',
+'',
+'',
+''];
 
 
 const el = document.querySelector('.text');
