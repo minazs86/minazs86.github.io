@@ -1,8 +1,10 @@
 body {
   font-family: sans-serif;
   background-color: black;
+	width: 100%;
+	height: auto;
+				
 
-	align-items: center;
 }
 
 a {
@@ -32,25 +34,25 @@ button {
 
 
 h1 {
-  text-align: center;
-	align-items: center;
+  
 	 position: fixed;
-	top:50%;
-	left: 50%;
+	top:30%;
+	left: 20%;
 	font-family: courier;
 		color: white;
 			line-height: 12px;
 			font-size: 12px;
 		
 			 letter-spacing: 0.1rem;
+	z-index: -1;
 }
 
 .screen {
-	vertical-align: middle;
+	
   background-color: #e1eef6;
   position: absolute;
-  top: 50%;
-  left: 50%;
+  top: 30%;
+  left: 18%;
   width: 50%;
   height: 100%;
   transform: translate(-50%, -50%);
@@ -62,4 +64,5 @@ h1 {
   background-size: cover;
   background-image: url("circle.gif");
   color: #e1eef6;
+	z-index: 4;
 }
