@@ -6,13 +6,42 @@ klynt.data = {
             "backgroundColor": "rgba(0,0,0,1)",
             "y": 421.55,
             "x": 806.4,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "B468C808-3714-1E65-5AF7-CC265E554553",
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "overlayVolume": 1,
+                    "loop": false,
+                    "left": "0.00",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "01:07.11",
+                    "right": "0.00",
+                    "duration": "01:07.11",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
             "hideInMindmap": false,
             "size": "medium",
             "iframes": [
                 {
                     "scales": true,
                     "id": "1923BFAD-C215-2D61-4C4A-C01D25992AE6",
-                    "left": "20.84",
+                    "left": "26.46",
                     "width": "1040.66",
                     "transitionIn": {
                         "duration": "2",
@@ -25,13 +54,13 @@ klynt.data = {
                     },
                     "databegin": "00:03.73",
                     "duration": "00:49.95",
-                    "zIndex": 0,
-                    "top": "3.07",
+                    "zIndex": 1,
+                    "top": "27.40",
                     "height": "584.69",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/webcampixel/\" style=\"border: none;\" height=\"545px\" width=\"970px\" allow=\"camera *;microphone *\" base target=\"_self\" ></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/webcampixel/index.html\" frameborder=\"0\" allow=\"camera *;microphone *\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 66.11070978168753,
@@ -50,7 +79,7 @@ klynt.data = {
                     "dataend": "01:07.11",
                     "width": "47.00",
                     "duration": "01:07.11",
-                    "zIndex": 4,
+                    "zIndex": 5,
                     "top": "181.00",
                     "height": "47.00",
                     "link": {
@@ -83,7 +112,7 @@ klynt.data = {
                     },
                     "databegin": "00:02.46",
                     "duration": "00:49.95",
-                    "zIndex": 1,
+                    "zIndex": 2,
                     "top": "367.38",
                     "height": "101.53",
                     "type": "txt-Paragraph",
@@ -97,7 +126,7 @@ klynt.data = {
                     "id": "9F527528-E019-25E3-970E-C01E7C9E0F2D",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp;&nbsp;OBJ-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">ECTS</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; ARE CL-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;OSER</span></span></p>",
                     "left": "89.09",
-                    "right": "635.07",
+                    "width": "341.83",
                     "name": "Text 1",
                     "dataend": "00:49.95",
                     "transitionOut": {
@@ -106,7 +135,7 @@ klynt.data = {
                     },
                     "databegin": "00:00.00",
                     "duration": "00:49.95",
-                    "zIndex": 2,
+                    "zIndex": 3,
                     "top": "220.16",
                     "height": "303.61",
                     "type": "txt-Title-1",
@@ -152,7 +181,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/starshells/\" style=\"border: none;\" height=\"700px\" width=\"980px\" allow=\"camera *;microphone *\" base target=\"_self\" ></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/starshells/index.html\" frameborder=\"0\" allow=\"camera *;microphone *\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 267.4225196755467,
@@ -198,7 +227,7 @@ klynt.data = {
                     "scales": true,
                     "id": "4A517CDC-EE60-E6F0-47D4-C05F691335D7",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp;-F.U.E.&nbsp;</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-size: 11pt;\"><span style=\"font-family: 'Droid Sans';\"> (fucked up everything)</span></span></p>",
-                    "left": "22.27",
+                    "left": "483.27",
                     "width": "341.84",
                     "name": "Text 1",
                     "dataend": "00:16.18",
@@ -209,7 +238,7 @@ klynt.data = {
                     "databegin": "00:00.00",
                     "duration": "00:16.18",
                     "zIndex": 1,
-                    "top": "27.87",
+                    "top": "168.87",
                     "height": "418.03",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -221,7 +250,7 @@ klynt.data = {
                     "scales": true,
                     "id": "8CAE980A-047C-3D3C-EEC9-C05F69143DB9",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Is the chaos fucked up, or is it just me?</em></span></p>",
-                    "left": "68.79",
+                    "left": "349.79",
                     "width": "330.74",
                     "name": "Text 2",
                     "dataend": "00:16.18",
@@ -232,7 +261,7 @@ klynt.data = {
                     "databegin": "00:02.25",
                     "duration": "00:13.93",
                     "zIndex": 2,
-                    "top": "451.16",
+                    "top": "373.16",
                     "height": "146.52",
                     "type": "txt-Paragraph",
                     "transitionIn": {
@@ -246,280 +275,19 @@ klynt.data = {
             "tags": "starshells",
             "color": "rgba(240,120,24,1)"
         },
-        "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": {
-            "buttons": [
-                {
-                    "scales": false,
-                    "id": "4F2E4F1D-9C5C-8309-0933-C1ED70F3CB67",
-                    "type": "klynt-arrow-right",
-                    "right": "16.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "00:30.88",
-                    "width": "56.00",
-                    "duration": "00:25.87",
-                    "zIndex": 9,
-                    "top": "16.00",
-                    "height": "56.00",
-                    "link": {
-                        "controlDX": 0.1571926401292094,
-                        "id": "444F80FC-C4B1-2615-2334-C1ED70F4C44F",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": 1.175761125993822,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "28E30679-51F2-D943-8D33-B2245BEE73BA"
-                    },
-                    "databegin": "00:05.01"
-                }
-            ],
-            "id": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
-            "title": "Residue Is What Is Not There Anymore",
-            "backgroundColor": "rgba(12,20,25,1)",
-            "y": 397.65,
-            "x": -17.150000000000006,
-            "thumbnail": "Medias/Thumbnails/mirror_magritte_vertical_medium_short.mp4.jpg",
-            "videos": [
-                {
-                    "scales": true,
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/mirror_magritte_vertical_medium_short.mp4"
-                        }
-                    ],
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "top": "73.45",
-                    "id": "E3D97C01-92DE-476A-E6E2-A8BC470AB30D",
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
-                    "loop": false,
-                    "left": "419.42",
-                    "width": "296.42",
-                    "name": "mirror_magritte_vertical_medium_short.mp4",
-                    "dataend": "00:25.55",
-                    "mediaWidth": 1216,
-                    "databegin": "00:03.00",
-                    "duration": "00:22.55",
-                    "zIndex": 7,
-                    "mediaHeight": 2160,
-                    "height": "526.52",
-                    "player": false,
-                    "volume": 1,
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "autoplay": true,
-                    "poster": "Medias/Posters/mirror_magritte_vertical_medium_short.mp4.jpg"
-                }
-            ],
+        "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D": {
+            "id": "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D",
+            "title": "Familiar Anarchy",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": 1210.3,
+            "x": 1863.4,
             "hideInMindmap": false,
             "size": "medium",
-            "duration": 29.875365595004414,
+            "duration": 30,
             "hideThumbnailInMindmap": false,
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "5DAD7AD8-6DE9-CC67-0661-C737D370EF85",
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "overlayVolume": 1,
-                    "loop": true,
-                    "left": "0.00",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:30.88",
-                    "right": "0.00",
-                    "duration": "00:30.88",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "5C550D36-6DD0-5210-C37A-C05AE2E1CFB7",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Un miroir<br /><br /></em></span></p>",
-                    "left": "834.98",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:13.17",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:10.85",
-                    "duration": "00:02.32",
-                    "zIndex": 1,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "491E31D8-C36E-2410-8492-C05B48FFAD2B",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Une jumelle<br /><br /></em></span></p>",
-                    "left": "835.97",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:15.39",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:13.17",
-                    "duration": "00:02.22",
-                    "zIndex": 2,
-                    "top": "259.92",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "0D11AF11-ABA5-413F-79BC-C05B879FAD26",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Un reflet<br /><br /><br /></em></span></p>",
-                    "left": "836.91",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:17.71",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:15.39",
-                    "duration": "00:02.32",
-                    "zIndex": 3,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "732184B4-FE50-5A17-EC0E-C05BCD68F960",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>moi-m&ecirc;me</em></span></p>",
-                    "left": "836.91",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:19.83",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:17.71",
-                    "duration": "00:02.12",
-                    "zIndex": 4,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "5881C29A-D51E-F91B-B7E0-C056C329E0C2",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Ceci n'est pas ...<br /><br /></em></span></p>",
-                    "left": "750.92",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:19.83",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:07.88",
-                    "duration": "00:11.95",
-                    "zIndex": 5,
-                    "top": "236.71",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "A1A1DF27-7718-93CB-7A7F-C056C3292319",
-                    "text": "<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; RESI-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;DUE </span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; &nbsp; IS </span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; WHAT </span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;IS NOT</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\"> &nbsp; &nbsp; THE-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\"> &nbsp; &nbsp; &nbsp; &nbsp;RE </span></span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp;ANY- </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;MORE</span></p>",
-                    "left": "49.28",
-                    "width": "287.74",
-                    "name": "Text 1",
-                    "dataend": "00:12.29",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.00",
-                    "duration": "00:12.29",
-                    "zIndex": 6,
-                    "top": "49.08",
-                    "height": "565.85",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "94593AEE-6F01-CEED-3F4E-A8BDB81C0A17",
-                    "text": "<p><span style=\"font-family: 'Droid Sans'; font-size: 10pt; background-color: #bbbbbb;\">Mirror mirror </span><br /><span style=\"font-family: 'Droid Sans'; font-size: 10pt; background-color: #bbbbbb;\">Shining bright, </span><br /><span style=\"font-family: 'Droid Sans'; font-size: 10pt; background-color: #bbbbbb;\">Wish I may or wish I might</span><br /><span style=\"font-family: 'Droid Sans'; font-size: 10pt; background-color: #bbbbbb;\">What dark geometry must we try </span><br /><span style=\"font-family: 'Droid Sans'; font-size: 10pt; background-color: #bbbbbb;\">To decouple you and I</span></p>",
-                    "left": "697.00",
-                    "width": "400.00",
-                    "name": "Text 1",
-                    "dataend": "00:30.88",
-                    "databegin": "00:23.66",
-                    "duration": "00:07.22",
-                    "zIndex": 8,
-                    "top": "455.00",
-                    "height": "263.00",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "Ceci n'est pas ...\nUn miroir\nUne jumelle\nUn reflet\nmoi-même\n",
+            "description": "Mutation ensures survival. Chaos is life. How do I swim in it?",
             "hideTitleInMindmap": false,
-            "tags": "mirrormirror",
+            "tags": "distortedcam",
             "color": "rgba(228,95,86,1)"
         },
         "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B": {
@@ -582,28 +350,28 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(255,255,255,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/magnet/\" style=\"border: none;\" height=\"600px\" width=\"1000px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/magnet/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 179.72272286370557,
             "hideThumbnailInMindmap": false,
             "buttons": [
                 {
-                    "scales": false,
+                    "scales": true,
                     "id": "3ADCD7EC-F1D2-EE92-1645-C1F09EC7A050",
                     "type": "klynt-arrow-right",
-                    "right": "16.00",
+                    "right": "13.37",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "label": "",
                     "dataend": "03:00.72",
-                    "width": "56.00",
+                    "width": "46.80",
                     "duration": "02:41.40",
                     "zIndex": 4,
-                    "top": "194.00",
-                    "height": "56.00",
+                    "top": "162.12",
+                    "height": "46.80",
                     "link": {
                         "controlDX": 0.0940627031464846,
                         "id": "E97DE413-BB76-5C03-FE03-C1F09ECCD795",
@@ -624,7 +392,7 @@ klynt.data = {
                     "scales": true,
                     "id": "D44361FA-EEE6-4D56-9AA1-C0940C375B06",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; COMME-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;<span style=\"background-color: #ffffff;\">&nbsp; &nbsp; &nbsp;</span> &nbsp; &nbsp; &nbsp; &nbsp;MORA-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TIVE </span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; CAMOU-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; FLAGE</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;</span></span></p>",
-                    "left": "181.04",
+                    "left": "184.04",
                     "width": "341.84",
                     "name": "Text 1",
                     "dataend": "00:10.66",
@@ -635,7 +403,7 @@ klynt.data = {
                     "databegin": "00:00.00",
                     "duration": "00:10.66",
                     "zIndex": 1,
-                    "top": "17.84",
+                    "top": "87.84",
                     "height": "418.03",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -703,7 +471,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/zoominadam/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/zoominadam/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 59.8337055156603,
@@ -797,53 +565,291 @@ klynt.data = {
             "tags": "adam",
             "color": "rgba(228,95,86,1)"
         },
-        "9F401E1D-B50B-C593-E26C-A8B987A00393": {
-            "id": "9F401E1D-B50B-C593-E26C-A8B987A00393",
-            "title": "Mayhem Explored",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "y": 16.10000000000001,
-            "x": -280.01666666666665,
-            "thumbnail": "Medias/Thumbnails/Seq_1_medium.mp4.jpg",
-            "videos": [
+        "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": {
+            "buttons": [
                 {
-                    "id": "A16EC12B-DB4E-4C3E-08AD-A8B9F5625B5A",
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/Seq_1_medium.mp4"
-                        }
-                    ],
-                    "volume": 1,
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
-                    "loop": false,
-                    "databegin": "00:00.00",
-                    "name": "Seq_1_medium.mp4",
-                    "autoplay": true,
-                    "dataend": "03:05.56",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 1920,
-                    "verticalAlign": "middle",
-                    "duration": "03:05.56",
-                    "zIndex": 3,
-                    "poster": "Medias/Posters/Seq_1_medium.mp4.jpg",
-                    "player": false,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
+                    "scales": false,
+                    "id": "4F2E4F1D-9C5C-8309-0933-C1ED70F3CB67",
+                    "type": "klynt-arrow-right",
+                    "right": "16.00",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "mediaHeight": 1080
+                    "label": "",
+                    "dataend": "00:50.97",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "56.00",
+                    "duration": "00:32.55",
+                    "zIndex": 10,
+                    "top": "16.00",
+                    "height": "56.00",
+                    "link": {
+                        "controlDX": 0.1571926401292094,
+                        "id": "444F80FC-C4B1-2615-2334-C1ED70F4C44F",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": 1.175761125993822,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "28E30679-51F2-D943-8D33-B2245BEE73BA"
+                    },
+                    "databegin": "00:18.42"
+                }
+            ],
+            "id": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
+            "title": "Familiar Anarchy",
+            "backgroundColor": "rgba(12,20,25,1)",
+            "y": 397.65,
+            "x": -17.150000000000006,
+            "thumbnail": "Medias/Thumbnails/mirror_magritte_vertical_medium_short.mp4.jpg",
+            "videos": [
+                {
+                    "scales": true,
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/mirror_magritte_vertical_medium_short.mp4"
+                        }
+                    ],
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "top": "73.45",
+                    "id": "E3D97C01-92DE-476A-E6E2-A8BC470AB30D",
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": false,
+                    "left": "419.42",
+                    "width": "296.42",
+                    "name": "mirror_magritte_vertical_medium_short.mp4",
+                    "dataend": "00:40.97",
+                    "mediaWidth": 1216,
+                    "databegin": "00:18.42",
+                    "duration": "00:22.55",
+                    "zIndex": 8,
+                    "mediaHeight": 2160,
+                    "height": "526.52",
+                    "player": false,
+                    "volume": 1,
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "autoplay": true,
+                    "poster": "Medias/Posters/mirror_magritte_vertical_medium_short.mp4.jpg"
                 }
             ],
             "hideInMindmap": false,
-            "size": "large",
-            "duration": 207.6451187710137,
+            "size": "medium",
+            "duration": 49.97446207747697,
             "hideThumbnailInMindmap": false,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "5DAD7AD8-6DE9-CC67-0661-C737D370EF85",
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
+                    "overlayVolume": 1,
+                    "loop": true,
+                    "left": "0.00",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
+                        }
+                    ],
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "00:50.97",
+                    "right": "0.00",
+                    "duration": "00:50.97",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "5C550D36-6DD0-5210-C37A-C05AE2E1CFB7",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Un miroir<br /><br /></em></span></p>",
+                    "left": "834.98",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:26.65",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:22.74",
+                    "duration": "00:03.91",
+                    "zIndex": 1,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "491E31D8-C36E-2410-8492-C05B48FFAD2B",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Une jumelle<br /><br /></em></span></p>",
+                    "left": "835.97",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:30.58",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:26.65",
+                    "duration": "00:03.93",
+                    "zIndex": 2,
+                    "top": "259.92",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "0D11AF11-ABA5-413F-79BC-C05B879FAD26",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Un reflet<br /><br /><br /></em></span></p>",
+                    "left": "836.91",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:34.26",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:30.58",
+                    "duration": "00:03.68",
+                    "zIndex": 3,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "732184B4-FE50-5A17-EC0E-C05BCD68F960",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>moi-m&ecirc;me</em></span></p>",
+                    "left": "836.91",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:38.50",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:34.26",
+                    "duration": "00:04.24",
+                    "zIndex": 4,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "5881C29A-D51E-F91B-B7E0-C056C329E0C2",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Ceci n'est pas ...<br /><br /></em></span></p>",
+                    "left": "750.92",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:38.50",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:20.26",
+                    "duration": "00:18.24",
+                    "zIndex": 5,
+                    "top": "236.71",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "3AF7E3CC-916B-E1A1-84C4-CE937199A811",
+                    "text": "<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;<span style=\"background-color: #336699;\">&nbsp;</span> &nbsp;&nbsp;</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp;-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">FAMI-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">LIAR</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp;ANA-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\"><span style=\"background-color: #ff6600;\">&nbsp;&nbsp;&nbsp;</span>&nbsp; RCHY</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp;</span></p>",
+                    "left": "423.28",
+                    "width": "287.74",
+                    "name": "Text 1",
+                    "dataend": "00:43.62",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:09.97",
+                    "duration": "00:33.65",
+                    "zIndex": 7,
+                    "top": "77.08",
+                    "height": "565.85",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "94593AEE-6F01-CEED-3F4E-A8BDB81C0A17",
+                    "text": "<p><span style=\"font-size: large; color: #66ff00;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Mirror mirror </em></span></span></p>\n<p><span style=\"font-size: large; color: #66ff00;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em><br />Shining bright, </em></span></span></p>\n<p><span style=\"font-size: large; color: #66ff00;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em><br />Wish I may or wish I might</em></span></span></p>\n<p><span style=\"font-size: large; color: #66ff00;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em><br />What dark geometry must we try </em></span></span></p>\n<p><span style=\"font-size: large; color: #66ff00;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em><br />To decouple you and I</em></span></span></p>\n<p><span style=\"color: #66ff00;\">&nbsp;</span></p>\n<p><span style=\"color: #66ff00;\">&nbsp;</span></p>\n<p>&nbsp;</p>",
+                    "left": "317.00",
+                    "width": "400.00",
+                    "name": "Text 1",
+                    "dataend": "00:09.97",
+                    "transitionOut": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.59",
+                    "duration": "00:09.38",
+                    "zIndex": 9,
+                    "top": "252.00",
+                    "height": "263.00",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "Ceci n'est pas ...\nUn miroir\nUne jumelle\nUn reflet\nmoi-même\n",
+            "hideTitleInMindmap": false,
+            "tags": "mirrormirror",
+            "color": "rgba(228,95,86,1)"
+        },
+        "9F401E1D-B50B-C593-E26C-A8B987A00393": {
             "buttons": [
                 {
                     "scales": false,
@@ -900,6 +906,81 @@ klynt.data = {
                         "targetSequence": "D6939662-0785-2FBF-4D56-A8C2A1F9B075"
                     },
                     "type": "klynt-arrow-bottom"
+                }
+            ],
+            "id": "9F401E1D-B50B-C593-E26C-A8B987A00393",
+            "title": "Mayhem Explored",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": 16.10000000000001,
+            "x": -280.01666666666665,
+            "thumbnail": "Medias/Thumbnails/Seq_1_medium.mp4.jpg",
+            "videos": [
+                {
+                    "id": "A16EC12B-DB4E-4C3E-08AD-A8B9F5625B5A",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/Seq_1_medium.mp4"
+                        }
+                    ],
+                    "volume": 1,
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": false,
+                    "databegin": "00:00.00",
+                    "name": "Seq_1_medium.mp4",
+                    "autoplay": true,
+                    "dataend": "03:05.56",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1920,
+                    "verticalAlign": "middle",
+                    "duration": "03:05.56",
+                    "zIndex": 3,
+                    "poster": "Medias/Posters/Seq_1_medium.mp4.jpg",
+                    "player": true,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaHeight": 1080
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "large",
+            "duration": 207.6451187710137,
+            "hideThumbnailInMindmap": false,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "5434F50D-6050-4D64-0E39-CE8250C889AA",
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "overlayVolume": 1,
+                    "loop": false,
+                    "left": "0.00",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "databegin": "03:05.56",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "04:28.21",
+                    "right": "0.00",
+                    "duration": "01:22.65",
+                    "zIndex": 1,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 0.9,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
                 }
             ],
             "texts": [
@@ -1044,7 +1125,7 @@ klynt.data = {
                     "id": "3D9F4462-F3CD-3A95-1DEA-C07038A6C069",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\"> REVER-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;SED </span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp;HIER-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; ARCHY</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">-</span></p>",
                     "left": "75.13",
-                    "right": "649.03",
+                    "width": "341.84",
                     "name": "Text 1",
                     "dataend": "00:55.17",
                     "transitionOut": {
@@ -1055,7 +1136,7 @@ klynt.data = {
                     "duration": "00:23.13",
                     "zIndex": 18,
                     "top": "58.72",
-                    "height": "418.03",
+                    "height": "418.04",
                     "type": "txt-Title-1",
                     "transitionIn": {
                         "duration": "1",
@@ -1624,7 +1705,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/madlib/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/madlib/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 183.7116365647496,
@@ -1666,7 +1747,7 @@ klynt.data = {
                     "scales": true,
                     "id": "6065F3C9-2C2C-EF85-9B49-C0658AB27352",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;-GAME</span></span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; THEO-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; &nbsp; RY </span></span></p>",
-                    "left": "49.30",
+                    "left": "146.89",
                     "width": "258.58",
                     "name": "Text 1",
                     "dataend": "00:23.30",
@@ -1677,7 +1758,7 @@ klynt.data = {
                     "databegin": "00:00.00",
                     "duration": "00:23.30",
                     "zIndex": 1,
-                    "top": "42.08",
+                    "top": "162.19",
                     "height": "416.36",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -1726,7 +1807,7 @@ klynt.data = {
                 {
                     "scales": true,
                     "id": "1E58B135-8BFC-8747-8627-A8C315AEDAD5",
-                    "left": "257.80",
+                    "left": "113.95",
                     "width": "1041.00",
                     "transitionIn": {
                         "duration": "2",
@@ -1740,12 +1821,12 @@ klynt.data = {
                     "databegin": "00:03.73",
                     "duration": "00:49.95",
                     "zIndex": 0,
-                    "top": "-16.75",
+                    "top": "-41.50",
                     "height": "585.00",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/truthmachine\" style=\"border: none;\" height=\"545px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe src=\"http://shadowplay.space/truthmachine\" style=\"border: none;\" height=\"545px\" width=\"970px\"></iframe>\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/truthmachine/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 65.70950632696506,
@@ -1787,7 +1868,7 @@ klynt.data = {
                     "scales": true,
                     "id": "D5E9EC1B-4814-94C0-971E-B2302E404E76",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;QUANTI</span><span class=\"Apple-style-span\" style=\"font-family: 'Droid Sans';\">-</span></span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"font-family: 'Droid Sans'; color: #ff3300; background-color: #33ff00;\">&nbsp;&nbsp; &nbsp; &nbsp; FIABLE</span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"font-family: 'Droid Sans'; color: #ff3300; background-color: #33ff00;\">&nbsp;OUT-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\"><span style=\"background-color: #33ff00;\">&nbsp;&nbsp; COMES</span><br /></span></p>",
-                    "left": "61.57",
+                    "left": "156.99",
                     "width": "341.84",
                     "name": "Text 1",
                     "dataend": "00:49.95",
@@ -1798,7 +1879,7 @@ klynt.data = {
                     "databegin": "00:00.00",
                     "duration": "00:49.95",
                     "zIndex": 1,
-                    "top": "71.35",
+                    "top": "158.44",
                     "height": "303.61",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -1810,14 +1891,14 @@ klynt.data = {
                     "scales": true,
                     "id": "53BD658F-FBF3-3D2A-7F6A-B234212B185B",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Do we kneel to arrogance or innocence when we accept interpreted data as truth? Can the spectrum of possibility be reduced to a multiple choice question?</em></span></p>",
-                    "left": "157.46",
+                    "left": "573.15",
                     "width": "343.30",
                     "name": "Text 2",
                     "dataend": "01:06.71",
                     "databegin": "00:15.86",
                     "duration": "00:50.85",
                     "zIndex": 2,
-                    "top": "333.81",
+                    "top": "464.15",
                     "height": "64.37",
                     "type": "txt-Paragraph",
                     "transitionIn": {
@@ -2046,7 +2127,7 @@ klynt.data = {
                         "backgroundColor": "rgba(12,20,25,0.3)",
                         "opacity": 0.6
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/particleword/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/particleword/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 205.72424782874313,
@@ -3166,7 +3247,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/wordscramble/\" style=\"border: none;\" height=\"700px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/wordscramble/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 159.77815435848547,
@@ -3246,7 +3327,7 @@ klynt.data = {
                     "scales": true,
                     "id": "7AAE593C-887A-D2A6-B8AC-C0520C5AB60F",
                     "left": "319.35",
-                    "width": "700.00",
+                    "width": "722.57",
                     "transitionIn": {
                         "duration": "2",
                         "type": "fade"
@@ -3256,11 +3337,11 @@ klynt.data = {
                     "duration": "00:50.96",
                     "zIndex": 3,
                     "top": "80.31",
-                    "height": "426.57",
+                    "height": "442.45",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/sliding-puzzle/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/sliding-puzzle/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 59.898263859613785,
@@ -3278,7 +3359,7 @@ klynt.data = {
                     "label": "",
                     "dataend": "01:00.90",
                     "width": "47.00",
-                    "duration": "00:30.00",
+                    "duration": "00:40.91",
                     "zIndex": 4,
                     "top": "15.00",
                     "height": "47.00",
@@ -3294,7 +3375,7 @@ klynt.data = {
                         "color": "rgba(228,95,86,1)",
                         "targetSequence": "F5029D57-06F1-E478-D4D1-B21BBCD2D858"
                     },
-                    "databegin": "00:29.90"
+                    "databegin": "00:19.99"
                 }
             ],
             "texts": [
@@ -3348,6 +3429,7 @@ klynt.data = {
             "backgroundColor": "rgba(0,0,0,1)",
             "y": 704.85,
             "x": 625.9,
+            "thumbnail": "Medias/Thumbnails/aerial-view.jpg.jpg",
             "hideInMindmap": false,
             "size": "medium",
             "iframes": [
@@ -3367,16 +3449,41 @@ klynt.data = {
                     },
                     "databegin": "00:09.22",
                     "duration": "01:00.00",
-                    "zIndex": 3,
+                    "zIndex": 4,
                     "top": "1.67",
                     "height": "607.57",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/soundplanets/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/soundplanets/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 86.6480698393451,
+            "images": [
+                {
+                    "scales": true,
+                    "id": "61B9DEC0-6A4C-1DAB-5552-CF4E73465877",
+                    "src": "Medias/Photos/aerial-view.jpg",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "left": "41.78",
+                    "width": "890.81",
+                    "name": "aerial-view.jpg",
+                    "dataend": "01:27.65",
+                    "mediaWidth": 1066,
+                    "databegin": "00:00.00",
+                    "duration": "01:27.65",
+                    "zIndex": 1,
+                    "top": "-40.53",
+                    "height": "667.69",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 799
+                }
+            ],
             "hideThumbnailInMindmap": false,
             "buttons": [
                 {
@@ -3392,7 +3499,7 @@ klynt.data = {
                     "dataend": "01:27.65",
                     "width": "56.00",
                     "duration": "01:18.43",
-                    "zIndex": 4,
+                    "zIndex": 5,
                     "top": "192.00",
                     "height": "56.00",
                     "databegin": "00:09.22"
@@ -3411,7 +3518,7 @@ klynt.data = {
                     "dataend": "01:27.65",
                     "databegin": "00:09.22",
                     "duration": "01:18.43",
-                    "zIndex": 5,
+                    "zIndex": 6,
                     "height": "47.00",
                     "link": {
                         "controlDX": 0.03784361048235997,
@@ -3433,7 +3540,7 @@ klynt.data = {
                     "scales": true,
                     "id": "E523AC84-F404-01B9-CCC0-C06A4CF742BA",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;&nbsp;&nbsp;</span><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: 'Droid Sans'; background-color: #33ff00;\">-THE</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;SKY'S</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\"> MO-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp;UTH</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp;WAS</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;FILL-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp; &nbsp; ED</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;</span></span></p>",
-                    "left": "75.00",
+                    "left": "575.00",
                     "width": "342.00",
                     "name": "Text 1",
                     "dataend": "00:09.22",
@@ -3443,8 +3550,8 @@ klynt.data = {
                     },
                     "databegin": "00:00.10",
                     "duration": "00:09.12",
-                    "zIndex": 1,
-                    "top": "64.00",
+                    "zIndex": 2,
+                    "top": "86.00",
                     "height": "418.00",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -3456,7 +3563,7 @@ klynt.data = {
                     "scales": true,
                     "id": "7D0C4884-37E0-CCFD-EF3E-C06A4CF82E27",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>My voice is so small on the cosmic scale&ndash;shall I deify myself to the microscopic?<br /></em></span></p>",
-                    "left": "441.49",
+                    "left": "216.49",
                     "width": "330.74",
                     "name": "Text 2",
                     "dataend": "00:09.22",
@@ -3466,8 +3573,8 @@ klynt.data = {
                     },
                     "databegin": "00:01.48",
                     "duration": "00:07.74",
-                    "zIndex": 2,
-                    "top": "257.29",
+                    "zIndex": 3,
+                    "top": "355.29",
                     "height": "146.52",
                     "type": "txt-Paragraph",
                     "transitionIn": {
@@ -3482,56 +3589,6 @@ klynt.data = {
             "color": "rgba(240,120,24,1)"
         },
         "50AAD418-2324-4768-0BFC-B221F96E5BA8": {
-            "id": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
-            "title": "Gag Act",
-            "backgroundColor": "rgba(51,102,204,1)",
-            "y": 124.75,
-            "x": 807.55,
-            "thumbnail": "Medias/Thumbnails/canyouhearme2.mp4.jpg",
-            "videos": [
-                {
-                    "scales": false,
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/canyouhearme2.mp4"
-                        }
-                    ],
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "top": "-0.05",
-                    "id": "A9482503-FC1A-9FFE-A81F-C0239947824E",
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
-                    "loop": false,
-                    "left": "163.00",
-                    "width": "692.99",
-                    "name": "canyouhearme2.mp4",
-                    "dataend": "00:24.90",
-                    "mediaWidth": 808,
-                    "databegin": "00:06.38",
-                    "duration": "00:18.52",
-                    "zIndex": 1,
-                    "mediaHeight": 770,
-                    "height": "660.39",
-                    "player": false,
-                    "volume": 1,
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "autoplay": true,
-                    "poster": "Medias/Posters/canyouhearme2.mp4.jpg"
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "medium",
-            "duration": 23.900292476003532,
-            "hideThumbnailInMindmap": false,
             "buttons": [
                 {
                     "scales": false,
@@ -3543,17 +3600,25 @@ klynt.data = {
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "00:24.90",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
+                    "dataend": "00:22.37",
                     "width": "56.00",
-                    "duration": "00:18.52",
+                    "duration": "00:18.48",
                     "zIndex": 4,
                     "top": "16.00",
                     "height": "56.00",
-                    "databegin": "00:06.38"
+                    "link": {
+                        "controlDX": -0.0006812280800201121,
+                        "id": "74457A02-D1EA-9A9B-4ECC-CEA1BD93B583",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": -0.8644387940666343,
+                        "color": "rgba(0,0,0,1)",
+                        "targetSequence": "F5029D57-06F1-E478-D4D1-B21BBCD2D858"
+                    },
+                    "databegin": "00:03.89"
                 },
                 {
                     "scales": true,
@@ -3566,13 +3631,9 @@ klynt.data = {
                     },
                     "bottom": "16.00",
                     "label": "",
-                    "dataend": "00:24.90",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
+                    "dataend": "00:22.37",
                     "width": "47.00",
-                    "duration": "00:18.52",
+                    "duration": "00:18.48",
                     "zIndex": 5,
                     "height": "47.00",
                     "link": {
@@ -3587,7 +3648,7 @@ klynt.data = {
                         "color": "rgba(120,192,168,1)",
                         "targetSequence": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
                     },
-                    "databegin": "00:06.38"
+                    "databegin": "00:03.89"
                 },
                 {
                     "scales": true,
@@ -3599,13 +3660,104 @@ klynt.data = {
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "00:24.90",
-                    "databegin": "00:06.38",
-                    "duration": "00:18.52",
+                    "dataend": "00:22.37",
+                    "databegin": "00:03.89",
+                    "duration": "00:18.48",
                     "zIndex": 6,
                     "top": "276.50",
                     "height": "47.00",
+                    "link": {
+                        "controlDX": 0.003219422215714707,
+                        "id": "C70A30AB-D46F-DDEE-4E84-CEA20215C63A",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideRight",
+                        "controlDY": -0.28058126522067806,
+                        "color": "rgba(0,0,0,1)",
+                        "targetSequence": "800A7613-272A-BA7D-7D3E-B2266BA246D8"
+                    },
                     "type": "klynt-arrow-left"
+                }
+            ],
+            "id": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
+            "title": "Gag Act",
+            "backgroundColor": "rgba(51,102,204,1)",
+            "y": 124.75,
+            "x": 807.55,
+            "thumbnail": "Medias/Thumbnails/canyouhearme2.mp4.jpg",
+            "videos": [
+                {
+                    "scales": true,
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/canyouhearme2.mp4"
+                        }
+                    ],
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "barWipe"
+                    },
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "top": "-0.05",
+                    "id": "A9482503-FC1A-9FFE-A81F-C0239947824E",
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": false,
+                    "left": "163.00",
+                    "width": "692.99",
+                    "name": "canyouhearme2.mp4",
+                    "dataend": "00:20.14",
+                    "mediaWidth": 808,
+                    "databegin": "00:02.62",
+                    "duration": "00:17.52",
+                    "zIndex": 1,
+                    "mediaHeight": 770,
+                    "height": "660.39",
+                    "player": false,
+                    "volume": 1,
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "autoplay": true,
+                    "poster": "Medias/Posters/canyouhearme2.mp4.jpg"
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "duration": 21.37370933957819,
+            "hideThumbnailInMindmap": false,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "27A76958-436A-2086-A235-CEA40D22F48D",
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "overlayVolume": 1,
+                    "loop": false,
+                    "left": "0.00",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "00:22.37",
+                    "right": "0.00",
+                    "duration": "00:22.37",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
                 }
             ],
             "texts": [
@@ -3616,13 +3768,9 @@ klynt.data = {
                     "left": "130.95",
                     "width": "170.01",
                     "name": "Text 1",
-                    "dataend": "00:24.90",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
+                    "dataend": "00:22.37",
                     "databegin": "00:00.00",
-                    "duration": "00:24.90",
+                    "duration": "00:22.37",
                     "zIndex": 2,
                     "top": "178.54",
                     "height": "303.61",
@@ -3639,13 +3787,13 @@ klynt.data = {
                     "left": "710.68",
                     "width": "343.31",
                     "name": "Text 2",
-                    "dataend": "00:24.90",
+                    "dataend": "00:17.82",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:11.90",
-                    "duration": "00:13.00",
+                    "databegin": "00:11.96",
+                    "duration": "00:05.86",
                     "zIndex": 3,
                     "top": "442.81",
                     "height": "64.37",
@@ -3721,7 +3869,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/particlehole/\" style=\"border: none;\" height=\"550px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/particlehole/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 59.390492882210964,
@@ -3871,7 +4019,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/tricks/\" style=\"border: none;\" height=\"700px\" width=\"91100px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/tricks/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 44.09965702820889,
@@ -3964,7 +4112,7 @@ klynt.data = {
         "EFF14793-31B1-D20D-2130-CBE6AA643ACC": {
             "id": "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
             "title": "Outside Acceptable Parameters",
-            "backgroundColor": "rgba(0,255,255,1)",
+            "backgroundColor": "rgba(204,51,0,1)",
             "y": 534.9,
             "x": 421.3,
             "hideInMindmap": false,
@@ -3979,50 +4127,106 @@ klynt.data = {
                         "duration": "2",
                         "type": "fade"
                     },
-                    "dataend": "01:31.42",
+                    "dataend": "00:39.50",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
                     "databegin": "00:00.00",
-                    "duration": "01:31.42",
+                    "duration": "00:39.50",
                     "zIndex": 2,
                     "top": "20.26",
                     "height": "577.42",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/key/\" style=\"border: none;\" height=\"700px\" width=\"970px\"  allow=\"camera *;microphone *\" base target=\"_self\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/key/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
-            "duration": 90.41537722366445,
+            "duration": 65.37386343377699,
             "hideThumbnailInMindmap": false,
             "buttons": [
                 {
                     "scales": false,
-                    "id": "5D6763DD-BF98-BE3E-1333-CC0BE04A38E1",
-                    "type": "klynt-arrow-right",
-                    "right": "476.00",
+                    "id": "760EC589-0B1F-A432-A78B-CE7F76B8345B",
+                    "left": "16.00",
+                    "width": "56.00",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "01:31.42",
-                    "width": "56.00",
-                    "duration": "01:31.42",
-                    "zIndex": 6,
-                    "top": "367.00",
+                    "dataend": "01:05.10",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:39.50",
+                    "duration": "00:25.60",
+                    "zIndex": 9,
+                    "top": "16.00",
                     "height": "56.00",
                     "link": {
-                        "controlDX": 0.04230562981083967,
-                        "id": "3D69E82E-FDDA-31CD-E89A-CC0BE050576F",
+                        "controlDX": -0.9156866067772306,
+                        "id": "058A8F0E-88F0-DC3A-21FC-CE7F76BD0839",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": -0.5717110021742837,
-                        "color": "rgba(240,168,48,1)",
-                        "targetSequence": "5C2C0DAE-6B94-DA99-CE2D-B2271C614376"
+                        "transition": "slideRight",
+                        "controlDY": -0.6054992516561767,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676"
                     },
-                    "databegin": "00:00.00"
+                    "type": "klynt-arrow-left"
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "090F5B8D-8D59-5D39-BEDA-CE7F76B7490D",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp;ESSEN-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">TIALLY</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; &nbsp;ACID</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>",
+                    "left": "191.07",
+                    "width": "341.84",
+                    "name": "Text 1",
+                    "dataend": "00:51.34",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:39.50",
+                    "duration": "00:11.84",
+                    "zIndex": 7,
+                    "top": "89.71",
+                    "height": "418.03",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "FDC68FFB-9920-C911-7C80-CE7F76B64956",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Say something once, why say it again?</em></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Whatever&nbsp;the answer is, we&nbsp;don't have it...</em></span></p>",
+                    "left": "423.94",
+                    "width": "330.74",
+                    "name": "Text 2",
+                    "dataend": "00:49.51",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:39.50",
+                    "duration": "00:10.01",
+                    "zIndex": 8,
+                    "top": "361.75",
+                    "height": "146.52",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
                 }
             ],
             "audios": [
@@ -4041,9 +4245,9 @@ klynt.data = {
                     ],
                     "databegin": "00:00.00",
                     "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "01:31.42",
+                    "dataend": "01:05.10",
                     "right": "0.00",
-                    "duration": "01:31.42",
+                    "duration": "01:05.10",
                     "zIndex": 0,
                     "height": "30.00",
                     "player": false,
@@ -4055,23 +4259,60 @@ klynt.data = {
                 }
             ],
             "hideTitleInMindmap": false,
+            "shapes": [
+                {
+                    "scales": false,
+                    "id": "56654B20-9CC6-5549-36CA-CE7AE5E5585C",
+                    "left": "588.00",
+                    "width": "66.75",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "Hotspot 1",
+                    "dataend": "01:05.10",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.00",
+                    "duration": "01:05.10",
+                    "zIndex": 10,
+                    "top": "440.00",
+                    "height": "66.75",
+                    "link": {
+                        "controlDX": -0.24686092371187607,
+                        "id": "790F8EB3-D5CC-C68A-C86D-CE7B4237ABFF",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "fade",
+                        "controlDY": 0.5180313903988891,
+                        "color": "rgba(0,0,0,1)",
+                        "targetSequence": "5C2C0DAE-6B94-DA99-CE2D-B2271C614376"
+                    },
+                    "type": "default",
+                    "style": {
+                        "backgroundColor": "rgba(233,66,77,0)"
+                    }
+                }
+            ],
             "tags": "key",
             "color": "rgba(240,168,48,1)"
         },
-        "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D": {
-            "id": "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D",
-            "title": "Familiar Anarchy",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "y": 1210.3,
-            "x": 1863.4,
+        "452423DF-F904-5D46-A88E-CE6E65FBC44E": {
+            "id": "452423DF-F904-5D46-A88E-CE6E65FBC44E",
             "hideInMindmap": false,
             "size": "medium",
-            "duration": 30,
+            "title": "Sequence 22",
+            "backgroundColor": "rgba(0,0,0,1)",
             "hideThumbnailInMindmap": false,
-            "description": "Mutation ensures survival. Chaos is life. How do I swim in it?",
+            "y": 887,
+            "x": 1861.65,
             "hideTitleInMindmap": false,
-            "tags": "distortedcam",
-            "color": "rgba(228,95,86,1)"
+            "duration": 30,
+            "color": "rgba(0,0,0,1)"
         },
         "9F5A314A-671C-3E18-3150-B21E3122D1B4": {
             "id": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
@@ -4125,12 +4366,12 @@ klynt.data = {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:15.64",
-                    "duration": "00:45.57",
+                    "databegin": "00:09.92",
+                    "duration": "00:51.29",
                     "zIndex": 4,
                     "top": "3.00",
                     "height": "608.13",
-                    "code": "<iframe src=\"http://shadowplay.space/magnify/\" style=\"border: none;\" height=\"570px\" width=\"970px\"></iframe>\r"
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/magnify/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 60.20537900842826,
@@ -4176,18 +4417,18 @@ klynt.data = {
                     "scales": true,
                     "id": "5EAA761C-4604-E76B-55F0-C025F9CD2B0A",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;&nbsp; -</span></span></p>\n<p style=\"text-align: left;\">&nbsp;</p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">384</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">&nbsp;CHAN-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00;\"><span style=\"font-family: 'Droid Sans';\">CES</span></span></p>",
-                    "left": "64.00",
+                    "left": "468.00",
                     "width": "165.00",
                     "name": "Text 1",
-                    "dataend": "00:15.64",
+                    "dataend": "00:09.92",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:00.00",
-                    "duration": "00:15.64",
+                    "databegin": "00:00.40",
+                    "duration": "00:09.52",
                     "zIndex": 1,
-                    "top": "79.00",
+                    "top": "84.00",
                     "height": "418.00",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -4198,19 +4439,19 @@ klynt.data = {
                 {
                     "scales": true,
                     "id": "9784D0F1-E6D9-55D8-C301-C025F9CD42B0",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Science begins and ends in speculation. 384 chances to find the best guess. </em></span></p>",
-                    "left": "94.92",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>Science begins and ends in speculation. </em></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em>384 chances to find the best guess. </em></span></p>",
+                    "left": "200.92",
                     "width": "343.00",
                     "name": "Text 2",
-                    "dataend": "00:15.64",
+                    "dataend": "00:09.92",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "databegin": "00:01.61",
-                    "duration": "00:14.03",
+                    "duration": "00:08.31",
                     "zIndex": 2,
-                    "top": "401.36",
+                    "top": "416.36",
                     "height": "64.00",
                     "type": "txt-Paragraph",
                     "transitionIn": {
@@ -4251,7 +4492,7 @@ klynt.data = {
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe src=\"http://shadowplay.space/circletvoff/\" style=\"border: none;\" height=\"700px\" width=\"970px\"></iframe>\r"
+                    "code": "\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/circletvoff/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
             "duration": 48.35921777598385,
@@ -5292,7 +5533,7 @@ klynt.data = {
         "overlayCloseButtonRight": 16,
         "mainFontSize": 14,
         "height": 600,
-        "modificationDate": 1609742198704,
+        "modificationDate": 1609796060079,
         "keywords": "bioart,science,truth,reality,speculative",
         "description": "an experimental online experience exploring the speculative nature of sensory data in the sciences. It speculates on the sociology of microbiomes, using the way their behaviors are similar to humans with metaphors such as camouflage as anti-surveillance, for example. The experiments are part of continuing research on the nature of truth and reality. ",
         "ratio": "16/9",
@@ -5424,9 +5665,10 @@ klynt.data = {
                         "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B",
                         "F9DF08BC-A3CF-149D-7646-C67B272DB1B9",
                         "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
-                        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676"
+                        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
+                        "452423DF-F904-5D46-A88E-CE6E65FBC44E"
                     ],
-                    "displayDuration": true,
+                    "displayDuration": false,
                     "layout": "grid",
                     "displayDescriptions": true
                 },
@@ -5447,7 +5689,8 @@ klynt.data = {
                     "sequences": [
                         "F9DF08BC-A3CF-149D-7646-C67B272DB1B9",
                         "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
-                        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676"
+                        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
+                        "452423DF-F904-5D46-A88E-CE6E65FBC44E"
                     ],
                     "minZoom": 0,
                     "keyboardShortcuts": false,
@@ -5494,35 +5737,36 @@ klynt.data = {
     },
     "aliases": {
         "aliasToId": {
-            "Commemorative_Camouflage": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B",
+            "Backmasking_the_Echo": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
             "Rhizomatic": "072CA418-48C0-A2BD-D23D-B229E8D4842D",
+            "The_Sky's_Mouth_Was_Filled": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
+            "Monumental_On_A_Subatomic_Scale": "DB2620A3-D6DC-682F-0341-B2237F985571",
+            "Quantifiable_Outcomes": "D6939662-0785-2FBF-4D56-A8C2A1F9B075",
+            "Gag_Act": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
+            "Commemorative_Camouflage": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B",
+            "Game_Theory": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
+            "Interesting_Times": "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B",
+            "384_Chances": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
+            "Reversed_Hierarchy": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D",
+            "Sub_Chaotic_Order": "28E30679-51F2-D943-8D33-B2245BEE73BA",
+            "Familiar_Anarchy": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
+            "Objects_Are_Closer_": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5",
+            "Post_Intelligence": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
             "Outside_Acceptable_Parameters": "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
             "Copy_of_Are_You_Born_or_Bred_": "F9DF08BC-A3CF-149D-7646-C67B272DB1B9",
-            "Monumental_On_A_Subatomic_Scale": "DB2620A3-D6DC-682F-0341-B2237F985571",
-            "Interesting_Times": "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B",
-            "Residue_Is_What_Is_Not_There_Anymore": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
             "Mayhem_Explored": "9F401E1D-B50B-C593-E26C-A8B987A00393",
             "Are_You_Born_or_Bred_": "22ABBCF5-20C7-55F8-F5EF-B22344377737",
-            "Gag_Act": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
-            "Sub_Chaotic_Order": "28E30679-51F2-D943-8D33-B2245BEE73BA",
-            "Backmasking_the_Echo": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
             "F.U.E._(fucked_up_everything)": "A6AACE12-738D-1FE5-F018-B224F477D83A",
-            "Objects_Are_Closer_": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5",
             "Essentially_Acid": "5C2C0DAE-6B94-DA99-CE2D-B2271C614376",
-            "Post_Intelligence": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
-            "384_Chances": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
-            "Familiar_Anarchy": "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D",
-            "Quantifiable_Outcomes": "D6939662-0785-2FBF-4D56-A8C2A1F9B075",
-            "The_Sky's_Mouth_Was_Filled": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
-            "Game_Theory": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
-            "Reversed_Hierarchy": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D"
+            "Sequence_22": "452423DF-F904-5D46-A88E-CE6E65FBC44E"
         },
         "idToAlias": {
             "9CABE6C0-8F8D-33A6-18C5-B22098D003D5": "Objects_Are_Closer_",
             "A6AACE12-738D-1FE5-F018-B224F477D83A": "F.U.E._(fucked_up_everything)",
-            "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": "Residue_Is_What_Is_Not_There_Anymore",
+            "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D": "Familiar_Anarchy",
             "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B": "Commemorative_Camouflage",
             "DB2620A3-D6DC-682F-0341-B2237F985571": "Monumental_On_A_Subatomic_Scale",
+            "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": "Familiar_Anarchy",
             "9F401E1D-B50B-C593-E26C-A8B987A00393": "Mayhem_Explored",
             "EA611BAB-21EB-5F65-B405-A8BA5B879E7D": "Reversed_Hierarchy",
             "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84": "Game_Theory",
@@ -5536,7 +5780,7 @@ klynt.data = {
             "072CA418-48C0-A2BD-D23D-B229E8D4842D": "Rhizomatic",
             "5C2C0DAE-6B94-DA99-CE2D-B2271C614376": "Essentially_Acid",
             "EFF14793-31B1-D20D-2130-CBE6AA643ACC": "Outside_Acceptable_Parameters",
-            "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D": "Familiar_Anarchy",
+            "452423DF-F904-5D46-A88E-CE6E65FBC44E": "Sequence_22",
             "9F5A314A-671C-3E18-3150-B21E3122D1B4": "384_Chances",
             "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B": "Interesting_Times",
             "F9DF08BC-A3CF-149D-7646-C67B272DB1B9": "Copy_of_Are_You_Born_or_Bred_"
