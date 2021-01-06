@@ -66,6 +66,24 @@
 }
 
 @font-face {
+	font-family: HomepageBaukasten;
+	font-weight: bold;
+	font-style: normal;
+	src: url('fonts/HomepageBaukasten-Bold.eot');
+	src: url('fonts/HomepageBaukasten-Bold.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/HomepageBaukasten-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: HomepageBaukasten;
+	font-weight: book;
+	font-style: normal;
+	src: url('fonts/HomepageBaukasten-Book.eot');
+	src: url('fonts/HomepageBaukasten-Book.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/HomepageBaukasten-Book.ttf') format('truetype');
+}
+
+@font-face {
 	font-family: Economica;
 	font-weight: bold;
 	font-style: normal;

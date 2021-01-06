@@ -1,15 +1,15 @@
 klynt.miniPlayerData = {
     "thanksForWatchingWording": "Thanks for watching!",
     "title": "shadowplay",
-    "launchAppWording": "Then Launch Project",
     "resumePlaybackWording": "Resume playback?",
     "redirectToMobileApp": "auto",
     "description": "1.0.0",
-    "thumbnail": "Medias/Photos/colorful-test-tubes-in-a-lab-free-photo.jpg",
-    "downloadAppWording": "Download App",
+    "yesWording": "Yes",
     "noWording": "No",
     "url": "",
-    "yesWording": "Yes",
+    "launchAppWording": "Then Launch Project",
+    "thumbnail": "Player/css/editor/img/mini-player.jpg",
+    "downloadAppWording": "Download App",
     "fullscreenInfoWording": "This program will launch in fullscreen",
     "analyticsKey": ""
 }
