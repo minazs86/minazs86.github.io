@@ -7,31 +7,33 @@ body {
 
 }
 
-a {
-  color: #ff5f2e;
-}
-a:hover {
-  color: #fcbe32;
-}
+
+
 
 button {
-  position: fixed;
-	top: 400px;
-	left: 340px;
+  	position: fixed;
+	top: 230px;
+	left: 390px;
 	border-radius: 25px;
-
-	
-	width:40px;
-	height:40px;
-	
+	width:30px;
+	height:30px;
 	background-color: transparent;
-		font-family: courier;
-		color: white;
-			line-height: 12px;
-			font-size: 12px;
-		
-			 letter-spacing: 0.1rem;}
+	font-family: courier;
+	color: #EFE9E9;
+	  border: 2px solid #EFE9E9; 
+	line-height: 12px;
+	font-size: 14px;
+  text-align: center;
+  text-decoration: none;
+ 	letter-spacing: 0.1rem;
+	z-index: 6;
+	cursor: pointer;
+}
 
+button:hover {
+  background-color: none; 
+  color: #FBFB63;
+}
 
 h1 {
   
@@ -62,7 +64,7 @@ h1 {
   background: -webkit-linear-gradient(to left, #16222A, #3A6073);
   background: linear-gradient(to left, #16222A, #3A6073);
   background-size: cover;
-  background-image: url("circle.gif");
+  background-image: url("circle2.gif");
   color: #e1eef6;
 	z-index: 4;
 }
