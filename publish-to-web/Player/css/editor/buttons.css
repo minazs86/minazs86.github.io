@@ -1,5 +1,5 @@
 .klynt-arrow-left {
-	background-image: url("img/arrow-left.png");
+	background-image: url("img/custom-arrow-left.png");
 	opacity: 0.5;
 }
 
@@ -9,7 +9,7 @@
 }
 
 .klynt-arrow-right {
-	background-image: url("img/arrow-right.png");
+	background-image: url("img/custom-arrow-right.png");
 	opacity: 0.5;
 }
 
@@ -19,7 +19,7 @@
 }
 
 .klynt-arrow-top {
-	background-image: url("img/arrow-top.png");
+	background-image: url("img/custom-arrow-top.png");
 	opacity: 0.5;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .klynt-arrow-bottom {
-	background-image: url("img/arrow-bottom.png");
+	background-image: url("img/custom-arrow-bottom.png");
 	opacity: 0.5;
 }
 
