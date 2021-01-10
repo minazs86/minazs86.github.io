@@ -53,23 +53,56 @@ button {
 		margin:auto;
 		top:30%;
 	left: 40%;}
+		
+		#timer{position: fixed;
+		margin:auto;
+		top:45%;
+	left: 40%;}
 		</style>
 	</head>
 <body>
 
 	<div id="container">
-	<p>the answer lies in your interactions...</p>
+	<p>To continue in the quest, complete the following puzzle:
+</p>
+		
 life is a: <input type="text" id="myText" value="">
 
-<p>only if you are %100 sure proceed to</p>
+</div>	
+		<div id="timer">time remained: <span id="time">00:05</span></div>
 
-<button type="button" onclick="window.location.href='https://shadowplay.space/tricks/'">next</button>
+
 		
-</div>
+
 <script>
 function myFunction() {
   document.getElementById("myText").select();
 }
+	
+ function startTimer(duration, display) {
+        var timer = duration, minutes, seconds;
+        var end =setInterval(function () {
+            minutes = parseInt(timer / 60, 10)
+            seconds = parseInt(timer % 60, 10);
+
+            minutes = minutes < 10 ? "0" + minutes : minutes;
+            seconds = seconds < 10 ? "0" + seconds : seconds;
+
+            display.textContent = minutes + ":" + seconds;
+
+            if (--timer < 0) {
+                window.top.location.href = "";
+                clearInterval(end);
+            }
+        }, 1000);
+    }
+
+    window.onload = function () {
+        var fiveMinutes = 5,
+            display = document.querySelector('#time');
+        startTimer(fiveMinutes, display);
+    };
+
 </script>
 
 </body>
