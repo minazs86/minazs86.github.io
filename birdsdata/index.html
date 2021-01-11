@@ -1,19 +1,26 @@
 <!doctype html>
 <html>
   <head>
-    <style>
+    <style type="text/css">
+		
+		body {
+			width:1066px;
+			height: 626px;
+			background: none;
+		}
+		
     .viewport {
       position: absolute;
-      width:400px;
-      height: 500px;
+      width:380px;
+      height: 570px;
 		left:300px;
     }
 
-    .viewport:hover img {
+    .viewport:active img {
       opacity: 0;
     }
 
-    .viewport:hover video {
+    .viewport:active video {
       opacity: 1;
     }
 
@@ -38,14 +45,14 @@
       opacity: 0;
     }
 		
-	
-		
     </style>
+
+	  
   </head>
   <body>
 
     <div class="viewport">
-      <img class="fade" src="birds.png"/>
+      <img class="fade" src="birds.png" alt="conference of the birds"/>
 
       <video id="video" class="fade" preload="auto">
         <source src="cof_data_algorithm-_1.mp4" type="video/mp4">
@@ -56,20 +63,13 @@
       <div class="mask">hi</div>
       -->
 
-    </div>
-
-    <script>
+	</div>
+			    <script>
       var viewport = document.getElementsByClassName('viewport')[0]
       var video = document.getElementById('video')
       viewport.addEventListener('mouseover', function() { video.play() }, false);
       viewport.addEventListener('mouseout', function() { video.pause() }, false);
     </script>
-
-	  
-
-		
-			
-		
 	 
   </body>
 </html>
