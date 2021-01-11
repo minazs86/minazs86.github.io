@@ -25,7 +25,7 @@ klynt.data = {
         "overlayCloseButtonRight": 16,
         "mainFontSize": 14,
         "height": 600,
-        "modificationDate": 1610388745780,
+        "modificationDate": 1610389692488,
         "keywords": "bioart,science,truth,reality,speculative",
         "description": "Three scales of perception: the mundane, the microscopic, the monumental. Parallel yet triune realities. The products of the lab, raw, and not yet rendered into information > data synthesized by human minds, human bodies, human intentions. Interpretation is tricky, fuzzy. The translator’s role is silent but not benign, she is a narrator, a curator.\n\n\nACT I\nSpeculate on what may unfold. The director, a conspicuous absence? The possibility of infinite outcomes. \n\nACT II\nAm I still in the audience, or on a stage? I can’t see behind the curtain. Subject and object in disagreement. \n\nACT III\nNot what I expected. Was it a rehearsal or a game? The script is revised. \n\n-\n\nThis is an experimental online experience exploring the speculative nature of sensory data in the sciences. It imagines a sociology of microbiomes, illustrating the parallel between their behaviors and human behavior, such as camouflage as a metaphor for anti-surveillance.\n\nThe experiments are part of continuing research on the phenomena of translation and data interpretation, and the illusions of truth and reality at large. Part film, part essay, there is no one outcome in the series of interactions that it offers. Designed to have one beginning, it hosts many outcomes. The sequence of interactions mimics the repetition and randomization in the chain of biological data in amino acids and DNA. \n\nThese 20 theses, in combination, appropriate scientific ideas and sociocultural metaphors to contemplate the nature of evolution. Some of the experiments are inspired by the anomalies found in the sciences including medicine, biotechnology, neurobehavioral psychology. \n\nHowever, the science is not the subject. It is a choreographed dance of chaos, a jazz improvisation. The puzzles are an attempt to disrupt the order in a cosmos of secrets, to elicit treasure seeking impulses, and offer an elaborate differential diagnosis on life, survival, and nature of evolution.  \n\nThis research has informed the creation of an algorithm and cipher that translates text into bio data. This new data is the blueprint to synthesize proteins with a new form of ethical intelligence embedded in them. Pairing these newly synthesized proteins with existing proteins forms a face-to-face dialogue that can be translated back with the help of this algorithm. Is there a message in the interactions of these microbiomes that gets lost in translation? Can we create biological transmissions to these known yet mysterious/unknown territories? Rather than looking outwards and into the space, can we look inwards for technological civilizations? If Interspecies communication is the first step into extraterrestrial communication, we need to aim at creating systems that de-center human communication and prioritize listening over broadcasting.\n\nThe ambition of this phase of the project is to inspire the spectators: \n1. to question the scientific act of translation: the translation of raw data into information and the translation of information into “facts.”\n2. to gaze from a distance, and consider the shift in perspective when reality is viewed from macro and micro scales. \nto think about metaphor as an act of translation.\n3. to consider the sociology of the microcosmos: how behaviors like camouflage and deception are means of survival. Is there a psychopathy to evolutionary survival?\n4. to think about life as an algorithm: a series of interactions formed by relationships, wherein intelligence is formed by continual input.\n5. to consider chaos necessary for life: as the random seed in DNA that allows evolution; as the means necessary to upset cultural comfort and restructure outmoded social norms; and as the explosive counterforce to entropy in the galactic cycle of creation.\n\n-\nThis project is partially funded by the BioArts Residency program at the University City Science Center in Philadelphia, PA.\n",
         "ratio": "16/9",
@@ -195,7 +195,7 @@ klynt.data = {
                     "aboutColumnText": "Three scales of perception: the mundane, the microscopic, the monumental. Parallel yet triune realities. The products of the lab, raw, and not yet rendered into information > data synthesized by human minds, human bodies, human intentions. Interpretation is tricky, fuzzy. The translator’s role is silent but not benign, she is a narrator, a curator.\n\n\nACT I\nSpeculate on what may unfold. The director, a conspicuous absence? The possibility of infinite outcomes. \n\nACT II\nAm I still in the audience, or on a stage? I can’t see behind the curtain. Subject and object in disagreement. \n\nACT III\nNot what I expected. Was it a rehearsal or a game? The script is revised. \n\n-\n\nThis is an experimental online experience exploring the speculative nature of sensory data in the sciences. It imagines a sociology of microbiomes, illustrating the parallel between their behaviors and human behavior, such as camouflage as a metaphor for anti-surveillance.\n\nThe experiments are part of continuing research on the phenomena of translation and data interpretation, and the illusions of truth and reality at large. Part film, part essay, there is no one outcome in the series of interactions that it offers. Designed to have one beginning, it hosts many outcomes. The sequence of interactions mimics the repetition and randomization in the chain of biological data in amino acids and DNA. \n\nThese 20 theses, in combination, appropriate scientific ideas and sociocultural metaphors to contemplate the nature of evolution. Some of the experiments are inspired by the anomalies found in the sciences including medicine, biotechnology, neurobehavioral psychology. \n\nHowever, the science is not the subject. It is a choreographed dance of chaos, a jazz improvisation. The puzzles are an attempt to disrupt the order in a cosmos of secrets, to elicit treasure seeking impulses, and offer an elaborate differential diagnosis on life, survival, and nature of evolution.  \n\nThis research has informed the creation of an algorithm and cipher that translates text into bio data. This new data is the blueprint to synthesize proteins with a new form of ethical intelligence embedded in them. Pairing these newly synthesized proteins with existing proteins forms a face-to-face dialogue that can be translated back with the help of this algorithm. Is there a message in the interactions of these microbiomes that gets lost in translation? Can we create biological transmissions to these known yet mysterious/unknown territories? Rather than looking outwards and into the space, can we look inwards for technological civilizations? If Interspecies communication is the first step into extraterrestrial communication, we need to aim at creating systems that de-center human communication and prioritize listening over broadcasting.\n\nThe ambition of this phase of the project is to inspire the spectators: \n1. to question the scientific act of translation: the translation of raw data into information and the translation of information into “facts.”\n2. to gaze from a distance, and consider the shift in perspective when reality is viewed from macro and micro scales. \nto think about metaphor as an act of translation.\n3. to consider the sociology of the microcosmos: how behaviors like camouflage and deception are means of survival. Is there a psychopathy to evolutionary survival?\n4. to think about life as an algorithm: a series of interactions formed by relationships, wherein intelligence is formed by continual input.\n5. to consider chaos necessary for life: as the random seed in DNA that allows evolution; as the means necessary to upset cultural comfort and restructure outmoded social norms; and as the explosive counterforce to entropy in the galactic cycle of creation.\n\n-\nThis project is partially funded by the BioArts Residency program at the University City Science Center in Philadelphia, PA.\n",
                     "title": "SHADOWPLAY 1.2.0",
                     "creditsColumnTitle": "Credits",
-                    "creditsColumnText": "Forever grateful to my thinking partner Natalie Hijinx on her collaborative efforts in making this project happen.\n\nMany thanks to University City Science Center / Esther Klein Gallery for their support of this project.\n\nContributors:\nArta Barzanji (video production)\nNatalie Hijinx (language, sound samples, endless conversations)\nEmilie Krause (production, listening ear)\nWhit Maclaughlin (guidance)\nAngela McQuillan (all kinds of support)\nLin Li Oechsle (code/html syntax)\nSuhyun Park (code/html syntax)\nCameron Shryock (sound samples)\nThe scientists at Integral Molecular (informative conversations)\n\n---\n\nContent  warning: (include or not)\n\n1. There is one image taken from a news blurb on a robot commiting suicide. \nSources:\nhttps://nymag.com/intelligencer/2017/07/robot-security-guard-commits-suicide-in-public-fountain.html\nhttps://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst\n\n2. Two of the experiments will ask your permission for your webcam, and one will ask permission to use your microphone. Please allow pop-up windows for proper interaction. No data is being saved and your experience is secure and controlled only by you.\n\n---\n\nSynesthetic map by PLOS One\nhttps://www.businessinsider.com/synesthesia-seeing-letters-as-colors-2015-3\n\nAny other appropriated content is royalty free and/or is credited under fair use. \n(Some language about fair use of found images or screenshots from google maps\n\nAny adaptation in open source frameworks honors the permission rights to the best of our knowledge. \n\n\nTHE EXPERIMENT IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WEBSITE OR THE USE OR OTHER DEALINGS IN THE WEBSITE.\n\nCopyright (c) 2021 Mina Zarfsaz",
+                    "creditsColumnText": "Forever grateful to my thinking partner Natalie Hijinx on her collaborative efforts in making this project happen.\n\nMany thanks to University City Science Center / Esther Klein Gallery for their support of this project.\n\nContributors:\nArta Barzanji (video production)\nNatalie Hijinx (language, sound samples, endless conversations)\nEmilie Krause (production, listening ear)\nAngela McQuillan (all kinds of support)\nLin Li Oechsle (code/html syntax)\nSuhyun Park (code/html syntax)\nThe scientists at Integral Molecular (informative conversations)\n\n---\n\nContent warning: (include or not)\n\n1. There is one image taken from a news blurb on a robot commiting suicide. \nSources:\nhttps://nymag.com/intelligencer/2017/07/robot-security-guard-commits-suicide-in-public-fountain.html\nhttps://www.npr.org/2017/07/22/538624461/i-sink-therefore-i-am-this-robot-wasnt-programmed-for-existential-angst\n\n2. Two of the experiments will ask your permission for your webcam, and one will ask permission to use your microphone. Please allow pop-up windows for proper interaction. No data is being saved and your experience is secure and controlled only by you.\n\n---\n\nSynesthetic map by PLOS One\nhttps://www.businessinsider.com/synesthesia-seeing-letters-as-colors-2015-3\n\nAny other appropriated content is royalty free and/or is credited under fair use. \n(Some language about fair use of found images or screenshots from google maps\n\nAny adaptation in open source frameworks honors the permission rights to the best of our knowledge. \n\n\nTHE EXPERIMENT IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE WEBSITE OR THE USE OR OTHER DEALINGS IN THE WEBSITE.\n\nCopyright (c) 2021 Mina Zarfsaz",
                     "aboutColumnTitle": "About"
                 },
                 "type": "credits",
@@ -295,6 +295,32 @@ klynt.data = {
             "duration": 80.00385932567262,
             "images": [
                 {
+                    "id": "8339D834-2CDD-0439-212F-D1557AC4C695",
+                    "src": "Medias/Photos/klynt_bg7.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:52.97",
+                    "name": "klynt_bg7.png",
+                    "dataend": "01:12.63",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "00:19.66",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.4
+                    }
+                },
+                {
                     "scales": false,
                     "id": "3E6C6484-5403-02EA-9226-D6A2E657C8DF",
                     "src": "Medias/Photos/klynt_bg18.png",
@@ -325,28 +351,6 @@ klynt.data = {
                     "mediaHeight": 600
                 },
                 {
-                    "id": "1B760DF3-5880-23C1-9C49-D16E66B0DABA",
-                    "src": "Medias/Photos/klynt_bg19.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "01:12.63",
-                    "name": "klynt_bg19.png",
-                    "dataend": "01:21.00",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "00:08.37",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.3
-                    }
-                },
-                {
                     "id": "A4D3F28F-71B9-2B4C-AC7E-D168273B4E2B",
                     "src": "Medias/Photos/klynt_bg6.png",
                     "horizontalAlign": "center",
@@ -373,88 +377,54 @@ klynt.data = {
                     }
                 },
                 {
-                    "id": "8339D834-2CDD-0439-212F-D1557AC4C695",
-                    "src": "Medias/Photos/klynt_bg7.png",
+                    "id": "1B760DF3-5880-23C1-9C49-D16E66B0DABA",
+                    "src": "Medias/Photos/klynt_bg19.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:52.97",
-                    "name": "klynt_bg7.png",
-                    "dataend": "01:12.63",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
+                    "databegin": "01:12.63",
+                    "name": "klynt_bg19.png",
+                    "dataend": "01:21.00",
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
-                    "duration": "00:19.66",
+                    "duration": "00:08.37",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
                     "scaleMode": "zoom",
                     "style": {
-                        "opacity": 0.4
+                        "opacity": 0.3
                     }
                 },
                 {
                     "scales": true,
-                    "id": "1320FA44-3239-0B50-34D5-E127313ABA3F",
-                    "src": "Medias/Photos/IMG_4669_Original.jpg",
+                    "id": "430004C0-1933-28D7-F8D3-E12D0AA20810",
+                    "src": "Medias/Photos/IMG_1512.jpg",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "left": "801.75",
-                    "width": "199.99",
-                    "name": "IMG_4669_Original.jpg",
-                    "dataend": "00:15.17",
+                    "left": "178.00",
+                    "width": "150.00",
+                    "name": "IMG_1512.jpg",
+                    "dataend": "00:23.68",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "mediaWidth": 2448,
-                    "databegin": "00:10.94",
-                    "duration": "00:04.23",
+                    "databegin": "00:19.52",
+                    "duration": "00:04.16",
                     "zIndex": 4,
-                    "top": "-42.15",
+                    "top": "354.00",
                     "height": "300.00",
                     "verticalAlign": "middle",
                     "scaleMode": "zoom",
                     "style": {
-                        "opacity": 0.4
-                    },
-                    "mediaHeight": 3264
-                },
-                {
-                    "scales": true,
-                    "id": "AF71B993-022F-83AB-1871-E12653AB9AB0",
-                    "src": "Medias/Photos/IMG_4622_Original.jpg",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "left": "881.70",
-                    "width": "200.00",
-                    "name": "IMG_4622_Original.jpg",
-                    "dataend": "00:28.49",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 2448,
-                    "databegin": "00:25.56",
-                    "duration": "00:02.93",
-                    "zIndex": 4,
-                    "top": "91.57",
-                    "height": "200.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.5
+                        "opacity": 0.3
                     },
                     "mediaHeight": 3264
                 },
@@ -490,31 +460,31 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "430004C0-1933-28D7-F8D3-E12D0AA20810",
-                    "src": "Medias/Photos/IMG_1512.jpg",
+                    "id": "1320FA44-3239-0B50-34D5-E127313ABA3F",
+                    "src": "Medias/Photos/IMG_4669_Original.jpg",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "left": "178.00",
-                    "width": "150.00",
-                    "name": "IMG_1512.jpg",
-                    "dataend": "00:23.68",
+                    "left": "801.75",
+                    "width": "199.99",
+                    "name": "IMG_4669_Original.jpg",
+                    "dataend": "00:15.17",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "mediaWidth": 2448,
-                    "databegin": "00:19.52",
-                    "duration": "00:04.16",
+                    "databegin": "00:10.94",
+                    "duration": "00:04.23",
                     "zIndex": 4,
-                    "top": "354.00",
+                    "top": "-42.15",
                     "height": "300.00",
                     "verticalAlign": "middle",
                     "scaleMode": "zoom",
                     "style": {
-                        "opacity": 0.3
+                        "opacity": 0.4
                     },
                     "mediaHeight": 3264
                 },
@@ -547,6 +517,36 @@ klynt.data = {
                         "opacity": 0.3
                     },
                     "mediaHeight": 1421
+                },
+                {
+                    "scales": true,
+                    "id": "AF71B993-022F-83AB-1871-E12653AB9AB0",
+                    "src": "Medias/Photos/IMG_4622_Original.jpg",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "left": "881.70",
+                    "width": "200.00",
+                    "name": "IMG_4622_Original.jpg",
+                    "dataend": "00:28.49",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 2448,
+                    "databegin": "00:25.56",
+                    "duration": "00:02.93",
+                    "zIndex": 4,
+                    "top": "91.57",
+                    "height": "200.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.5
+                    },
+                    "mediaHeight": 3264
                 },
                 {
                     "scales": true,
@@ -698,12 +698,12 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "EE515388-6B6B-8F5B-F5B9-C10030673610",
-                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">SPECKS,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">CLUMPS,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">CYCLES,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">FLOW.</span></span></p>",
-                    "width": "1033.33",
+                    "id": "31BAF425-1B3A-CAB0-2B34-C0FF2CC8983B",
+                    "text": "<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"font-size: 34pt;\">&nbsp;&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"font-size: 38pt; color: #ffcc99;\"><span style=\"font-size: 34pt;\">SHADOWS OF SPECTRAL GALACTIC DUST, RADIO SIGNALS FROM DEEP EXTINCTION.</span> </span></span></p>",
+                    "width": "713.99",
                     "name": "Text 1",
-                    "centerX": "2.94",
-                    "dataend": "00:21.23",
+                    "centerX": "57.00",
+                    "dataend": "00:27.33",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
@@ -712,12 +712,12 @@ klynt.data = {
                         "duration": "1",
                         "type": "typeWriter"
                     },
-                    "databegin": "00:18.30",
-                    "duration": "00:02.93",
+                    "databegin": "00:21.43",
+                    "duration": "00:05.90",
                     "zIndex": 9,
-                    "height": "580.39",
+                    "height": "592.01",
                     "type": "txt-Paragraph",
-                    "centerY": "209.51"
+                    "centerY": "57.73"
                 },
                 {
                     "scales": true,
@@ -767,167 +767,6 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "F23BA43D-663D-A6E0-95E6-D16C2B2DCFE8",
-                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; font-size: 300%; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"font-size: 45px; line-height: 39px;\"><em>AN INTELLIGENCE?</em></span></span></p>",
-                    "width": "750.00",
-                    "name": "Text 1",
-                    "centerX": "93.00",
-                    "dataend": "00:59.58",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "00:54.51",
-                    "duration": "00:05.07",
-                    "zIndex": 9,
-                    "height": "522.00",
-                    "type": "txt-Paragraph",
-                    "centerY": "177.27"
-                },
-                {
-                    "scales": true,
-                    "id": "CC25EABD-40A0-D88A-DB91-C0BF88DE89A1",
-                    "text": "<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p style=\"text-align: center;\"><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"color: #ffcc99;\"><em><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">ZOOM WAY OUT.</span></em></span></p>\n<p style=\"text-align: center;\"><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>",
-                    "width": "816.00",
-                    "name": "Text 1",
-                    "centerX": "0.00",
-                    "dataend": "00:18.10",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:15.17",
-                    "duration": "00:02.93",
-                    "zIndex": 9,
-                    "top": "71.00",
-                    "height": "458.00",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "292AA4B9-FF78-DC88-CA91-C1006BDC73DE",
-                    "text": "<p style=\"text-align: right;\"><span class=\"Apple-style-span\" style=\"font-family: HomepageBaukasten; line-height: 53px; font-size: 34pt; color: #ffcc99;\">ACIDS,</span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">FLUIDS, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">REACTIONS;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">AMORPHOUS, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">VOLATILE, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">TINY. </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>",
-                    "width": "1054.00",
-                    "name": "Text 1",
-                    "centerX": "-116.00",
-                    "dataend": "00:40.62",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "00:33.77",
-                    "duration": "00:06.85",
-                    "zIndex": 9,
-                    "height": "592.00",
-                    "type": "txt-Paragraph",
-                    "centerY": "54.00"
-                },
-                {
-                    "scales": true,
-                    "id": "31BAF425-1B3A-CAB0-2B34-C0FF2CC8983B",
-                    "text": "<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"font-size: 34pt;\">&nbsp;&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"font-size: 38pt; color: #ffcc99;\"><span style=\"font-size: 34pt;\">SHADOWS OF SPECTRAL GALACTIC DUST, RADIO SIGNALS FROM DEEP EXTINCTION.</span> </span></span></p>",
-                    "width": "713.99",
-                    "name": "Text 1",
-                    "centerX": "57.00",
-                    "dataend": "00:27.33",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "00:21.43",
-                    "duration": "00:05.90",
-                    "zIndex": 9,
-                    "height": "592.01",
-                    "type": "txt-Paragraph",
-                    "centerY": "57.73"
-                },
-                {
-                    "scales": true,
-                    "id": "1B99BB56-04CA-3973-E221-D16DA7926D5F",
-                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt;\"><span class=\"Apple-style-span\" style=\"line-height: 39px;\"><em><span style=\"color: #ffcc99;\">OR ARE THOSE ANSWERS ONLY DISCERNIBLE TO POST-BIOLOGICAL MINDS?</span></em><strong><em><br /></em></strong></span></span></p>",
-                    "width": "725.84",
-                    "name": "Text 1",
-                    "centerX": "-4.13",
-                    "dataend": "01:18.11",
-                    "transitionOut": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "01:09.07",
-                    "duration": "00:09.04",
-                    "zIndex": 9,
-                    "height": "505.63",
-                    "type": "txt-Paragraph",
-                    "centerY": "178.25"
-                },
-                {
-                    "scales": true,
-                    "id": "8019FD97-7E27-E374-9A2A-C105B41CD963",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ffcc99;\"><em><span style=\"font-family: HomepageBaukasten; font-size: 34pt;\"><span class=\"Apple-style-span\" style=\"line-height: 39px;\">SHE ASKS: IS THERE A SOCIOLOGY OF THE MICROBIOME? </span></span></em></span></p>",
-                    "width": "750.00",
-                    "name": "Text 1",
-                    "centerX": "-33.47",
-                    "dataend": "00:54.51",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "00:47.10",
-                    "duration": "00:07.41",
-                    "zIndex": 9,
-                    "height": "522.00",
-                    "type": "txt-Paragraph",
-                    "centerY": "54.95"
-                },
-                {
-                    "scales": true,
-                    "id": "C27D8F97-41B4-0E28-AFE8-C100C2F626FC",
-                    "text": "<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span><span class=\"Apple-style-span\" style=\"color: #ffcc99; line-height: 47px; font-size: 45px;\"><span style=\"font-family: HomepageBaukasten;\">CRITICAL.</span></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>",
-                    "width": "1298.56",
-                    "name": "Text 1",
-                    "centerX": "-114.58",
-                    "dataend": "00:43.77",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    },
-                    "databegin": "00:40.84",
-                    "duration": "00:02.93",
-                    "zIndex": 9,
-                    "height": "729.36",
-                    "type": "txt-Paragraph",
-                    "centerY": "13.55"
-                },
-                {
-                    "scales": true,
                     "id": "2775F9FB-249F-686D-3C43-C10149B686A3",
                     "text": "<p style=\"text-align: center;\"><span style=\"font-size: 38pt; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"font-size: 38pt; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 38pt; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><em><span style=\"font-family: HomepageBaukasten;\">ZOOM BACK. </span></em></span><br /><br /></p>",
                     "width": "1054.00",
@@ -974,6 +813,98 @@ klynt.data = {
                 },
                 {
                     "scales": true,
+                    "id": "292AA4B9-FF78-DC88-CA91-C1006BDC73DE",
+                    "text": "<p style=\"text-align: right;\"><span class=\"Apple-style-span\" style=\"font-family: HomepageBaukasten; line-height: 53px; font-size: 34pt; color: #ffcc99;\">ACIDS,</span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">FLUIDS, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">REACTIONS;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">AMORPHOUS, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">VOLATILE, </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"line-height: 53px;\">TINY. </span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>",
+                    "width": "1054.00",
+                    "name": "Text 1",
+                    "centerX": "-116.00",
+                    "dataend": "00:40.62",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "00:33.77",
+                    "duration": "00:06.85",
+                    "zIndex": 9,
+                    "height": "592.00",
+                    "type": "txt-Paragraph",
+                    "centerY": "54.00"
+                },
+                {
+                    "scales": true,
+                    "id": "8019FD97-7E27-E374-9A2A-C105B41CD963",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ffcc99;\"><em><span style=\"font-family: HomepageBaukasten; font-size: 34pt;\"><span class=\"Apple-style-span\" style=\"line-height: 39px;\">SHE ASKS: IS THERE A SOCIOLOGY OF THE MICROBIOME? </span></span></em></span></p>",
+                    "width": "750.00",
+                    "name": "Text 1",
+                    "centerX": "-33.47",
+                    "dataend": "00:54.51",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "00:47.10",
+                    "duration": "00:07.41",
+                    "zIndex": 9,
+                    "height": "522.00",
+                    "type": "txt-Paragraph",
+                    "centerY": "54.95"
+                },
+                {
+                    "scales": true,
+                    "id": "EE515388-6B6B-8F5B-F5B9-C10030673610",
+                    "text": "<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">SPECKS,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">CLUMPS,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">CYCLES,</span></span></p>\n<p style=\"text-align: center;\"><span style=\"font-family: HomepageBaukasten; font-size: 14pt;\"><span style=\"color: #ffcc99;\">FLOW.</span></span></p>",
+                    "width": "1033.33",
+                    "name": "Text 1",
+                    "centerX": "2.94",
+                    "dataend": "00:21.23",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "00:18.30",
+                    "duration": "00:02.93",
+                    "zIndex": 9,
+                    "height": "580.39",
+                    "type": "txt-Paragraph",
+                    "centerY": "209.51"
+                },
+                {
+                    "scales": true,
+                    "id": "C27D8F97-41B4-0E28-AFE8-C100C2F626FC",
+                    "text": "<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></span></p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>\n<p style=\"text-align: right;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span></p>\n<p style=\"text-align: center;\"><span style=\"font-size: 34pt; color: #ffcc99;\">&nbsp;</span><span class=\"Apple-style-span\" style=\"color: #ffcc99; line-height: 47px; font-size: 45px;\"><span style=\"font-family: HomepageBaukasten;\">CRITICAL.</span></span></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>",
+                    "width": "1298.56",
+                    "name": "Text 1",
+                    "centerX": "-114.58",
+                    "dataend": "00:43.77",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "00:40.84",
+                    "duration": "00:02.93",
+                    "zIndex": 9,
+                    "height": "729.36",
+                    "type": "txt-Paragraph",
+                    "centerY": "13.55"
+                },
+                {
+                    "scales": true,
                     "id": "C76FF2DF-03FC-6E36-792D-C106446EC514",
                     "text": "<p style=\"text-align: left;\"><span style=\"color: #ffcc99;\"><em><span style=\"font-size: 34pt;\"><span class=\"Apple-style-span\" style=\"line-height: 39px;\"><span style=\"font-family: HomepageBaukasten;\">CAN A HUMAN MIND POSIT THE RIGHT QUESTIONS TO COAX TRUTH FROM DATA?</span> </span></span></em></span></p>",
                     "width": "725.84",
@@ -994,6 +925,75 @@ klynt.data = {
                     "height": "505.63",
                     "type": "txt-Paragraph",
                     "centerY": "187.31"
+                },
+                {
+                    "scales": true,
+                    "id": "F23BA43D-663D-A6E0-95E6-D16C2B2DCFE8",
+                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; font-size: 300%; color: #ffcc99;\"><span class=\"Apple-style-span\" style=\"font-size: 45px; line-height: 39px;\"><em>AN INTELLIGENCE?</em></span></span></p>",
+                    "width": "750.00",
+                    "name": "Text 1",
+                    "centerX": "93.00",
+                    "dataend": "00:59.58",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "00:54.51",
+                    "duration": "00:05.07",
+                    "zIndex": 9,
+                    "height": "522.00",
+                    "type": "txt-Paragraph",
+                    "centerY": "177.27"
+                },
+                {
+                    "scales": true,
+                    "id": "CC25EABD-40A0-D88A-DB91-C0BF88DE89A1",
+                    "text": "<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p style=\"text-align: center;\"><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\"><span style=\"color: #ffcc99;\"><em><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">ZOOM WAY OUT.</span></em></span></p>\n<p style=\"text-align: center;\"><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>\n<p><em><strong><span style=\"font-size: 34pt; font-family: HomepageBaukasten;\">&nbsp;</span></strong></em></p>",
+                    "width": "816.00",
+                    "name": "Text 1",
+                    "centerX": "0.00",
+                    "dataend": "00:18.10",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:15.17",
+                    "duration": "00:02.93",
+                    "zIndex": 9,
+                    "top": "71.00",
+                    "height": "458.00",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "1B99BB56-04CA-3973-E221-D16DA7926D5F",
+                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; font-size: 34pt;\"><span class=\"Apple-style-span\" style=\"line-height: 39px;\"><em><span style=\"color: #ffcc99;\">OR ARE THOSE ANSWERS ONLY DISCERNIBLE TO POST-BIOLOGICAL MINDS?</span></em><strong><em><br /></em></strong></span></span></p>",
+                    "width": "725.84",
+                    "name": "Text 1",
+                    "centerX": "-4.13",
+                    "dataend": "01:18.11",
+                    "transitionOut": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    },
+                    "databegin": "01:09.07",
+                    "duration": "00:09.04",
+                    "zIndex": 9,
+                    "height": "505.63",
+                    "type": "txt-Paragraph",
+                    "centerY": "178.25"
                 }
             ],
             "description": "An experiment with no expected outcome. What secrets are missed when we aren’t looking for them? Is there such a thing as a benign variable?",
@@ -1481,6 +1481,28 @@ klynt.data = {
             "duration": 179.72272286370557,
             "images": [
                 {
+                    "id": "3A1B7327-221F-003E-02ED-DED0F9F2E4C6",
+                    "src": "Medias/Photos/klynt_bg11.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "02:54.96",
+                    "name": "klynt_bg11.png",
+                    "dataend": "03:02.13",
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "00:07.17",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.4
+                    }
+                },
+                {
                     "id": "972305A0-9E22-4900-F82D-DFDE5A355318",
                     "src": "Medias/Photos/klynt_bg11.png",
                     "horizontalAlign": "center",
@@ -1498,28 +1520,6 @@ klynt.data = {
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
                     "duration": "00:06.85",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.4
-                    }
-                },
-                {
-                    "id": "3A1B7327-221F-003E-02ED-DED0F9F2E4C6",
-                    "src": "Medias/Photos/klynt_bg11.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "02:54.96",
-                    "name": "klynt_bg11.png",
-                    "dataend": "03:02.13",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "00:07.17",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
@@ -1645,1129 +1645,6 @@ klynt.data = {
             "hideTitleInMindmap": false,
             "tags": "magnet",
             "color": "rgba(104,86,129,1)"
-        },
-        "072CA418-48C0-A2BD-D23D-B229E8D4842D": {
-            "id": "072CA418-48C0-A2BD-D23D-B229E8D4842D",
-            "title": "Rhizomatic",
-            "backgroundColor": "rgba(255,255,255,1)",
-            "y": 771.05,
-            "x": 979.7,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "B9C340D5-7C79-90BB-F9CA-C7959818AC45",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 1,
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "01:01.58",
-                    "right": "0.00",
-                    "duration": "01:01.58",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "medium",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "6148547F-269C-FDCA-C361-C0973B133761",
-                    "left": "64.43",
-                    "width": "946.60",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "dataend": "00:55.97",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.19",
-                    "duration": "00:53.78",
-                    "zIndex": 4,
-                    "top": "13.70",
-                    "height": "582.28",
-                    "style": {
-                        "backgroundColor": "rgba(12,20,25,0)"
-                    },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/particlehole/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 59.39049288221096,
-            "images": [
-                {
-                    "id": "51C30FA2-7B60-8284-B2E1-D17E97BAB28A",
-                    "src": "Medias/Photos/klynt_bg8.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.00",
-                    "name": "klynt_bg8.png",
-                    "dataend": "01:01.58",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "01:01.58",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.3
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "CB99492C-4776-D1F2-962E-DEE68FA1F40C",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.19",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.00",
-                    "duration": "00:02.19",
-                    "zIndex": 6,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "60AEA0CE-F2E2-4ED4-FC96-C1F0BB31F035",
-                    "left": "16.84",
-                    "width": "47.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "01:00.39",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:03.49",
-                    "duration": "00:56.90",
-                    "zIndex": 5,
-                    "top": "277.00",
-                    "height": "47.00",
-                    "link": {
-                        "controlDX": 0.05660901325474624,
-                        "id": "376CC5A0-BA48-777B-9364-CC158453CAF2",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideRight",
-                        "controlDY": -0.7338434715098263,
-                        "color": "rgba(104,86,129,1)",
-                        "targetSequence": "EFF14793-31B1-D20D-2130-CBE6AA643ACC"
-                    },
-                    "type": "klynt-arrow-left"
-                },
-                {
-                    "scales": true,
-                    "id": "8F799103-FBC3-0AA2-924A-E0CA41110DAF",
-                    "bottom": "17.45",
-                    "width": "61.09",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "378.54",
-                    "dataend": "01:00.39",
-                    "databegin": "00:03.49",
-                    "duration": "00:56.90",
-                    "zIndex": 7,
-                    "label": "",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": 0.05087164733663355,
-                        "id": "DBADA804-B16F-4023-7DF1-E0CA411233A5",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideUp",
-                        "controlDY": 1.1762796697860616,
-                        "color": "rgba(104,86,129,1)",
-                        "targetSequence": "72D62182-9A8E-E459-43A4-D05483A381A7"
-                    },
-                    "type": "klynt-arrow-bottom"
-                },
-                {
-                    "scales": true,
-                    "id": "56DC19BA-9F61-20D1-08E3-E0DAED615824",
-                    "width": "61.09",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "-0.00",
-                    "dataend": "01:00.39",
-                    "databegin": "00:03.49",
-                    "duration": "00:56.90",
-                    "zIndex": 8,
-                    "label": "",
-                    "top": "17.45",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": 0.6599763418926026,
-                        "id": "556BAA06-1CD9-1DD8-EEA9-E0DAED673E91",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideDown",
-                        "controlDY": 1.493713334339735,
-                        "color": "rgba(104,86,129,1)",
-                        "targetSequence": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615"
-                    },
-                    "type": "klynt-arrow-top"
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "7F74D8E0-6341-C686-067C-C0973B13B542",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-RHIZO</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">MATIC</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
-                    "left": "845.39",
-                    "right": "-121.23",
-                    "name": "Text 1",
-                    "dataend": "00:55.97",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.19",
-                    "duration": "00:53.78",
-                    "zIndex": 2,
-                    "top": "-8.06",
-                    "height": "418.03",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "30B3DA30-CA17-2957-0E74-C0973B14F645",
-                    "text": "<p>&nbsp;</p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; color: #66ffcc;\"><em>Can I leave a lasting trace? Are monuments a point of fruition within an unseen network?</em></span></p>",
-                    "left": "68.79",
-                    "width": "330.74",
-                    "name": "Text 2",
-                    "dataend": "00:55.97",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.19",
-                    "duration": "00:53.78",
-                    "zIndex": 3,
-                    "top": "451.16",
-                    "height": "146.52",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "Can I leave a lasting trace? Are monuments a point of fruition within an unseen network?",
-            "hideTitleInMindmap": false,
-            "tags": "circleparticle",
-            "color": "rgba(104,86,129,1)"
-        },
-        "28E30679-51F2-D943-8D33-B2245BEE73BA": {
-            "id": "28E30679-51F2-D943-8D33-B2245BEE73BA",
-            "title": "Sub Chaotic Order",
-            "backgroundColor": "rgba(255,102,51,1)",
-            "y": 568.25,
-            "x": 118.8,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "755B6032-4B3C-A19C-E5F6-C7422668CA6C",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 1,
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:56.38",
-                    "right": "0.00",
-                    "duration": "00:56.38",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "medium",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "7AAE593C-887A-D2A6-B8AC-C0520C5AB60F",
-                    "left": "214.80",
-                    "width": "722.57",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "dataend": "00:53.79",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:03.83",
-                    "duration": "00:49.96",
-                    "zIndex": 4,
-                    "top": "126.97",
-                    "height": "442.44",
-                    "style": {
-                        "backgroundColor": "rgba(12,20,25,0)"
-                    },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/sliding-puzzle/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 55.377342497553805,
-            "images": [
-                {
-                    "id": "CDA5D1F0-5D59-B1FC-0E39-DF9CCD0C4BC0",
-                    "src": "Medias/Photos/klynt_bg22.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.00",
-                    "name": "klynt_bg22.png",
-                    "dataend": "00:56.38",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "00:56.38",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.2
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "77CD0580-61AD-AD1D-1A9F-DF99D3793A86",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.19",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.00",
-                    "duration": "00:02.19",
-                    "zIndex": 6,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "5EA0E162-053F-1FA5-CCF0-C1EDC0178CEF",
-                    "type": "klynt-arrow-right",
-                    "right": "17.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "00:56.38",
-                    "width": "47.00",
-                    "duration": "00:52.55",
-                    "zIndex": 5,
-                    "top": "15.00",
-                    "height": "47.00",
-                    "link": {
-                        "controlDX": -0.24046734349219928,
-                        "id": "8C802D67-DCF0-87D3-BC8D-C1EDC018ED58",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": -0.29147847436557434,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "F5029D57-06F1-E478-D4D1-B21BBCD2D858"
-                    },
-                    "databegin": "00:03.83"
-                },
-                {
-                    "scales": true,
-                    "id": "3FC106FF-EFB6-9FE7-F0C3-E0CC2305C728",
-                    "bottom": "17.45",
-                    "width": "61.09",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "-424.37",
-                    "dataend": "00:56.38",
-                    "databegin": "00:03.83",
-                    "duration": "00:52.55",
-                    "zIndex": 7,
-                    "label": "",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": 0.10145902271237936,
-                        "id": "9A2C0B7F-9F99-C59B-BA1F-E0CC230614AE",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideUp",
-                        "controlDY": 0.593418031519505,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D"
-                    },
-                    "type": "klynt-arrow-bottom"
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "B59B9FE4-A76C-E549-EB45-C0520C5A20E5",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-SUB</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; CHAO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;TIC </span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;ORDER</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
-                    "left": "317.84",
-                    "width": "438.78",
-                    "name": "Text 1",
-                    "dataend": "00:53.79",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:03.83",
-                    "duration": "00:49.96",
-                    "zIndex": 2,
-                    "top": "21.20",
-                    "height": "418.03",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "1C01FFD4-FD97-BCD1-16D9-C0520C5A8E02",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">The harder I try to understand my place in the universe, the more I&rsquo;m limited by my own perspective. Should I find solace that I have tested my limit? Satisfaction in the struggle? What is a metaphor but an inexact explanation?</span><br /></em></span></p>",
-                    "left": "181.60",
-                    "width": "330.74",
-                    "name": "Text 2",
-                    "dataend": "00:53.79",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:05.20",
-                    "duration": "00:48.59",
-                    "zIndex": 3,
-                    "top": "373.45",
-                    "height": "146.52",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "The harder I try to understand my place in the universe, the more I’m limited by my own perspective. Should I find solace that I have tested my limit? Satisfaction in the struggle? What is a metaphor but an inexact explanation?",
-            "hideTitleInMindmap": false,
-            "tags": "slideimage",
-            "color": "rgba(228,95,86,1)"
-        },
-        "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84": {
-            "id": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
-            "title": "Game Theory",
-            "backgroundColor": "rgba(0,0,51,1)",
-            "y": -265.8,
-            "x": -227.35,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "F5E8B114-E957-1F92-F974-C7598B87193E",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 1,
-                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "03:27.84",
-                    "right": "0.00",
-                    "duration": "03:27.84",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "medium",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "ACD97520-08F5-9BB6-8666-C0658AB33D93",
-                    "left": "37.83",
-                    "width": "910.98",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "barWipe"
-                    },
-                    "dataend": "03:24.38",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:12.74",
-                    "duration": "03:11.64",
-                    "zIndex": 4,
-                    "top": "12.61",
-                    "height": "559.05",
-                    "style": {
-                        "backgroundColor": "rgba(12,20,25,0)"
-                    },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/madlib/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 206.83693349986055,
-            "images": [
-                {
-                    "id": "21AC3C7D-EA0D-7769-977E-DF7D6AA73435",
-                    "src": "Medias/Photos/klynt_bg10.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.13",
-                    "name": "klynt_bg10.png",
-                    "dataend": "03:27.93",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "03:27.80",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.2
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "8FA87E80-A399-FB9E-9081-DF71B2D13522",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.32",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.13",
-                    "duration": "00:02.19",
-                    "zIndex": 6,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "2669A6E8-4585-E621-6B4E-C1EE5EC782D6",
-                    "type": "klynt-arrow-right",
-                    "right": "17.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "03:27.93",
-                    "width": "59.00",
-                    "duration": "03:24.34",
-                    "zIndex": 5,
-                    "top": "110.00",
-                    "height": "59.00",
-                    "link": {
-                        "controlDX": -0.31164319853950273,
-                        "id": "8D4D35A3-03BE-DD21-B669-C1EE5EC8B0A6",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": -0.3551862673544433,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "9F401E1D-B50B-C593-E26C-A8B987A00393"
-                    },
-                    "databegin": "00:03.59"
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "6065F3C9-2C2C-EF85-9B49-C0658AB27352",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-GAME</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; THEO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; RY </span></p>",
-                    "left": "756.41",
-                    "width": "258.58",
-                    "name": "Text 1",
-                    "dataend": "00:10.02",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.32",
-                    "duration": "00:07.70",
-                    "zIndex": 2,
-                    "top": "200.55",
-                    "height": "416.36",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "63AE2101-287B-3AA5-55B6-C0658AB41A61",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">There are a lot of ways to answer a question. Is there an undo button? If I change my answer, will I feel better about the inevitable, or agonize over my choice?</span><br /></em></span></p>",
-                    "left": "556.35",
-                    "width": "330.74",
-                    "name": "Text 2",
-                    "dataend": "00:12.74",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.32",
-                    "duration": "00:10.42",
-                    "zIndex": 3,
-                    "top": "472.83",
-                    "height": "99.73",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "There are a lot of ways to answer a question. Is there an undo button? If I change my answer, will I feel better about the inevitable, or agonize over my choice?",
-            "hideTitleInMindmap": false,
-            "tags": "madlib",
-            "color": "rgba(228,95,86,1)"
-        },
-        "EA611BAB-21EB-5F65-B405-A8BA5B879E7D": {
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "DB10D5E5-8C9F-2B71-CE78-C1EBD2E408A1",
-                    "type": "klynt-arrow-right",
-                    "right": "17.45",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "00:52.16",
-                    "width": "61.09",
-                    "duration": "00:49.08",
-                    "zIndex": 21,
-                    "top": "17.45",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": 0.11012257469984954,
-                        "id": "D036566E-7E31-C43B-23BC-C1EBD2E45AC8",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": 0.478724119689404,
-                        "color": "rgba(104,86,129,1)",
-                        "targetSequence": "9F5A314A-671C-3E18-3150-B21E3122D1B4"
-                    },
-                    "databegin": "00:03.08"
-                }
-            ],
-            "id": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D",
-            "title": "Reversed Hierarchy",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "y": -273.55,
-            "x": 319.53333333333336,
-            "thumbnail": "Medias/Thumbnails/drone_medium.mp4.jpg",
-            "videos": [
-                {
-                    "id": "D602CA0F-7772-A64D-EAFD-DF6A82064A82",
-                    "src": [
-                        {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/drone_introfreeze_nosound_slower.mp4"
-                        }
-                    ],
-                    "volume": 1,
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
-                    "loop": false,
-                    "databegin": "00:07.33",
-                    "name": "drone_introfreeze_nosound_slower.mp4",
-                    "autoplay": true,
-                    "dataend": "00:46.04",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 1920,
-                    "poster": "Medias/Posters/drone_introfreeze_nosound_slower.mp4.jpg",
-                    "duration": "00:38.71",
-                    "zIndex": 19,
-                    "mediaHeight": 1080,
-                    "player": false,
-                    "fitToWindow": true,
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    }
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "large",
-            "duration": 51.1567370634396,
-            "images": [
-                {
-                    "scales": true,
-                    "id": "0DECF8EC-834A-44B9-6B56-DF6BFDE55A89",
-                    "src": "Medias/Photos/klynt_bg3.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "left": "0.00",
-                    "width": "1066.00",
-                    "name": "klynt_bg3.png",
-                    "dataend": "00:52.16",
-                    "mediaWidth": 1066,
-                    "databegin": "00:00.00",
-                    "duration": "00:52.16",
-                    "zIndex": 17,
-                    "top": "-0.84",
-                    "height": "600.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.3
-                    },
-                    "mediaHeight": 600
-                },
-                {
-                    "scales": true,
-                    "id": "7F450B9C-7FCE-21D5-0CC3-DF674166DFD9",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.19",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.00",
-                    "duration": "00:02.19",
-                    "zIndex": 22,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "021104F1-83E2-2E96-7D1B-DF6CB7E096E3",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 0.9,
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:52.16",
-                    "right": "0.00",
-                    "duration": "00:52.16",
-                    "zIndex": 16,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "3D9F4462-F3CD-3A95-1DEA-C07038A6C069",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\"> REVER-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;SED </span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;HIER-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; ARCHY</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>",
-                    "left": "371.96",
-                    "width": "341.84",
-                    "name": "Text 1",
-                    "dataend": "00:07.33",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.19",
-                    "duration": "00:05.14",
-                    "zIndex": 18,
-                    "top": "102.18",
-                    "height": "418.04",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "B8439442-F0B9-F689-3D65-C07038A751D3",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Everything that we see can be defined by a set of coordinates and properties. Can we quantify consciousness? Should we?</span><br /></em></span></p>",
-                    "left": "628.19",
-                    "width": "330.74",
-                    "name": "Text 2",
-                    "dataend": "00:52.16",
-                    "databegin": "00:44.08",
-                    "duration": "00:08.08",
-                    "zIndex": 20,
-                    "top": "418.50",
-                    "height": "146.52",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "Everything that we see can be defined by a set of coordinates and properties. Can we quantify consciousness? Should we?",
-            "hideTitleInMindmap": false,
-            "tags": "drone",
-            "color": "rgba(104,86,129,1)"
-        },
-        "9F5A314A-671C-3E18-3150-B21E3122D1B4": {
-            "id": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
-            "title": "384 Chances",
-            "backgroundColor": "rgba(0,153,0,1)",
-            "y": 315.25,
-            "x": -370.25,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "007A84DC-8DC3-AE14-8581-C70596161D64",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "loop": true,
-                    "overlayVolume": 1,
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:31.17",
-                    "right": "0.00",
-                    "duration": "00:31.17",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "hideInMindmap": false,
-            "size": "medium",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "DBEF5098-363B-ED44-83A9-C025F9CD8BC7",
-                    "left": "110.55",
-                    "width": "829.13",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "dataend": "00:28.19",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:09.27",
-                    "duration": "00:18.92",
-                    "zIndex": 5,
-                    "top": "3.00",
-                    "height": "608.13",
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/magnify/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 30.170963430925553,
-            "images": [
-                {
-                    "scales": false,
-                    "id": "4D8FCA80-E0B9-764A-E6DD-DF82F9296941",
-                    "src": "Medias/Photos/klynt_bg14.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "left": "0.00",
-                    "width": "1066.00",
-                    "name": "klynt_bg14.png",
-                    "dataend": "00:31.17",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 1066,
-                    "databegin": "00:00.40",
-                    "duration": "00:30.77",
-                    "zIndex": 1,
-                    "top": "0.00",
-                    "height": "600.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.5
-                    },
-                    "mediaHeight": 600
-                },
-                {
-                    "scales": true,
-                    "id": "E0F7A3BA-72A3-AF42-9DC4-DF7C0E3E1D31",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.59",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.40",
-                    "duration": "00:02.19",
-                    "zIndex": 6,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "D0BB4676-F2BF-3AA7-29B3-C1EC0D99468D",
-                    "type": "klynt-arrow-right",
-                    "right": "16.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "00:31.17",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "48.00",
-                    "duration": "00:27.69",
-                    "zIndex": 4,
-                    "top": "342.00",
-                    "height": "48.00",
-                    "link": {
-                        "controlDX": -0.0928225704544408,
-                        "id": "C9A51A36-911C-315F-8461-C1EC0D9A1419",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": -0.7868943575061421,
-                        "color": "rgba(120,192,168,1)",
-                        "targetSequence": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615"
-                    },
-                    "databegin": "00:03.48"
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "5EAA761C-4604-E76B-55F0-C025F9CD2B0A",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; -</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">384</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;CHAN-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">CES</span></p>",
-                    "left": "468.00",
-                    "width": "165.00",
-                    "name": "Text 1",
-                    "dataend": "00:08.37",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.59",
-                    "duration": "00:05.78",
-                    "zIndex": 2,
-                    "top": "84.00",
-                    "height": "418.00",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "9784D0F1-E6D9-55D8-C301-C025F9CD42B0",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Science begins and ends in speculation. </em></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>384 chances to find the best guess. </em></span></p>",
-                    "left": "200.92",
-                    "width": "343.00",
-                    "name": "Text 2",
-                    "dataend": "00:09.27",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.59",
-                    "duration": "00:06.68",
-                    "zIndex": 3,
-                    "top": "416.36",
-                    "height": "64.00",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                }
-            ],
-            "description": "Science begins and ends in speculation. 384 chances to find the best guess. \n\n",
-            "hideTitleInMindmap": false,
-            "tags": "magnify",
-            "color": "rgba(120,192,168,1)"
         },
         "452423DF-F904-5D46-A88E-CE6E65FBC44E": {
             "id": "452423DF-F904-5D46-A88E-CE6E65FBC44E",
@@ -3655,36 +2532,36 @@ klynt.data = {
             "tags": "lastpage",
             "color": "rgba(0,0,0,1)"
         },
-        "DB2620A3-D6DC-682F-0341-B2237F985571": {
-            "id": "DB2620A3-D6DC-682F-0341-B2237F985571",
-            "title": "Monumental On A Subatomic Scale",
-            "backgroundColor": "rgba(255,102,255,1)",
-            "y": 1188.9,
-            "x": -147.25,
+        "28E30679-51F2-D943-8D33-B2245BEE73BA": {
+            "id": "28E30679-51F2-D943-8D33-B2245BEE73BA",
+            "title": "Sub Chaotic Order",
+            "backgroundColor": "rgba(255,102,51,1)",
+            "y": 568.25,
+            "x": 118.8,
             "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
             "audios": [
                 {
                     "scales": false,
-                    "id": "53A1450F-8A68-204C-B89C-DF9D9C294D95",
+                    "id": "755B6032-4B3C-A19C-E5F6-C7422668CA6C",
                     "src": [
                         {
                             "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
                         }
                     ],
                     "loop": false,
                     "overlayVolume": 1,
-                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
                     "left": "0.00",
                     "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "00:39.44",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "00:56.38",
                     "right": "0.00",
-                    "duration": "00:39.44",
+                    "duration": "00:56.38",
                     "zIndex": 0,
                     "height": "30.00",
                     "player": false,
-                    "continuous": false,
+                    "continuous": true,
                     "volume": 1,
                     "bottom": "0.00",
                     "autoplay": true,
@@ -3696,56 +2573,56 @@ klynt.data = {
             "iframes": [
                 {
                     "scales": true,
-                    "id": "AE0A81BC-983E-6742-98E0-C049220B0F8E",
-                    "left": "273.88",
-                    "width": "736.72",
+                    "id": "7AAE593C-887A-D2A6-B8AC-C0520C5AB60F",
+                    "left": "214.80",
+                    "width": "722.57",
                     "transitionIn": {
                         "duration": "2",
                         "type": "fade"
                     },
-                    "dataend": "00:35.99",
+                    "dataend": "00:53.79",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:03.58",
-                    "duration": "00:32.41",
+                    "databegin": "00:03.83",
+                    "duration": "00:49.96",
                     "zIndex": 4,
-                    "top": "-53.29",
-                    "height": "542.51",
+                    "top": "126.97",
+                    "height": "442.44",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/zoominadam/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/sliding-puzzle/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
-            "duration": 38.44155328713686,
+            "duration": 55.377342497553805,
             "images": [
                 {
-                    "id": "7F841CAB-B9F3-70EE-2FD0-DF9D5B6D9ECE",
-                    "src": "Medias/Photos/klynt_bg7.png",
+                    "id": "CDA5D1F0-5D59-B1FC-0E39-DF9CCD0C4BC0",
+                    "src": "Medias/Photos/klynt_bg22.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "databegin": "00:00.00",
-                    "name": "klynt_bg7.png",
-                    "dataend": "00:39.44",
+                    "name": "klynt_bg22.png",
+                    "dataend": "00:56.38",
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
-                    "duration": "00:39.44",
+                    "duration": "00:56.38",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
                     "scaleMode": "zoom",
                     "style": {
-                        "opacity": 0.3
+                        "opacity": 0.2
                     }
                 },
                 {
                     "scales": true,
-                    "id": "10843D84-801D-4778-4902-DF9DC06C56AE",
+                    "id": "77CD0580-61AD-AD1D-1A9F-DF99D3793A86",
                     "src": "Medias/Photos/circle3.gif",
                     "horizontalAlign": "center",
                     "transitionIn": {
@@ -3775,83 +2652,83 @@ klynt.data = {
             "buttons": [
                 {
                     "scales": true,
-                    "id": "BAF49F7D-F4A0-15E5-BE65-C1F01AE5E0D5",
-                    "bottom": "16.00",
-                    "width": "61.00",
+                    "id": "5EA0E162-053F-1FA5-CCF0-C1EDC0178CEF",
+                    "type": "klynt-arrow-right",
+                    "right": "17.00",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "centerX": "428.00",
-                    "dataend": "00:39.44",
-                    "databegin": "00:03.58",
-                    "duration": "00:35.86",
-                    "zIndex": 5,
                     "label": "",
-                    "height": "61.00",
+                    "dataend": "00:56.38",
+                    "width": "47.00",
+                    "duration": "00:52.55",
+                    "zIndex": 5,
+                    "top": "15.00",
+                    "height": "47.00",
                     "link": {
-                        "controlDX": 0.02810526497003558,
-                        "id": "EA2D8CC3-C970-F115-6126-C1F01AE661EC",
+                        "controlDX": -0.24046734349219928,
+                        "id": "8C802D67-DCF0-87D3-BC8D-C1EDC018ED58",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
-                        "transition": "slideUp",
-                        "controlDY": -0.15388563359153423,
+                        "transition": "slideLeft",
+                        "controlDY": -0.29147847436557434,
                         "color": "rgba(228,95,86,1)",
-                        "targetSequence": "800A7613-272A-BA7D-7D3E-B2266BA246D8"
+                        "targetSequence": "F5029D57-06F1-E478-D4D1-B21BBCD2D858"
                     },
-                    "type": "klynt-arrow-bottom"
+                    "databegin": "00:03.83"
                 },
                 {
                     "scales": true,
-                    "id": "B3327A21-91B4-2A3C-7185-E0EBE4B3F64D",
-                    "left": "17.45",
+                    "id": "3FC106FF-EFB6-9FE7-F0C3-E0CC2305C728",
+                    "bottom": "17.45",
                     "width": "61.09",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "label": "",
-                    "dataend": "00:39.44",
-                    "databegin": "00:00.00",
-                    "duration": "00:39.44",
+                    "centerX": "-424.37",
+                    "dataend": "00:56.38",
+                    "databegin": "00:03.83",
+                    "duration": "00:52.55",
                     "zIndex": 7,
+                    "label": "",
                     "height": "61.09",
                     "link": {
-                        "controlDX": 0.002033147932554666,
-                        "id": "12EBE115-63A6-AE67-21D1-E0EBE4B4393D",
+                        "controlDX": 0.10145902271237936,
+                        "id": "9A2C0B7F-9F99-C59B-BA1F-E0CC230614AE",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
-                        "transition": "slideRight",
-                        "controlDY": -0.3064124343354503,
+                        "transition": "slideUp",
+                        "controlDY": 0.593418031519505,
                         "color": "rgba(228,95,86,1)",
-                        "targetSequence": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
+                        "targetSequence": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D"
                     },
-                    "type": "klynt-arrow-left",
-                    "centerY": "0.00"
+                    "type": "klynt-arrow-bottom"
                 }
             ],
             "texts": [
                 {
                     "scales": true,
-                    "id": "6795D582-D5EB-AC87-CDDE-C049220B79DA",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;MON-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">UMEN-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TAL </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\">ON </span></span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">A </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;SUB-</span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ATOM-</span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;IC </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SCALE</span></p>",
-                    "left": "132.53",
-                    "width": "341.85",
+                    "id": "B59B9FE4-A76C-E549-EB45-C0520C5A20E5",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-SUB</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; CHAO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;TIC </span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;ORDER</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
+                    "left": "317.84",
+                    "width": "438.78",
                     "name": "Text 1",
-                    "dataend": "00:35.99",
+                    "dataend": "00:53.79",
                     "transitionOut": {
                         "duration": "3",
                         "type": "fade"
                     },
-                    "databegin": "00:02.19",
-                    "duration": "00:33.80",
+                    "databegin": "00:03.83",
+                    "duration": "00:49.96",
                     "zIndex": 2,
-                    "top": "33.68",
-                    "height": "555.22",
+                    "top": "21.20",
+                    "height": "418.03",
                     "type": "txt-Title-1",
                     "transitionIn": {
                         "duration": "1",
@@ -3860,21 +2737,21 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "54939510-ED03-E5C7-0D91-C049220CFCF7",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">From stardust to cell, we project our strange paradigms to force sensibility from chaos. Should I trust in strange new magic?</span> <br /></em></span></p>",
-                    "left": "292.85",
-                    "width": "343.30",
+                    "id": "1C01FFD4-FD97-BCD1-16D9-C0520C5A8E02",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">The harder I try to understand my place in the universe, the more I&rsquo;m limited by my own perspective. Should I find solace that I have tested my limit? Satisfaction in the struggle? What is a metaphor but an inexact explanation?</span><br /></em></span></p>",
+                    "left": "181.60",
+                    "width": "330.74",
                     "name": "Text 2",
-                    "dataend": "00:35.99",
+                    "dataend": "00:53.79",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:02.88",
-                    "duration": "00:33.11",
+                    "databegin": "00:05.20",
+                    "duration": "00:48.59",
                     "zIndex": 3,
-                    "top": "522.20",
-                    "height": "64.37",
+                    "top": "373.45",
+                    "height": "146.52",
                     "type": "txt-Paragraph",
                     "transitionIn": {
                         "duration": "1",
@@ -3882,79 +2759,22 @@ klynt.data = {
                     }
                 }
             ],
-            "description": "From stardust to cell, we project our strange paradigms to force sensibility from chaos. Should I trust in strange new magic? ",
+            "description": "The harder I try to understand my place in the universe, the more I’m limited by my own perspective. Should I find solace that I have tested my limit? Satisfaction in the struggle? What is a metaphor but an inexact explanation?",
             "hideTitleInMindmap": false,
-            "tags": "adam",
+            "tags": "slideimage",
             "color": "rgba(228,95,86,1)"
         },
-        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676": {
-            "id": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
-            "title": "Post Intelligence",
+        "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84": {
+            "id": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
+            "title": "Game Theory",
             "backgroundColor": "rgba(0,0,51,1)",
-            "y": -45.749999999999986,
-            "x": 1510.1833333333334,
-            "hideInMindmap": false,
-            "size": "large",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "A42C0E20-288D-7D74-6BAF-CBFC37B73D3E",
-                    "left": "40.19",
-                    "width": "1057.83",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "dataend": "02:40.99",
-                    "databegin": "00:01.21",
-                    "duration": "02:39.78",
-                    "zIndex": 1,
-                    "top": "11.91",
-                    "height": "577.42",
-                    "style": {
-                        "backgroundColor": "rgba(12,20,25,0)"
-                    },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/wordscramble/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 159.77815435848547,
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "FBDCE59A-1B13-58D9-1040-D70A86CBDB39",
-                    "left": "905.00",
-                    "width": "44.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "02:41.88",
-                    "databegin": "00:02.10",
-                    "duration": "02:39.78",
-                    "zIndex": 2,
-                    "top": "16.00",
-                    "height": "44.00",
-                    "link": {
-                        "controlDX": -0.8807894174071853,
-                        "id": "F3B5EB63-561B-5B95-6387-D70A86CF1B16",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideDown",
-                        "controlDY": 1.55623732566442,
-                        "color": "rgba(104,86,129,1)",
-                        "targetSequence": "22ABBCF5-20C7-55F8-F5EF-B22344377737"
-                    },
-                    "type": "klynt-arrow-top"
-                }
-            ],
+            "y": -265.8,
+            "x": -227.35,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
             "audios": [
                 {
                     "scales": false,
-                    "id": "CC9D713C-E74B-3098-C4AE-CBFD3AB32939",
+                    "id": "F5E8B114-E957-1F92-F974-C7598B87193E",
                     "src": [
                         {
                             "type": "audio/mp3",
@@ -3967,49 +2787,9 @@ klynt.data = {
                     "left": "0.00",
                     "databegin": "00:00.00",
                     "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "02:40.99",
+                    "dataend": "03:27.84",
                     "right": "0.00",
-                    "duration": "02:40.99",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
-                }
-            ],
-            "hideTitleInMindmap": false,
-            "tags": "wordscramble",
-            "color": "rgba(104,86,129,1)"
-        },
-        "9CABE6C0-8F8D-33A6-18C5-B22098D003D5": {
-            "id": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5",
-            "title": "Objects Are Closer ",
-            "backgroundColor": "rgba(255,153,153,1)",
-            "y": -285.55,
-            "x": 1185.75,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "audios": [
-                {
-                    "scales": false,
-                    "id": "B468C808-3714-1E65-5AF7-CC265E554553",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 1,
-                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
-                    "left": "0.00",
-                    "databegin": "00:02.46",
-                    "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "01:08.57",
-                    "right": "0.00",
-                    "duration": "01:06.11",
+                    "duration": "03:27.84",
                     "zIndex": 0,
                     "height": "30.00",
                     "player": false,
@@ -4025,49 +2805,45 @@ klynt.data = {
             "iframes": [
                 {
                     "scales": true,
-                    "id": "1923BFAD-C215-2D61-4C4A-C01D25992AE6",
-                    "left": "26.46",
-                    "width": "1040.66",
+                    "id": "ACD97520-08F5-9BB6-8666-C0658AB33D93",
+                    "left": "37.83",
+                    "width": "910.98",
                     "transitionIn": {
                         "duration": "2",
-                        "type": "fade"
+                        "type": "barWipe"
                     },
-                    "dataend": "00:56.14",
+                    "dataend": "03:24.38",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:06.19",
-                    "duration": "00:49.95",
-                    "zIndex": 2,
-                    "top": "27.40",
-                    "height": "584.69",
+                    "databegin": "00:12.74",
+                    "duration": "03:11.64",
+                    "zIndex": 4,
+                    "top": "12.61",
+                    "height": "559.05",
                     "style": {
                         "backgroundColor": "rgba(12,20,25,0)"
                     },
-                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/webcampixel/index.html\" frameborder=\"0\" allow=\"camera *;microphone *\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/madlib/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
-            "duration": 79.50654830217279,
+            "duration": 206.83693349986055,
             "images": [
                 {
-                    "id": "75517FAA-60F6-CC18-11DF-DF57C1AB1A3C",
-                    "src": "Medias/Photos/klynt_bg17.png",
+                    "id": "21AC3C7D-EA0D-7769-977E-DF7D6AA73435",
+                    "src": "Medias/Photos/klynt_bg10.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:00.27",
-                    "name": "klynt_bg17.png",
-                    "dataend": "00:40.13",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
+                    "databegin": "00:00.13",
+                    "name": "klynt_bg10.png",
+                    "dataend": "03:27.93",
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
-                    "duration": "00:39.86",
+                    "duration": "03:27.80",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
@@ -4078,7 +2854,7 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "2931388C-0D7C-58CF-99D5-DF530AE369D4",
+                    "id": "8FA87E80-A399-FB9E-9081-DF71B2D13522",
                     "src": "Medias/Photos/circle3.gif",
                     "horizontalAlign": "center",
                     "transitionIn": {
@@ -4088,15 +2864,15 @@ klynt.data = {
                     "width": "509.00",
                     "name": "circle3.gif",
                     "centerX": "0.00",
-                    "dataend": "00:02.46",
+                    "dataend": "00:02.32",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "mediaWidth": 480,
-                    "databegin": "00:00.27",
+                    "databegin": "00:00.13",
                     "duration": "00:02.19",
-                    "zIndex": 7,
+                    "zIndex": 6,
                     "top": "64.00",
                     "height": "509.00",
                     "verticalAlign": "middle",
@@ -4108,92 +2884,54 @@ klynt.data = {
             "buttons": [
                 {
                     "scales": true,
-                    "id": "3CF42CD9-9259-F588-755B-CC18DE7E75BD",
+                    "id": "2669A6E8-4585-E621-6B4E-C1EE5EC782D6",
                     "type": "klynt-arrow-right",
-                    "right": "16.00",
+                    "right": "17.00",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "01:08.57",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "47.00",
-                    "duration": "01:06.11",
-                    "zIndex": 6,
-                    "top": "181.00",
-                    "height": "47.00",
+                    "dataend": "03:27.93",
+                    "width": "59.00",
+                    "duration": "03:24.34",
+                    "zIndex": 5,
+                    "top": "110.00",
+                    "height": "59.00",
                     "link": {
-                        "controlDX": -0.32862273831811417,
-                        "id": "D18C41F3-87FD-E8FE-8633-CC18DE7FE727",
+                        "controlDX": -0.31164319853950273,
+                        "id": "8D4D35A3-03BE-DD21-B669-C1EE5EC8B0A6",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
                         "transition": "slideLeft",
-                        "controlDY": -0.378571722396304,
-                        "color": "rgba(120,192,168,1)",
-                        "targetSequence": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84"
-                    },
-                    "databegin": "00:02.46"
-                },
-                {
-                    "scales": true,
-                    "id": "C331DFE4-B8E0-BE7B-1288-E0CE43DD33A8",
-                    "width": "61.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "374.54",
-                    "dataend": "00:39.86",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.00",
-                    "duration": "00:39.86",
-                    "zIndex": 9,
-                    "label": "",
-                    "top": "17.15",
-                    "height": "61.00",
-                    "link": {
-                        "controlDX": -0.5743538979361746,
-                        "id": "6B73FDD3-3420-E384-474A-E0CE43DEA497",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideDown",
-                        "controlDY": -0.801050135927331,
-                        "color": "rgba(120,192,168,1)",
+                        "controlDY": -0.3551862673544433,
+                        "color": "rgba(228,95,86,1)",
                         "targetSequence": "9F401E1D-B50B-C593-E26C-A8B987A00393"
                     },
-                    "type": "klynt-arrow-top"
+                    "databegin": "00:03.59"
                 }
             ],
             "texts": [
                 {
                     "scales": true,
-                    "id": "9F030D6C-B342-DB42-DFF5-C01E7C9D9BB5",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Does the scale of our perspective decide how much we get to know? What details are obscured by our means of observation? What do I deny in myself that I plainly see in others?</em></span></p>",
-                    "left": "649.49",
-                    "width": "353.22",
-                    "name": "Text 2",
-                    "dataend": "00:54.87",
+                    "id": "6065F3C9-2C2C-EF85-9B49-C0658AB27352",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: 'Droid Sans';\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-GAME</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; THEO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; RY </span></p>",
+                    "left": "756.41",
+                    "width": "258.58",
+                    "name": "Text 1",
+                    "dataend": "00:10.02",
                     "transitionOut": {
-                        "duration": "1",
+                        "duration": "3",
                         "type": "fade"
                     },
-                    "databegin": "00:04.92",
-                    "duration": "00:49.95",
-                    "zIndex": 3,
-                    "top": "367.38",
-                    "height": "101.53",
-                    "type": "txt-Paragraph",
+                    "databegin": "00:02.32",
+                    "duration": "00:07.70",
+                    "zIndex": 2,
+                    "top": "200.55",
+                    "height": "416.36",
+                    "type": "txt-Title-1",
                     "transitionIn": {
                         "duration": "1",
                         "type": "typeWriter"
@@ -4201,38 +2939,38 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "9F527528-E019-25E3-970E-C01E7C9E0F2D",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;OBJ-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ECTS</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; ARE CL-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;OSER</span></p>",
-                    "left": "88.25",
-                    "width": "341.83",
-                    "name": "Text 1",
-                    "dataend": "00:52.41",
+                    "id": "63AE2101-287B-3AA5-55B6-C0658AB41A61",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">There are a lot of ways to answer a question. Is there an undo button? If I change my answer, will I feel better about the inevitable, or agonize over my choice?</span><br /></em></span></p>",
+                    "left": "556.35",
+                    "width": "330.74",
+                    "name": "Text 2",
+                    "dataend": "00:12.74",
                     "transitionOut": {
-                        "duration": "3",
+                        "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:02.46",
-                    "duration": "00:49.95",
-                    "zIndex": 4,
-                    "top": "220.16",
-                    "height": "303.61",
-                    "type": "txt-Title-1",
+                    "databegin": "00:02.32",
+                    "duration": "00:10.42",
+                    "zIndex": 3,
+                    "top": "472.83",
+                    "height": "99.73",
+                    "type": "txt-Paragraph",
                     "transitionIn": {
                         "duration": "1",
                         "type": "typeWriter"
                     }
                 }
             ],
-            "description": "Does the scale of our perspective decide how much we get to know? What details are obscured by our means of observation? What do I deny in myself that I plainly see in others?",
+            "description": "There are a lot of ways to answer a question. Is there an undo button? If I change my answer, will I feel better about the inevitable, or agonize over my choice?",
             "hideTitleInMindmap": false,
-            "tags": "pixelcam",
-            "color": "rgba(120,192,168,1)"
+            "tags": "madlib",
+            "color": "rgba(228,95,86,1)"
         },
-        "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": {
+        "EA611BAB-21EB-5F65-B405-A8BA5B879E7D": {
             "buttons": [
                 {
                     "scales": true,
-                    "id": "4F2E4F1D-9C5C-8309-0933-C1ED70F3CB67",
+                    "id": "DB10D5E5-8C9F-2B71-CE78-C1EBD2E408A1",
                     "type": "klynt-arrow-right",
                     "right": "17.45",
                     "transitionIn": {
@@ -4240,132 +2978,102 @@ klynt.data = {
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "00:46.03",
+                    "dataend": "00:52.16",
                     "width": "61.09",
-                    "duration": "00:42.34",
-                    "zIndex": 10,
+                    "duration": "00:49.08",
+                    "zIndex": 21,
                     "top": "17.45",
                     "height": "61.09",
                     "link": {
-                        "controlDX": -0.6033754481411929,
-                        "id": "444F80FC-C4B1-2615-2334-C1ED70F4C44F",
+                        "controlDX": 0.11012257469984954,
+                        "id": "D036566E-7E31-C43B-23BC-C1EBD2E45AC8",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
                         "transition": "slideLeft",
-                        "controlDY": 0.8546922081646375,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "800A7613-272A-BA7D-7D3E-B2266BA246D8"
+                        "controlDY": 0.478724119689404,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "9F5A314A-671C-3E18-3150-B21E3122D1B4"
                     },
-                    "databegin": "00:03.69"
-                },
-                {
-                    "scales": true,
-                    "id": "DD25A935-F9BB-14F7-D478-E0D346FCF3FD",
-                    "bottom": "17.45",
-                    "width": "61.09",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "-420.00",
-                    "dataend": "00:46.03",
-                    "databegin": "00:03.69",
-                    "duration": "00:42.34",
-                    "zIndex": 12,
-                    "label": "",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": -0.3336603986413341,
-                        "id": "C17FFE0E-F69F-CC58-77C1-E0D346FEB110",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideUp",
-                        "controlDY": 1.60240713680085,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
-                    },
-                    "type": "klynt-arrow-bottom"
+                    "databegin": "00:03.08"
                 }
             ],
-            "id": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
-            "title": "Familiar Anarchy",
-            "backgroundColor": "rgba(12,20,25,1)",
-            "y": 307.1,
-            "x": 166.35,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "id": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D",
+            "title": "Reversed Hierarchy",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": -273.55,
+            "x": 319.53333333333336,
+            "thumbnail": "Medias/Thumbnails/drone_medium.mp4.jpg",
             "videos": [
                 {
-                    "scales": true,
+                    "id": "D602CA0F-7772-A64D-EAFD-DF6A82064A82",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/mirror_magritte_vertical_medium_short.mp4"
+                            "src": "Medias/Videos/drone_introfreeze_nosound_slower.mp4"
                         }
                     ],
-                    "poster": "Medias/Posters/mirror_magritte_vertical_medium_short.mp4.jpg",
-                    "transitionIn": {
+                    "volume": 1,
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": false,
+                    "databegin": "00:07.33",
+                    "name": "drone_introfreeze_nosound_slower.mp4",
+                    "autoplay": true,
+                    "dataend": "00:46.04",
+                    "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "top": "73.00",
-                    "id": "E3D97C01-92DE-476A-E6E2-A8BC470AB30D",
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
-                    "loop": true,
-                    "left": "419.00",
-                    "databegin": "00:16.75",
-                    "name": "mirror_magritte_vertical_medium_short.mp4",
-                    "dataend": "00:39.30",
-                    "mediaWidth": 1216,
-                    "verticalAlign": "middle",
-                    "duration": "00:22.55",
-                    "zIndex": 8,
-                    "mediaHeight": 2160,
-                    "height": "527.00",
+                    "mediaWidth": 1920,
+                    "poster": "Medias/Posters/drone_introfreeze_nosound_slower.mp4.jpg",
+                    "duration": "00:38.71",
+                    "zIndex": 19,
+                    "mediaHeight": 1080,
                     "player": false,
-                    "volume": 1,
-                    "width": "296.00",
+                    "fitToWindow": true,
+                    "verticalAlign": "middle",
                     "scaleMode": "zoom",
-                    "autoplay": true
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    }
                 }
             ],
             "hideInMindmap": false,
-            "size": "medium",
-            "duration": 45.02769353563234,
+            "size": "large",
+            "duration": 51.1567370634396,
             "images": [
                 {
-                    "id": "1899AA3B-1311-B558-6A69-DF8B13D6B3E6",
-                    "src": "Medias/Photos/klynt_bg2.png",
+                    "scales": true,
+                    "id": "0DECF8EC-834A-44B9-6B56-DF6BFDE55A89",
+                    "src": "Medias/Photos/klynt_bg3.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:00.59",
-                    "name": "klynt_bg2.png",
-                    "dataend": "00:46.03",
+                    "left": "0.00",
+                    "width": "1066.00",
+                    "name": "klynt_bg3.png",
+                    "dataend": "00:52.16",
                     "mediaWidth": 1066,
+                    "databegin": "00:00.00",
+                    "duration": "00:52.16",
+                    "zIndex": 17,
+                    "top": "-0.84",
+                    "height": "600.00",
                     "verticalAlign": "middle",
-                    "duration": "00:45.44",
-                    "zIndex": 1,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
                     "scaleMode": "zoom",
                     "style": {
                         "opacity": 0.3
-                    }
+                    },
+                    "mediaHeight": 600
                 },
                 {
                     "scales": true,
-                    "id": "4D575E28-6580-27BB-9ABD-DF89493D2C5A",
+                    "id": "7F450B9C-7FCE-21D5-0CC3-DF674166DFD9",
                     "src": "Medias/Photos/circle3.gif",
                     "horizontalAlign": "center",
                     "transitionIn": {
@@ -4375,15 +3083,15 @@ klynt.data = {
                     "width": "509.00",
                     "name": "circle3.gif",
                     "centerX": "0.00",
-                    "dataend": "00:02.78",
+                    "dataend": "00:02.19",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "mediaWidth": 480,
-                    "databegin": "00:00.59",
+                    "databegin": "00:00.00",
                     "duration": "00:02.19",
-                    "zIndex": 11,
+                    "zIndex": 22,
                     "top": "64.00",
                     "height": "509.00",
                     "verticalAlign": "middle",
@@ -4395,7 +3103,7 @@ klynt.data = {
             "audios": [
                 {
                     "scales": false,
-                    "id": "5DAD7AD8-6DE9-CC67-0661-C737D370EF85",
+                    "id": "021104F1-83E2-2E96-7D1B-DF6CB7E096E3",
                     "src": [
                         {
                             "type": "audio/mp3",
@@ -4403,15 +3111,15 @@ klynt.data = {
                         }
                     ],
                     "loop": false,
-                    "overlayVolume": 1,
+                    "overlayVolume": 0.9,
                     "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
                     "left": "0.00",
                     "databegin": "00:00.00",
                     "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:46.03",
+                    "dataend": "00:52.16",
                     "right": "0.00",
-                    "duration": "00:46.03",
-                    "zIndex": 0,
+                    "duration": "00:52.16",
+                    "zIndex": 16,
                     "height": "30.00",
                     "player": false,
                     "continuous": true,
@@ -4424,136 +3132,21 @@ klynt.data = {
             "texts": [
                 {
                     "scales": true,
-                    "id": "5C550D36-6DD0-5210-C37A-C05AE2E1CFB7",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Un miroir</span><br /><br /></em></span></p>",
-                    "left": "834.98",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:26.65",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:22.74",
-                    "duration": "00:03.91",
-                    "zIndex": 2,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "491E31D8-C36E-2410-8492-C05B48FFAD2B",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Une jumelle</span><br /><br /></em></span></p>",
-                    "left": "835.97",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:30.58",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:26.65",
-                    "duration": "00:03.93",
-                    "zIndex": 3,
-                    "top": "259.92",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "0D11AF11-ABA5-413F-79BC-C05B879FAD26",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Un reflet</span><br /><br /><br /></em></span></p>",
-                    "left": "836.91",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:34.26",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:30.58",
-                    "duration": "00:03.68",
-                    "zIndex": 4,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "732184B4-FE50-5A17-EC0E-C05BCD68F960",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>moi-m&ecirc;me</em></span></p>",
-                    "left": "836.91",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:38.50",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:34.26",
-                    "duration": "00:04.24",
-                    "zIndex": 5,
-                    "top": "259.90",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "5881C29A-D51E-F91B-B7E0-C056C329E0C2",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Ceci n'est pas ...</span><br /><br /></em></span></p>",
-                    "left": "750.92",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "00:38.50",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:20.26",
-                    "duration": "00:18.24",
-                    "zIndex": 6,
-                    "top": "236.71",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "3AF7E3CC-916B-E1A1-84C4-CE937199A811",
-                    "text": "<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;<span style=\"background-color: #336699;\">&nbsp;</span> &nbsp;&nbsp;</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">FAMI-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">LIAR</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;ANA-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"><span style=\"background-color: #ff6600;\">&nbsp;&nbsp;&nbsp;</span>&nbsp; RCHY</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp;</span></p>",
-                    "left": "423.28",
-                    "width": "287.74",
+                    "id": "3D9F4462-F3CD-3A95-1DEA-C07038A6C069",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\"> REVER-</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;SED </span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;HIER-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; ARCHY</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>",
+                    "left": "371.96",
+                    "width": "341.84",
                     "name": "Text 1",
-                    "dataend": "00:41.76",
+                    "dataend": "00:07.33",
                     "transitionOut": {
                         "duration": "3",
                         "type": "fade"
                     },
-                    "databegin": "00:13.89",
-                    "duration": "00:27.87",
-                    "zIndex": 7,
-                    "top": "77.08",
-                    "height": "565.85",
+                    "databegin": "00:02.19",
+                    "duration": "00:05.14",
+                    "zIndex": 18,
+                    "top": "102.18",
+                    "height": "418.04",
                     "type": "txt-Title-1",
                     "transitionIn": {
                         "duration": "1",
@@ -4562,21 +3155,17 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "94593AEE-6F01-CEED-3F4E-A8BDB81C0A17",
-                    "text": "<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Mirror mirror</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Shining bright,</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Wish I may or wish I might</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>What dark geometry must we try</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>To decouple you and I</em></span></span></p>\n<p><span style=\"color: #66ffcc;\">&nbsp;</span></p>\n<p><span style=\"color: #66ff99;\">&nbsp;</span></p>\n<p><span style=\"color: #66ff99;\">&nbsp;</span></p>",
-                    "left": "317.00",
-                    "width": "400.00",
-                    "name": "Text 1",
-                    "dataend": "00:11.24",
-                    "transitionOut": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.78",
-                    "duration": "00:08.46",
-                    "zIndex": 9,
-                    "top": "252.00",
-                    "height": "263.00",
+                    "id": "B8439442-F0B9-F689-3D65-C07038A751D3",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Everything that we see can be defined by a set of coordinates and properties. Can we quantify consciousness? Should we?</span><br /></em></span></p>",
+                    "left": "628.19",
+                    "width": "330.74",
+                    "name": "Text 2",
+                    "dataend": "00:52.16",
+                    "databegin": "00:44.08",
+                    "duration": "00:08.08",
+                    "zIndex": 20,
+                    "top": "418.50",
+                    "height": "146.52",
                     "type": "txt-Paragraph",
                     "transitionIn": {
                         "duration": "1",
@@ -4584,104 +3173,315 @@ klynt.data = {
                     }
                 }
             ],
-            "description": "Ceci n'est pas ...\nUn miroir\nUne jumelle\nUn reflet\nmoi-même\n",
+            "description": "Everything that we see can be defined by a set of coordinates and properties. Can we quantify consciousness? Should we?",
             "hideTitleInMindmap": false,
-            "tags": "mirrormirror",
-            "color": "rgba(228,95,86,1)"
+            "tags": "drone",
+            "color": "rgba(104,86,129,1)"
         },
-        "9F401E1D-B50B-C593-E26C-A8B987A00393": {
-            "buttons": [
+        "9F5A314A-671C-3E18-3150-B21E3122D1B4": {
+            "id": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
+            "title": "384 Chances",
+            "backgroundColor": "rgba(0,153,0,1)",
+            "y": 315.25,
+            "x": -370.25,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "audios": [
                 {
                     "scales": false,
-                    "id": "309E4A70-4148-B476-ED97-C1EA23B2F56B",
-                    "left": "16.00",
-                    "width": "56.00",
+                    "id": "007A84DC-8DC3-AE14-8581-C70596161D64",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
+                        }
+                    ],
+                    "loop": true,
+                    "overlayVolume": 1,
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "00:31.17",
+                    "right": "0.00",
+                    "duration": "00:31.17",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "DBEF5098-363B-ED44-83A9-C025F9CD8BC7",
+                    "left": "110.55",
+                    "width": "829.13",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "00:28.19",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:09.27",
+                    "duration": "00:18.92",
+                    "zIndex": 5,
+                    "top": "3.00",
+                    "height": "608.13",
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/magnify/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                }
+            ],
+            "duration": 30.170963430925553,
+            "images": [
+                {
+                    "scales": false,
+                    "id": "4D8FCA80-E0B9-764A-E6DD-DF82F9296941",
+                    "src": "Medias/Photos/klynt_bg14.png",
+                    "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "label": "",
-                    "dataend": "03:27.64",
-                    "databegin": "00:04.97",
-                    "duration": "03:22.67",
-                    "zIndex": 5,
-                    "top": "114.00",
-                    "height": "56.00",
-                    "link": {
-                        "controlDX": -1.050935576091815,
-                        "id": "C4EE56F0-5265-D771-054E-DF7B75EA993C",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideRight",
-                        "controlDY": 1.6521780424842074,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D"
+                    "left": "0.00",
+                    "width": "1066.00",
+                    "name": "klynt_bg14.png",
+                    "dataend": "00:31.17",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
                     },
-                    "type": "klynt-arrow-left"
+                    "mediaWidth": 1066,
+                    "databegin": "00:00.40",
+                    "duration": "00:30.77",
+                    "zIndex": 1,
+                    "top": "0.00",
+                    "height": "600.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.5
+                    },
+                    "mediaHeight": 600
                 },
                 {
                     "scales": true,
-                    "id": "0F5EEE8C-0F0F-0009-885B-C1EEDC82AE01",
-                    "bottom": "16.00",
-                    "left": "510.00",
-                    "width": "47.00",
+                    "id": "E0F7A3BA-72A3-AF42-9DC4-DF7C0E3E1D31",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.59",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.40",
+                    "duration": "00:02.19",
+                    "zIndex": 6,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "D0BB4676-F2BF-3AA7-29B3-C1EC0D99468D",
+                    "type": "klynt-arrow-right",
+                    "right": "16.00",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "label": "",
-                    "dataend": "03:27.64",
-                    "databegin": "00:04.97",
-                    "duration": "03:22.67",
-                    "zIndex": 6,
-                    "height": "47.00",
+                    "dataend": "00:31.17",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "48.00",
+                    "duration": "00:27.69",
+                    "zIndex": 4,
+                    "top": "342.00",
+                    "height": "48.00",
                     "link": {
-                        "controlDX": 0.045025889987360304,
-                        "id": "328B4930-DEC6-AA9B-334B-C1EEDC83CBBC",
+                        "controlDX": -0.0928225704544408,
+                        "id": "C9A51A36-911C-315F-8461-C1EC0D9A1419",
                         "hideInMindmap": false,
                         "linkType": "linkToSequence",
                         "automaticTransition": false,
                         "hideArrowInMindmap": false,
-                        "transition": "slideUp",
-                        "controlDY": -1.4934771107810494,
-                        "color": "rgba(228,95,86,1)",
-                        "targetSequence": "D6939662-0785-2FBF-4D56-A8C2A1F9B075"
+                        "transition": "slideLeft",
+                        "controlDY": -0.7868943575061421,
+                        "color": "rgba(120,192,168,1)",
+                        "targetSequence": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615"
                     },
-                    "type": "klynt-arrow-bottom"
+                    "databegin": "00:03.48"
                 }
             ],
-            "id": "9F401E1D-B50B-C593-E26C-A8B987A00393",
-            "title": "Mayhem Explored",
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "5EAA761C-4604-E76B-55F0-C025F9CD2B0A",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; -</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\">&nbsp;</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">384</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;CHAN-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">CES</span></p>",
+                    "left": "468.00",
+                    "width": "165.00",
+                    "name": "Text 1",
+                    "dataend": "00:08.37",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.59",
+                    "duration": "00:05.78",
+                    "zIndex": 2,
+                    "top": "84.00",
+                    "height": "418.00",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "9784D0F1-E6D9-55D8-C301-C025F9CD42B0",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Science begins and ends in speculation. </em></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>384 chances to find the best guess. </em></span></p>",
+                    "left": "200.92",
+                    "width": "343.00",
+                    "name": "Text 2",
+                    "dataend": "00:09.27",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.59",
+                    "duration": "00:06.68",
+                    "zIndex": 3,
+                    "top": "416.36",
+                    "height": "64.00",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "Science begins and ends in speculation. 384 chances to find the best guess. \n\n",
+            "hideTitleInMindmap": false,
+            "tags": "magnify",
+            "color": "rgba(120,192,168,1)"
+        },
+        "F5029D57-06F1-E478-D4D1-B21BBCD2D858": {
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "6B70A161-67A9-0168-76FF-C1EDF12EF768",
+                    "type": "klynt-arrow-right",
+                    "right": "17.45",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "00:56.48",
+                    "width": "61.09",
+                    "duration": "00:49.79",
+                    "zIndex": 5,
+                    "top": "509.45",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": -0.12168556609618104,
+                        "id": "702943B8-03C0-BE8C-DEC9-E0B9320D26C1",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": 0.21980987245498745,
+                        "color": "rgba(120,192,168,1)",
+                        "targetSequence": "50AAD418-2324-4768-0BFC-B221F96E5BA8"
+                    },
+                    "databegin": "00:06.69"
+                },
+                {
+                    "scales": true,
+                    "id": "EAD5EBCA-081F-5161-606C-E0D7DB04D90E",
+                    "width": "61.09",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "-344.73",
+                    "dataend": "00:56.48",
+                    "databegin": "00:06.69",
+                    "duration": "00:49.79",
+                    "zIndex": 7,
+                    "label": "",
+                    "top": "17.45",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": 0.23735152345293453,
+                        "id": "274E58F6-66EB-1051-5816-E0D7DB05A93C",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideDown",
+                        "controlDY": -0.41256090146800933,
+                        "color": "rgba(120,192,168,1)",
+                        "targetSequence": "A6AACE12-738D-1FE5-F018-B224F477D83A"
+                    },
+                    "type": "klynt-arrow-top"
+                }
+            ],
+            "id": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
+            "title": "Backmasking the Echo",
             "backgroundColor": "rgba(0,0,0,1)",
-            "y": 56.350000000000016,
-            "x": -335.6166666666666,
-            "thumbnail": "Medias/Thumbnails/Seq_1_medium.mp4.jpg",
+            "y": -188.95,
+            "x": 689.9833333333333,
+            "thumbnail": "Medias/Thumbnails/bolex2_medium.mp4.jpg",
             "videos": [
                 {
-                    "id": "7D7C1AB2-0E9E-C6FF-98D4-DF7654304775",
+                    "id": "F571CFD8-D9F2-D5A5-05AD-E0343887B4A0",
                     "src": [
                         {
                             "type": "video/mp4",
-                            "src": "Medias/Videos/Seq_1_medium-no_sound.mp4"
+                            "src": "Medias/Videos/bolex-nosound.mp4"
                         }
                     ],
                     "volume": 1,
                     "horizontalAlign": "center",
                     "frameRate": 0,
                     "loop": false,
-                    "databegin": "00:08.17",
-                    "name": "Seq_1_medium-no_sound.mp4",
+                    "databegin": "00:06.69",
+                    "name": "bolex-nosound.mp4",
                     "autoplay": true,
-                    "dataend": "03:13.69",
+                    "dataend": "00:36.54",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
                     "mediaWidth": 1920,
-                    "poster": "Medias/Posters/Seq_1_medium-no_sound.mp4.jpg",
-                    "duration": "03:05.52",
+                    "poster": "Medias/Posters/bolex-nosound.mp4.jpg",
+                    "duration": "00:29.85",
                     "zIndex": 4,
                     "mediaHeight": 1080,
                     "player": false,
@@ -4696,26 +3496,22 @@ klynt.data = {
             ],
             "hideInMindmap": false,
             "size": "large",
-            "duration": 206.521642219071,
+            "duration": 55.47959339944159,
             "images": [
                 {
-                    "id": "5F7AB2F9-7D8F-3DC7-DA09-DFDC29888D75",
-                    "src": "Medias/Photos/klynt_bg7.png",
+                    "id": "817D5B12-9DD0-C15C-2B11-DF65D7CB45C0",
+                    "src": "Medias/Photos/klynt_bg12.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:00.00",
-                    "name": "klynt_bg7.png",
-                    "dataend": "03:26.28",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
+                    "databegin": "00:01.68",
+                    "name": "klynt_bg12.png",
+                    "dataend": "00:56.48",
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
-                    "duration": "03:26.28",
+                    "duration": "00:54.80",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
@@ -4726,7 +3522,7 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "3A7DD730-3919-3EC5-9040-DF758CCA9ACA",
+                    "id": "028CDE86-064C-185C-D50C-DF5F2AA26F63",
                     "src": "Medias/Photos/circle3.gif",
                     "horizontalAlign": "center",
                     "transitionIn": {
@@ -4744,7 +3540,7 @@ klynt.data = {
                     "mediaWidth": 480,
                     "databegin": "00:00.00",
                     "duration": "00:02.19",
-                    "zIndex": 7,
+                    "zIndex": 6,
                     "top": "64.00",
                     "height": "509.00",
                     "verticalAlign": "middle",
@@ -4756,27 +3552,27 @@ klynt.data = {
             "audios": [
                 {
                     "scales": false,
-                    "id": "5434F50D-6050-4D64-0E39-CE8250C889AA",
+                    "id": "AFBF1D69-FC4A-9181-8B96-C747A4B2428A",
                     "src": [
                         {
                             "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
                         }
                     ],
                     "loop": false,
-                    "overlayVolume": 1,
-                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "overlayVolume": 0.9,
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
                     "left": "0.00",
                     "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_3min.mp3",
-                    "dataend": "03:26.28",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "00:56.48",
                     "right": "0.00",
-                    "duration": "03:26.28",
+                    "duration": "00:56.48",
                     "zIndex": 0,
                     "height": "30.00",
                     "player": false,
                     "continuous": true,
-                    "volume": 0.9,
+                    "volume": 1,
                     "bottom": "0.00",
                     "autoplay": true,
                     "sequenceEndVolume": 1
@@ -4785,277 +3581,40 @@ klynt.data = {
             "texts": [
                 {
                     "scales": true,
-                    "id": "DD15708B-A108-ECEB-6779-C0473D48FC0D",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Science begins and ends in speculation. 384 chances to find the best guess. </em></span></p>",
-                    "left": "196.36",
-                    "width": "343.30",
-                    "name": "Text 2",
-                    "dataend": "03:20.75",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "03:13.69",
-                    "duration": "00:07.06",
-                    "zIndex": 2,
-                    "top": "442.53",
-                    "height": "64.37",
-                    "type": "txt-Paragraph",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "33B8F79F-65B2-EFF3-E1F1-C0473D47518D",
-                    "text": "<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">MAY-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\">HAM</span></span></p>\n<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">- &nbsp;<span style=\"background-color: #0033cc;\"> &nbsp;&nbsp;</span></span></p>\n<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">&nbsp;EXP-</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"color: #ff0000; background-color: #33ff00;\">LORED</span><span style=\"color: #ff3300;\"><br /></span></span></p>",
-                    "left": "719.86",
-                    "right": "4.30",
+                    "id": "296066A2-660E-71FA-9DA0-C042E0CABAD9",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;BACK-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">- &nbsp; &nbsp; &nbsp;MASK-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ING</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #3399ff;\"> &nbsp;</span> THE</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;ECHO</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>",
+                    "left": "582.16",
+                    "width": "647.99",
                     "name": "Text 1",
-                    "dataend": "00:08.17",
+                    "dataend": "00:06.69",
                     "transitionOut": {
                         "duration": "3",
                         "type": "fade"
                     },
                     "databegin": "00:02.19",
-                    "duration": "00:05.98",
-                    "zIndex": 3,
-                    "top": "168.93",
+                    "duration": "00:04.50",
+                    "zIndex": 2,
+                    "top": "123.13",
                     "height": "418.03",
                     "type": "txt-Title-1",
                     "transitionIn": {
                         "duration": "1",
                         "type": "typeWriter"
                     }
-                }
-            ],
-            "description": "When chaos is permitted, the mind constructs patterns to understand it. Does order only exist in observation? Are we stuck pacing in a hall of mirrors, a prison of our own illusory framework?\n\n",
-            "hideTitleInMindmap": false,
-            "tags": "sliceoflife",
-            "color": "rgba(228,95,86,1)"
-        },
-        "800A7613-272A-BA7D-7D3E-B2266BA246D8": {
-            "id": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
-            "title": "The Sky's Mouth Was Filled",
-            "backgroundColor": "rgba(102,51,0,1)",
-            "y": 703.85,
-            "x": 450.5,
-            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
-            "hideInMindmap": false,
-            "size": "medium",
-            "iframes": [
-                {
-                    "scales": true,
-                    "id": "F0EADE18-A0AD-A6BE-E0CF-C06A4CF82391",
-                    "left": "2.30",
-                    "width": "997.01",
-                    "transitionIn": {
-                        "duration": "2",
-                        "type": "fade"
-                    },
-                    "dataend": "01:09.68",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:11.24",
-                    "duration": "00:58.44",
-                    "zIndex": 4,
-                    "top": "1.67",
-                    "height": "607.57",
-                    "style": {
-                        "backgroundColor": "rgba(12,20,25,0)"
-                    },
-                    "code": "\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/soundplanets/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
-                }
-            ],
-            "duration": 78.96576867619065,
-            "images": [
-                {
-                    "id": "D7988C26-F2F0-69C5-8E61-DECA4FEA9E2D",
-                    "src": "Medias/Photos/klynt_bg4.png",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:00.00",
-                    "name": "klynt_bg4.png",
-                    "dataend": "01:19.97",
-                    "mediaWidth": 1066,
-                    "verticalAlign": "middle",
-                    "duration": "01:19.97",
-                    "zIndex": 0,
-                    "mediaHeight": 600,
-                    "fitToWindow": true,
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.4
-                    }
                 },
                 {
                     "scales": true,
-                    "id": "61B9DEC0-6A4C-1DAB-5552-CF4E73465877",
-                    "src": "Medias/Photos/aerial-view.jpg",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "left": "41.78",
-                    "width": "890.81",
-                    "name": "aerial-view.jpg",
-                    "dataend": "01:10.60",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 1066,
-                    "databegin": "00:02.12",
-                    "duration": "01:08.48",
-                    "zIndex": 1,
-                    "top": "-40.53",
-                    "height": "667.69",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "style": {
-                        "opacity": 0.4
-                    },
-                    "mediaHeight": 799
-                },
-                {
-                    "scales": true,
-                    "id": "2C8D2AC5-C025-8E18-F5D4-DECB18853DAE",
-                    "src": "Medias/Photos/circle3.gif",
-                    "horizontalAlign": "center",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "width": "509.00",
-                    "name": "circle3.gif",
-                    "centerX": "0.00",
-                    "dataend": "00:02.12",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "mediaWidth": 480,
-                    "databegin": "00:00.00",
-                    "duration": "00:02.12",
-                    "zIndex": 7,
-                    "top": "64.00",
-                    "height": "509.00",
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "mediaHeight": 480
-                }
-            ],
-            "hideThumbnailInMindmap": false,
-            "buttons": [
-                {
-                    "scales": true,
-                    "id": "DA70941D-61C7-1253-FB4A-C1F03CD2BF40",
-                    "type": "klynt-arrow-right",
-                    "right": "17.45",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "01:21.13",
-                    "width": "61.09",
-                    "duration": "01:17.63",
-                    "zIndex": 5,
-                    "top": "209.45",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": -0.23879195627697233,
-                        "id": "D63BFA0B-3679-DBEE-2B65-E0B39ED51455",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": -0.3606297149930643,
-                        "color": "rgba(240,120,24,1)",
-                        "targetSequence": "072CA418-48C0-A2BD-D23D-B229E8D4842D"
-                    },
-                    "databegin": "00:03.50"
-                },
-                {
-                    "scales": true,
-                    "id": "C0723A1F-D44A-E50D-1BA7-C1F095CF0010",
-                    "left": "384.00",
-                    "width": "47.00",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "01:19.97",
-                    "databegin": "00:02.12",
-                    "duration": "01:17.85",
-                    "zIndex": 6,
-                    "top": "16.00",
-                    "height": "47.00",
-                    "link": {
-                        "controlDX": 0.03784361048235997,
-                        "id": "FDC3DD5C-530F-1893-AFB1-C1F095D53965",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideDown",
-                        "controlDY": 0.24707606334359064,
-                        "color": "rgba(240,120,24,1)",
-                        "targetSequence": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B"
-                    },
-                    "type": "klynt-arrow-top"
-                }
-            ],
-            "texts": [
-                {
-                    "scales": true,
-                    "id": "E523AC84-F404-01B9-CCC0-C06A4CF742BA",
-                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"color: #ff3300;\">&nbsp;&nbsp;&nbsp;</span><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00;\">-THE</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;SKY'S</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"> MO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"><span style=\"background-color: #3300ff;\">&nbsp;&nbsp;</span> &nbsp;UTH</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;WAS</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;FILL- &nbsp;<span style=\"background-color: #bbbbbb;\"> &nbsp;</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; ED</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
-                    "left": "575.00",
-                    "width": "342.00",
-                    "name": "Text 1",
-                    "dataend": "00:11.24",
-                    "transitionOut": {
-                        "duration": "3",
-                        "type": "fade"
-                    },
-                    "databegin": "00:02.12",
-                    "duration": "00:09.12",
-                    "zIndex": 2,
-                    "top": "86.00",
-                    "height": "418.00",
-                    "type": "txt-Title-1",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "typeWriter"
-                    }
-                },
-                {
-                    "scales": true,
-                    "id": "7D0C4884-37E0-CCFD-EF3E-C06A4CF82E27",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">My voice is so small on the cosmic scale&ndash;shall I deify myself to the microscopic?</span><br /></em></span></p>",
-                    "left": "216.49",
-                    "width": "330.74",
+                    "id": "0342DC3A-C83E-CA69-54B7-C042E0CBA297",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">What is the importance of the time between seconds? Do eons pass on the laboratory slide just as my entire life is a blink in the eye of the cosmos?</span><br /></em></span></p>",
+                    "left": "322.92",
+                    "width": "343.31",
                     "name": "Text 2",
-                    "dataend": "00:11.24",
-                    "transitionOut": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "databegin": "00:03.50",
-                    "duration": "00:07.74",
+                    "dataend": "00:56.48",
+                    "databegin": "00:37.21",
+                    "duration": "00:19.27",
                     "zIndex": 3,
-                    "top": "355.29",
-                    "height": "146.52",
+                    "top": "466.68",
+                    "height": "64.37",
                     "type": "txt-Paragraph",
                     "transitionIn": {
                         "duration": "1",
@@ -5063,10 +3622,10 @@ klynt.data = {
                     }
                 }
             ],
-            "description": "My voice is so small on the cosmic scale–shall I deify myself to the microscopic?\n\n",
+            "description": "What is the importance of the time between seconds? Do eons pass on the laboratory slide just as my entire life is a blink in the eye of the cosmos?",
             "hideTitleInMindmap": false,
-            "tags": "soundbodies",
-            "color": "rgba(240,120,24,1)"
+            "tags": "bolex",
+            "color": "rgba(120,192,168,1)"
         },
         "72D62182-9A8E-E459-43A4-D05483A381A7": {
             "id": "72D62182-9A8E-E459-43A4-D05483A381A7",
@@ -5865,6 +4424,1419 @@ klynt.data = {
             ],
             "tags": "starmap",
             "color": "rgba(253,201,230,1)"
+        },
+        "9F401E1D-B50B-C593-E26C-A8B987A00393": {
+            "buttons": [
+                {
+                    "scales": false,
+                    "id": "309E4A70-4148-B476-ED97-C1EA23B2F56B",
+                    "left": "16.00",
+                    "width": "56.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "03:27.64",
+                    "databegin": "00:04.97",
+                    "duration": "03:22.67",
+                    "zIndex": 5,
+                    "top": "114.00",
+                    "height": "56.00",
+                    "link": {
+                        "controlDX": -1.050935576091815,
+                        "id": "C4EE56F0-5265-D771-054E-DF7B75EA993C",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideRight",
+                        "controlDY": 1.6521780424842074,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D"
+                    },
+                    "type": "klynt-arrow-left"
+                },
+                {
+                    "scales": true,
+                    "id": "0F5EEE8C-0F0F-0009-885B-C1EEDC82AE01",
+                    "bottom": "16.00",
+                    "left": "510.00",
+                    "width": "47.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "03:27.64",
+                    "databegin": "00:04.97",
+                    "duration": "03:22.67",
+                    "zIndex": 6,
+                    "height": "47.00",
+                    "link": {
+                        "controlDX": 0.045025889987360304,
+                        "id": "328B4930-DEC6-AA9B-334B-C1EEDC83CBBC",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideUp",
+                        "controlDY": -1.4934771107810494,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "D6939662-0785-2FBF-4D56-A8C2A1F9B075"
+                    },
+                    "type": "klynt-arrow-bottom"
+                }
+            ],
+            "id": "9F401E1D-B50B-C593-E26C-A8B987A00393",
+            "title": "Mayhem Explored",
+            "backgroundColor": "rgba(0,0,0,1)",
+            "y": 56.350000000000016,
+            "x": -335.6166666666666,
+            "thumbnail": "Medias/Thumbnails/Seq_1_medium.mp4.jpg",
+            "videos": [
+                {
+                    "id": "7D7C1AB2-0E9E-C6FF-98D4-DF7654304775",
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/Seq_1_medium-no_sound.mp4"
+                        }
+                    ],
+                    "volume": 1,
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": false,
+                    "databegin": "00:08.17",
+                    "name": "Seq_1_medium-no_sound.mp4",
+                    "autoplay": true,
+                    "dataend": "03:13.69",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1920,
+                    "poster": "Medias/Posters/Seq_1_medium-no_sound.mp4.jpg",
+                    "duration": "03:05.52",
+                    "zIndex": 4,
+                    "mediaHeight": 1080,
+                    "player": false,
+                    "fitToWindow": true,
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    }
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "large",
+            "duration": 206.521642219071,
+            "images": [
+                {
+                    "id": "5F7AB2F9-7D8F-3DC7-DA09-DFDC29888D75",
+                    "src": "Medias/Photos/klynt_bg7.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.00",
+                    "name": "klynt_bg7.png",
+                    "dataend": "03:26.28",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "03:26.28",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.3
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "3A7DD730-3919-3EC5-9040-DF758CCA9ACA",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.19",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.00",
+                    "duration": "00:02.19",
+                    "zIndex": 7,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "5434F50D-6050-4D64-0E39-CE8250C889AA",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "loop": false,
+                    "overlayVolume": 1,
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "03:26.28",
+                    "right": "0.00",
+                    "duration": "03:26.28",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 0.9,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "DD15708B-A108-ECEB-6779-C0473D48FC0D",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Science begins and ends in speculation. 384 chances to find the best guess. </em></span></p>",
+                    "left": "196.36",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "03:20.75",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "03:13.69",
+                    "duration": "00:07.06",
+                    "zIndex": 2,
+                    "top": "442.53",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "33B8F79F-65B2-EFF3-E1F1-C0473D47518D",
+                    "text": "<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">MAY-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff0000; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\">HAM</span></span></p>\n<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">- &nbsp;<span style=\"background-color: #0033cc;\"> &nbsp;&nbsp;</span></span></p>\n<p style=\"text-align: left;\"><span style=\"background-color: #33ff00; color: #ff0000; font-family: HomepageBaukasten;\">&nbsp;EXP-</span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"color: #ff0000; background-color: #33ff00;\">LORED</span><span style=\"color: #ff3300;\"><br /></span></span></p>",
+                    "left": "719.86",
+                    "right": "4.30",
+                    "name": "Text 1",
+                    "dataend": "00:08.17",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.19",
+                    "duration": "00:05.98",
+                    "zIndex": 3,
+                    "top": "168.93",
+                    "height": "418.03",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "When chaos is permitted, the mind constructs patterns to understand it. Does order only exist in observation? Are we stuck pacing in a hall of mirrors, a prison of our own illusory framework?\n\n",
+            "hideTitleInMindmap": false,
+            "tags": "sliceoflife",
+            "color": "rgba(228,95,86,1)"
+        },
+        "9CABE6C0-8F8D-33A6-18C5-B22098D003D5": {
+            "id": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5",
+            "title": "Objects Are Closer ",
+            "backgroundColor": "rgba(255,153,153,1)",
+            "y": -285.55,
+            "x": 1185.75,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "B468C808-3714-1E65-5AF7-CC265E554553",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "loop": false,
+                    "overlayVolume": 1,
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "left": "0.00",
+                    "databegin": "00:02.46",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "01:08.57",
+                    "right": "0.00",
+                    "duration": "01:06.11",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "1923BFAD-C215-2D61-4C4A-C01D25992AE6",
+                    "left": "26.46",
+                    "width": "1040.66",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "00:56.14",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:06.19",
+                    "duration": "00:49.95",
+                    "zIndex": 2,
+                    "top": "27.40",
+                    "height": "584.69",
+                    "style": {
+                        "backgroundColor": "rgba(12,20,25,0)"
+                    },
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/webcampixel/index.html\" frameborder=\"0\" allow=\"camera *;microphone *\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                }
+            ],
+            "duration": 79.50654830217279,
+            "images": [
+                {
+                    "id": "75517FAA-60F6-CC18-11DF-DF57C1AB1A3C",
+                    "src": "Medias/Photos/klynt_bg17.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.27",
+                    "name": "klynt_bg17.png",
+                    "dataend": "00:40.13",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "00:39.86",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.2
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "2931388C-0D7C-58CF-99D5-DF530AE369D4",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.46",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.27",
+                    "duration": "00:02.19",
+                    "zIndex": 7,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "3CF42CD9-9259-F588-755B-CC18DE7E75BD",
+                    "type": "klynt-arrow-right",
+                    "right": "16.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "01:08.57",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "47.00",
+                    "duration": "01:06.11",
+                    "zIndex": 6,
+                    "top": "181.00",
+                    "height": "47.00",
+                    "link": {
+                        "controlDX": -0.32862273831811417,
+                        "id": "D18C41F3-87FD-E8FE-8633-CC18DE7FE727",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": -0.378571722396304,
+                        "color": "rgba(120,192,168,1)",
+                        "targetSequence": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84"
+                    },
+                    "databegin": "00:02.46"
+                },
+                {
+                    "scales": true,
+                    "id": "C331DFE4-B8E0-BE7B-1288-E0CE43DD33A8",
+                    "width": "61.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "374.54",
+                    "dataend": "00:39.86",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.00",
+                    "duration": "00:39.86",
+                    "zIndex": 9,
+                    "label": "",
+                    "top": "17.15",
+                    "height": "61.00",
+                    "link": {
+                        "controlDX": -0.5743538979361746,
+                        "id": "6B73FDD3-3420-E384-474A-E0CE43DEA497",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideDown",
+                        "controlDY": -0.801050135927331,
+                        "color": "rgba(120,192,168,1)",
+                        "targetSequence": "9F401E1D-B50B-C593-E26C-A8B987A00393"
+                    },
+                    "type": "klynt-arrow-top"
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "9F030D6C-B342-DB42-DFF5-C01E7C9D9BB5",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>Does the scale of our perspective decide how much we get to know? What details are obscured by our means of observation? What do I deny in myself that I plainly see in others?</em></span></p>",
+                    "left": "649.49",
+                    "width": "353.22",
+                    "name": "Text 2",
+                    "dataend": "00:54.87",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:04.92",
+                    "duration": "00:49.95",
+                    "zIndex": 3,
+                    "top": "367.38",
+                    "height": "101.53",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "9F527528-E019-25E3-970E-C01E7C9E0F2D",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;OBJ-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ECTS</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; ARE CL-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;OSER</span></p>",
+                    "left": "88.25",
+                    "width": "341.83",
+                    "name": "Text 1",
+                    "dataend": "00:52.41",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.46",
+                    "duration": "00:49.95",
+                    "zIndex": 4,
+                    "top": "220.16",
+                    "height": "303.61",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "Does the scale of our perspective decide how much we get to know? What details are obscured by our means of observation? What do I deny in myself that I plainly see in others?",
+            "hideTitleInMindmap": false,
+            "tags": "pixelcam",
+            "color": "rgba(120,192,168,1)"
+        },
+        "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": {
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "4F2E4F1D-9C5C-8309-0933-C1ED70F3CB67",
+                    "type": "klynt-arrow-right",
+                    "right": "17.45",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "00:46.03",
+                    "width": "61.09",
+                    "duration": "00:42.34",
+                    "zIndex": 10,
+                    "top": "17.45",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": -0.6033754481411929,
+                        "id": "444F80FC-C4B1-2615-2334-C1ED70F4C44F",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": 0.8546922081646375,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "800A7613-272A-BA7D-7D3E-B2266BA246D8"
+                    },
+                    "databegin": "00:03.69"
+                },
+                {
+                    "scales": true,
+                    "id": "DD25A935-F9BB-14F7-D478-E0D346FCF3FD",
+                    "bottom": "17.45",
+                    "width": "61.09",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "-420.00",
+                    "dataend": "00:46.03",
+                    "databegin": "00:03.69",
+                    "duration": "00:42.34",
+                    "zIndex": 12,
+                    "label": "",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": -0.3336603986413341,
+                        "id": "C17FFE0E-F69F-CC58-77C1-E0D346FEB110",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideUp",
+                        "controlDY": 1.60240713680085,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
+                    },
+                    "type": "klynt-arrow-bottom"
+                }
+            ],
+            "id": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
+            "title": "Familiar Anarchy",
+            "backgroundColor": "rgba(12,20,25,1)",
+            "y": 307.1,
+            "x": 166.35,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "videos": [
+                {
+                    "scales": true,
+                    "src": [
+                        {
+                            "type": "video/mp4",
+                            "src": "Medias/Videos/mirror_magritte_vertical_medium_short.mp4"
+                        }
+                    ],
+                    "poster": "Medias/Posters/mirror_magritte_vertical_medium_short.mp4.jpg",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "top": "73.00",
+                    "id": "E3D97C01-92DE-476A-E6E2-A8BC470AB30D",
+                    "horizontalAlign": "center",
+                    "frameRate": 0,
+                    "loop": true,
+                    "left": "419.00",
+                    "databegin": "00:16.75",
+                    "name": "mirror_magritte_vertical_medium_short.mp4",
+                    "dataend": "00:39.30",
+                    "mediaWidth": 1216,
+                    "verticalAlign": "middle",
+                    "duration": "00:22.55",
+                    "zIndex": 8,
+                    "mediaHeight": 2160,
+                    "height": "527.00",
+                    "player": false,
+                    "volume": 1,
+                    "width": "296.00",
+                    "scaleMode": "zoom",
+                    "autoplay": true
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "duration": 45.02769353563234,
+            "images": [
+                {
+                    "id": "1899AA3B-1311-B558-6A69-DF8B13D6B3E6",
+                    "src": "Medias/Photos/klynt_bg2.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.59",
+                    "name": "klynt_bg2.png",
+                    "dataend": "00:46.03",
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "00:45.44",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.3
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "4D575E28-6580-27BB-9ABD-DF89493D2C5A",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.78",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.59",
+                    "duration": "00:02.19",
+                    "zIndex": 11,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "5DAD7AD8-6DE9-CC67-0661-C737D370EF85",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
+                        }
+                    ],
+                    "loop": false,
+                    "overlayVolume": 1,
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "00:46.03",
+                    "right": "0.00",
+                    "duration": "00:46.03",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "5C550D36-6DD0-5210-C37A-C05AE2E1CFB7",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Un miroir</span><br /><br /></em></span></p>",
+                    "left": "834.98",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:26.65",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:22.74",
+                    "duration": "00:03.91",
+                    "zIndex": 2,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "491E31D8-C36E-2410-8492-C05B48FFAD2B",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Une jumelle</span><br /><br /></em></span></p>",
+                    "left": "835.97",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:30.58",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:26.65",
+                    "duration": "00:03.93",
+                    "zIndex": 3,
+                    "top": "259.92",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "0D11AF11-ABA5-413F-79BC-C05B879FAD26",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Un reflet</span><br /><br /><br /></em></span></p>",
+                    "left": "836.91",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:34.26",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:30.58",
+                    "duration": "00:03.68",
+                    "zIndex": 4,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "732184B4-FE50-5A17-EC0E-C05BCD68F960",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #66ffcc;\"><em>moi-m&ecirc;me</em></span></p>",
+                    "left": "836.91",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:38.50",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:34.26",
+                    "duration": "00:04.24",
+                    "zIndex": 5,
+                    "top": "259.90",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "5881C29A-D51E-F91B-B7E0-C056C329E0C2",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">Ceci n'est pas ...</span><br /><br /></em></span></p>",
+                    "left": "750.92",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:38.50",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:20.26",
+                    "duration": "00:18.24",
+                    "zIndex": 6,
+                    "top": "236.71",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "3AF7E3CC-916B-E1A1-84C4-CE937199A811",
+                    "text": "<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;<span style=\"background-color: #336699;\">&nbsp;</span> &nbsp;&nbsp;</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">FAMI-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">LIAR</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;ANA-</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"><span style=\"background-color: #ff6600;\">&nbsp;&nbsp;&nbsp;</span>&nbsp; RCHY</span></p>\n<p style=\"text-align: center;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp;</span></p>",
+                    "left": "423.28",
+                    "width": "287.74",
+                    "name": "Text 1",
+                    "dataend": "00:41.76",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:13.89",
+                    "duration": "00:27.87",
+                    "zIndex": 7,
+                    "top": "77.08",
+                    "height": "565.85",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "94593AEE-6F01-CEED-3F4E-A8BDB81C0A17",
+                    "text": "<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Mirror mirror</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Shining bright,</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>Wish I may or wish I might</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>What dark geometry must we try</em></span></span></p>\n<p><span style=\"font-size: large; font-family: HomepageBaukasten; color: #66ffcc;\"><span class=\"Apple-style-span\" style=\"font-size: 16px; line-height: 16px;\"><em>To decouple you and I</em></span></span></p>\n<p><span style=\"color: #66ffcc;\">&nbsp;</span></p>\n<p><span style=\"color: #66ff99;\">&nbsp;</span></p>\n<p><span style=\"color: #66ff99;\">&nbsp;</span></p>",
+                    "left": "317.00",
+                    "width": "400.00",
+                    "name": "Text 1",
+                    "dataend": "00:11.24",
+                    "transitionOut": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.78",
+                    "duration": "00:08.46",
+                    "zIndex": 9,
+                    "top": "252.00",
+                    "height": "263.00",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "Ceci n'est pas ...\nUn miroir\nUne jumelle\nUn reflet\nmoi-même\n",
+            "hideTitleInMindmap": false,
+            "tags": "mirrormirror",
+            "color": "rgba(228,95,86,1)"
+        },
+        "A1128346-E5B3-30CB-9DC7-CBF90D9AD676": {
+            "id": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
+            "title": "Post Intelligence",
+            "backgroundColor": "rgba(0,0,51,1)",
+            "y": -45.749999999999986,
+            "x": 1510.1833333333334,
+            "hideInMindmap": false,
+            "size": "large",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "A42C0E20-288D-7D74-6BAF-CBFC37B73D3E",
+                    "left": "40.19",
+                    "width": "1057.83",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "02:40.99",
+                    "databegin": "00:01.21",
+                    "duration": "02:39.78",
+                    "zIndex": 1,
+                    "top": "11.91",
+                    "height": "577.42",
+                    "style": {
+                        "backgroundColor": "rgba(12,20,25,0)"
+                    },
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/wordscramble/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                }
+            ],
+            "duration": 159.77815435848547,
+            "hideThumbnailInMindmap": false,
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "FBDCE59A-1B13-58D9-1040-D70A86CBDB39",
+                    "left": "905.00",
+                    "width": "44.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "02:41.88",
+                    "databegin": "00:02.10",
+                    "duration": "02:39.78",
+                    "zIndex": 2,
+                    "top": "16.00",
+                    "height": "44.00",
+                    "link": {
+                        "controlDX": -0.8807894174071853,
+                        "id": "F3B5EB63-561B-5B95-6387-D70A86CF1B16",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideDown",
+                        "controlDY": 1.55623732566442,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "22ABBCF5-20C7-55F8-F5EF-B22344377737"
+                    },
+                    "type": "klynt-arrow-top"
+                }
+            ],
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "CC9D713C-E74B-3098-C4AE-CBFD3AB32939",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "loop": false,
+                    "overlayVolume": 1,
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "02:40.99",
+                    "right": "0.00",
+                    "duration": "02:40.99",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "hideTitleInMindmap": false,
+            "tags": "wordscramble",
+            "color": "rgba(104,86,129,1)"
+        },
+        "800A7613-272A-BA7D-7D3E-B2266BA246D8": {
+            "id": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
+            "title": "The Sky's Mouth Was Filled",
+            "backgroundColor": "rgba(102,51,0,1)",
+            "y": 703.85,
+            "x": 450.5,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "hideInMindmap": false,
+            "size": "medium",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "F0EADE18-A0AD-A6BE-E0CF-C06A4CF82391",
+                    "left": "2.30",
+                    "width": "997.01",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "01:09.68",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:11.24",
+                    "duration": "00:58.44",
+                    "zIndex": 4,
+                    "top": "1.67",
+                    "height": "607.57",
+                    "style": {
+                        "backgroundColor": "rgba(12,20,25,0)"
+                    },
+                    "code": "\r<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/soundplanets/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                }
+            ],
+            "duration": 78.96576867619065,
+            "images": [
+                {
+                    "id": "D7988C26-F2F0-69C5-8E61-DECA4FEA9E2D",
+                    "src": "Medias/Photos/klynt_bg4.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.00",
+                    "name": "klynt_bg4.png",
+                    "dataend": "01:19.97",
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "01:19.97",
+                    "zIndex": 0,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.4
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "61B9DEC0-6A4C-1DAB-5552-CF4E73465877",
+                    "src": "Medias/Photos/aerial-view.jpg",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "left": "41.78",
+                    "width": "890.81",
+                    "name": "aerial-view.jpg",
+                    "dataend": "01:10.60",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 1066,
+                    "databegin": "00:02.12",
+                    "duration": "01:08.48",
+                    "zIndex": 1,
+                    "top": "-40.53",
+                    "height": "667.69",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.4
+                    },
+                    "mediaHeight": 799
+                },
+                {
+                    "scales": true,
+                    "id": "2C8D2AC5-C025-8E18-F5D4-DECB18853DAE",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.12",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.00",
+                    "duration": "00:02.12",
+                    "zIndex": 7,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "DA70941D-61C7-1253-FB4A-C1F03CD2BF40",
+                    "type": "klynt-arrow-right",
+                    "right": "17.45",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "01:21.13",
+                    "width": "61.09",
+                    "duration": "01:17.63",
+                    "zIndex": 5,
+                    "top": "209.45",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": -0.23879195627697233,
+                        "id": "D63BFA0B-3679-DBEE-2B65-E0B39ED51455",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideLeft",
+                        "controlDY": -0.3606297149930643,
+                        "color": "rgba(240,120,24,1)",
+                        "targetSequence": "072CA418-48C0-A2BD-D23D-B229E8D4842D"
+                    },
+                    "databegin": "00:03.50"
+                },
+                {
+                    "scales": true,
+                    "id": "C0723A1F-D44A-E50D-1BA7-C1F095CF0010",
+                    "left": "384.00",
+                    "width": "47.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "01:19.97",
+                    "databegin": "00:02.12",
+                    "duration": "01:17.85",
+                    "zIndex": 6,
+                    "top": "16.00",
+                    "height": "47.00",
+                    "link": {
+                        "controlDX": 0.03784361048235997,
+                        "id": "FDC3DD5C-530F-1893-AFB1-C1F095D53965",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideDown",
+                        "controlDY": 0.24707606334359064,
+                        "color": "rgba(240,120,24,1)",
+                        "targetSequence": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B"
+                    },
+                    "type": "klynt-arrow-top"
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "E523AC84-F404-01B9-CCC0-C06A4CF742BA",
+                    "text": "<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten;\"><span style=\"color: #ff3300;\">&nbsp;&nbsp;&nbsp;</span><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00;\">-THE</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;SKY'S</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"> MO-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\"><span style=\"background-color: #3300ff;\">&nbsp;&nbsp;</span> &nbsp;UTH</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;WAS</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;FILL- &nbsp;<span style=\"background-color: #bbbbbb;\"> &nbsp;</span></span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; ED</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
+                    "left": "575.00",
+                    "width": "342.00",
+                    "name": "Text 1",
+                    "dataend": "00:11.24",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.12",
+                    "duration": "00:09.12",
+                    "zIndex": 2,
+                    "top": "86.00",
+                    "height": "418.00",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "7D0C4884-37E0-CCFD-EF3E-C06A4CF82E27",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">My voice is so small on the cosmic scale&ndash;shall I deify myself to the microscopic?</span><br /></em></span></p>",
+                    "left": "216.49",
+                    "width": "330.74",
+                    "name": "Text 2",
+                    "dataend": "00:11.24",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:03.50",
+                    "duration": "00:07.74",
+                    "zIndex": 3,
+                    "top": "355.29",
+                    "height": "146.52",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "My voice is so small on the cosmic scale–shall I deify myself to the microscopic?\n\n",
+            "hideTitleInMindmap": false,
+            "tags": "soundbodies",
+            "color": "rgba(240,120,24,1)"
+        },
+        "DB2620A3-D6DC-682F-0341-B2237F985571": {
+            "id": "DB2620A3-D6DC-682F-0341-B2237F985571",
+            "title": "Monumental On A Subatomic Scale",
+            "backgroundColor": "rgba(255,102,255,1)",
+            "y": 1188.9,
+            "x": -147.25,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "audios": [
+                {
+                    "scales": false,
+                    "id": "53A1450F-8A68-204C-B89C-DF9D9C294D95",
+                    "src": [
+                        {
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_3min.mp3"
+                        }
+                    ],
+                    "loop": false,
+                    "overlayVolume": 1,
+                    "mediaId": "9BC79AA0-3242-83DD-7B1E-C7212C9F1F10",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_3min.mp3",
+                    "dataend": "00:39.44",
+                    "right": "0.00",
+                    "duration": "00:39.44",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": false,
+                    "volume": 1,
+                    "bottom": "0.00",
+                    "autoplay": true,
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "AE0A81BC-983E-6742-98E0-C049220B0F8E",
+                    "left": "273.88",
+                    "width": "736.72",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "00:35.99",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:03.58",
+                    "duration": "00:32.41",
+                    "zIndex": 4,
+                    "top": "-53.29",
+                    "height": "542.51",
+                    "style": {
+                        "backgroundColor": "rgba(12,20,25,0)"
+                    },
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/zoominadam/index.html\" frameborder=\"0\"  allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
+                }
+            ],
+            "duration": 38.44155328713686,
+            "images": [
+                {
+                    "id": "7F841CAB-B9F3-70EE-2FD0-DF9D5B6D9ECE",
+                    "src": "Medias/Photos/klynt_bg7.png",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:00.00",
+                    "name": "klynt_bg7.png",
+                    "dataend": "00:39.44",
+                    "mediaWidth": 1066,
+                    "verticalAlign": "middle",
+                    "duration": "00:39.44",
+                    "zIndex": 1,
+                    "mediaHeight": 600,
+                    "fitToWindow": true,
+                    "scaleMode": "zoom",
+                    "style": {
+                        "opacity": 0.3
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "10843D84-801D-4778-4902-DF9DC06C56AE",
+                    "src": "Medias/Photos/circle3.gif",
+                    "horizontalAlign": "center",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "width": "509.00",
+                    "name": "circle3.gif",
+                    "centerX": "0.00",
+                    "dataend": "00:02.19",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "mediaWidth": 480,
+                    "databegin": "00:00.00",
+                    "duration": "00:02.19",
+                    "zIndex": 6,
+                    "top": "64.00",
+                    "height": "509.00",
+                    "verticalAlign": "middle",
+                    "scaleMode": "zoom",
+                    "mediaHeight": 480
+                }
+            ],
+            "hideThumbnailInMindmap": false,
+            "buttons": [
+                {
+                    "scales": true,
+                    "id": "BAF49F7D-F4A0-15E5-BE65-C1F01AE5E0D5",
+                    "bottom": "16.00",
+                    "width": "61.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "428.00",
+                    "dataend": "00:39.44",
+                    "databegin": "00:03.58",
+                    "duration": "00:35.86",
+                    "zIndex": 5,
+                    "label": "",
+                    "height": "61.00",
+                    "link": {
+                        "controlDX": 0.02810526497003558,
+                        "id": "EA2D8CC3-C970-F115-6126-C1F01AE661EC",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideUp",
+                        "controlDY": -0.15388563359153423,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "800A7613-272A-BA7D-7D3E-B2266BA246D8"
+                    },
+                    "type": "klynt-arrow-bottom"
+                },
+                {
+                    "scales": true,
+                    "id": "B3327A21-91B4-2A3C-7185-E0EBE4B3F64D",
+                    "left": "17.45",
+                    "width": "61.09",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "00:39.44",
+                    "databegin": "00:00.00",
+                    "duration": "00:39.44",
+                    "zIndex": 7,
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": 0.002033147932554666,
+                        "id": "12EBE115-63A6-AE67-21D1-E0EBE4B4393D",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideRight",
+                        "controlDY": -0.3064124343354503,
+                        "color": "rgba(228,95,86,1)",
+                        "targetSequence": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
+                    },
+                    "type": "klynt-arrow-left",
+                    "centerY": "0.00"
+                }
+            ],
+            "texts": [
+                {
+                    "scales": true,
+                    "id": "6795D582-D5EB-AC87-CDDE-C049220B79DA",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;MON-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">UMEN-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; TAL </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #33ff00;\">ON </span></span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">A </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;SUB-</span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ATOM-</span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;IC </span></p>\n<p style=\"text-align: left;\"><span class=\"Apple-style-span\" style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SCALE</span></p>",
+                    "left": "132.53",
+                    "width": "341.85",
+                    "name": "Text 1",
+                    "dataend": "00:35.99",
+                    "transitionOut": {
+                        "duration": "3",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.19",
+                    "duration": "00:33.80",
+                    "zIndex": 2,
+                    "top": "33.68",
+                    "height": "555.22",
+                    "type": "txt-Title-1",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                },
+                {
+                    "scales": true,
+                    "id": "54939510-ED03-E5C7-0D91-C049220CFCF7",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">From stardust to cell, we project our strange paradigms to force sensibility from chaos. Should I trust in strange new magic?</span> <br /></em></span></p>",
+                    "left": "292.85",
+                    "width": "343.30",
+                    "name": "Text 2",
+                    "dataend": "00:35.99",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.88",
+                    "duration": "00:33.11",
+                    "zIndex": 3,
+                    "top": "522.20",
+                    "height": "64.37",
+                    "type": "txt-Paragraph",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "typeWriter"
+                    }
+                }
+            ],
+            "description": "From stardust to cell, we project our strange paradigms to force sensibility from chaos. Should I trust in strange new magic? ",
+            "hideTitleInMindmap": false,
+            "tags": "adam",
+            "color": "rgba(228,95,86,1)"
         },
         "A6AACE12-738D-1FE5-F018-B224F477D83A": {
             "id": "A6AACE12-738D-1FE5-F018-B224F477D83A",
@@ -6778,129 +6750,86 @@ klynt.data = {
             "tags": "hearme",
             "color": "rgba(120,192,168,1)"
         },
-        "F5029D57-06F1-E478-D4D1-B21BBCD2D858": {
-            "buttons": [
+        "072CA418-48C0-A2BD-D23D-B229E8D4842D": {
+            "id": "072CA418-48C0-A2BD-D23D-B229E8D4842D",
+            "title": "Rhizomatic",
+            "backgroundColor": "rgba(255,255,255,1)",
+            "y": 771.05,
+            "x": 979.7,
+            "thumbnail": "Medias/Thumbnails/circle3.gif.jpg",
+            "audios": [
                 {
-                    "scales": true,
-                    "id": "6B70A161-67A9-0168-76FF-C1EDF12EF768",
-                    "type": "klynt-arrow-right",
-                    "right": "17.45",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "label": "",
-                    "dataend": "00:56.48",
-                    "width": "61.09",
-                    "duration": "00:49.79",
-                    "zIndex": 5,
-                    "top": "509.45",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": -0.12168556609618104,
-                        "id": "702943B8-03C0-BE8C-DEC9-E0B9320D26C1",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideLeft",
-                        "controlDY": 0.21980987245498745,
-                        "color": "rgba(120,192,168,1)",
-                        "targetSequence": "50AAD418-2324-4768-0BFC-B221F96E5BA8"
-                    },
-                    "databegin": "00:06.69"
-                },
-                {
-                    "scales": true,
-                    "id": "EAD5EBCA-081F-5161-606C-E0D7DB04D90E",
-                    "width": "61.09",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    },
-                    "centerX": "-344.73",
-                    "dataend": "00:56.48",
-                    "databegin": "00:06.69",
-                    "duration": "00:49.79",
-                    "zIndex": 7,
-                    "label": "",
-                    "top": "17.45",
-                    "height": "61.09",
-                    "link": {
-                        "controlDX": 0.23735152345293453,
-                        "id": "274E58F6-66EB-1051-5816-E0D7DB05A93C",
-                        "hideInMindmap": false,
-                        "linkType": "linkToSequence",
-                        "automaticTransition": false,
-                        "hideArrowInMindmap": false,
-                        "transition": "slideDown",
-                        "controlDY": -0.41256090146800933,
-                        "color": "rgba(120,192,168,1)",
-                        "targetSequence": "A6AACE12-738D-1FE5-F018-B224F477D83A"
-                    },
-                    "type": "klynt-arrow-top"
-                }
-            ],
-            "id": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
-            "title": "Backmasking the Echo",
-            "backgroundColor": "rgba(0,0,0,1)",
-            "y": -188.95,
-            "x": 689.9833333333333,
-            "thumbnail": "Medias/Thumbnails/bolex2_medium.mp4.jpg",
-            "videos": [
-                {
-                    "id": "F571CFD8-D9F2-D5A5-05AD-E0343887B4A0",
+                    "scales": false,
+                    "id": "B9C340D5-7C79-90BB-F9CA-C7959818AC45",
                     "src": [
                         {
-                            "type": "video/mp4",
-                            "src": "Medias/Videos/bolex-nosound.mp4"
+                            "type": "audio/mp3",
+                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
                         }
                     ],
-                    "volume": 1,
-                    "horizontalAlign": "center",
-                    "frameRate": 0,
                     "loop": false,
-                    "databegin": "00:06.69",
-                    "name": "bolex-nosound.mp4",
+                    "overlayVolume": 1,
+                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
+                    "left": "0.00",
+                    "databegin": "00:00.00",
+                    "name": "PREL_Drone_BW02_897_copy.mp3",
+                    "dataend": "01:01.58",
+                    "right": "0.00",
+                    "duration": "01:01.58",
+                    "zIndex": 0,
+                    "height": "30.00",
+                    "player": false,
+                    "continuous": true,
+                    "volume": 1,
+                    "bottom": "0.00",
                     "autoplay": true,
-                    "dataend": "00:36.54",
+                    "sequenceEndVolume": 1
+                }
+            ],
+            "hideInMindmap": false,
+            "size": "medium",
+            "iframes": [
+                {
+                    "scales": true,
+                    "id": "6148547F-269C-FDCA-C361-C0973B133761",
+                    "left": "64.43",
+                    "width": "946.60",
+                    "transitionIn": {
+                        "duration": "2",
+                        "type": "fade"
+                    },
+                    "dataend": "00:55.97",
                     "transitionOut": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "mediaWidth": 1920,
-                    "poster": "Medias/Posters/bolex-nosound.mp4.jpg",
-                    "duration": "00:29.85",
+                    "databegin": "00:02.19",
+                    "duration": "00:53.78",
                     "zIndex": 4,
-                    "mediaHeight": 1080,
-                    "player": false,
-                    "fitToWindow": true,
-                    "verticalAlign": "middle",
-                    "scaleMode": "zoom",
-                    "transitionIn": {
-                        "duration": "1",
-                        "type": "fade"
-                    }
+                    "top": "13.70",
+                    "height": "582.28",
+                    "style": {
+                        "backgroundColor": "rgba(12,20,25,0)"
+                    },
+                    "code": "<iframe width=\"1066\" height=\"626\" src=\"https://shadowplay.space/particlehole/index.html\" frameborder=\"0\" allowfullscreen webkitallowfullscreen mozallowfullscreen ></iframe> "
                 }
             ],
-            "hideInMindmap": false,
-            "size": "large",
-            "duration": 55.47959339944159,
+            "duration": 59.39049288221096,
             "images": [
                 {
-                    "id": "817D5B12-9DD0-C15C-2B11-DF65D7CB45C0",
-                    "src": "Medias/Photos/klynt_bg12.png",
+                    "id": "51C30FA2-7B60-8284-B2E1-D17E97BAB28A",
+                    "src": "Medias/Photos/klynt_bg8.png",
                     "horizontalAlign": "center",
                     "transitionIn": {
                         "duration": "1",
                         "type": "fade"
                     },
-                    "databegin": "00:01.68",
-                    "name": "klynt_bg12.png",
-                    "dataend": "00:56.48",
+                    "databegin": "00:00.00",
+                    "name": "klynt_bg8.png",
+                    "dataend": "01:01.58",
                     "mediaWidth": 1066,
                     "verticalAlign": "middle",
-                    "duration": "00:54.80",
+                    "duration": "01:01.58",
                     "zIndex": 1,
                     "mediaHeight": 600,
                     "fitToWindow": true,
@@ -6911,7 +6840,7 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "028CDE86-064C-185C-D50C-DF5F2AA26F63",
+                    "id": "CB99492C-4776-D1F2-962E-DEE68FA1F40C",
                     "src": "Medias/Photos/circle3.gif",
                     "horizontalAlign": "center",
                     "transitionIn": {
@@ -6938,52 +6867,119 @@ klynt.data = {
                 }
             ],
             "hideThumbnailInMindmap": false,
-            "audios": [
+            "buttons": [
                 {
-                    "scales": false,
-                    "id": "AFBF1D69-FC4A-9181-8B96-C747A4B2428A",
-                    "src": [
-                        {
-                            "type": "audio/mp3",
-                            "src": "Medias/Audios/PREL_Drone_BW02_897_copy.mp3"
-                        }
-                    ],
-                    "loop": false,
-                    "overlayVolume": 0.9,
-                    "mediaId": "B29201E7-D03B-F36D-D1CC-C123F013A1AF",
-                    "left": "0.00",
-                    "databegin": "00:00.00",
-                    "name": "PREL_Drone_BW02_897_copy.mp3",
-                    "dataend": "00:56.48",
-                    "right": "0.00",
-                    "duration": "00:56.48",
-                    "zIndex": 0,
-                    "height": "30.00",
-                    "player": false,
-                    "continuous": true,
-                    "volume": 1,
-                    "bottom": "0.00",
-                    "autoplay": true,
-                    "sequenceEndVolume": 1
+                    "scales": true,
+                    "id": "60AEA0CE-F2E2-4ED4-FC96-C1F0BB31F035",
+                    "left": "16.84",
+                    "width": "47.00",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "label": "",
+                    "dataend": "01:00.39",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:03.49",
+                    "duration": "00:56.90",
+                    "zIndex": 5,
+                    "top": "277.00",
+                    "height": "47.00",
+                    "link": {
+                        "controlDX": 0.05660901325474624,
+                        "id": "376CC5A0-BA48-777B-9364-CC158453CAF2",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideRight",
+                        "controlDY": -0.7338434715098263,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "EFF14793-31B1-D20D-2130-CBE6AA643ACC"
+                    },
+                    "type": "klynt-arrow-left"
+                },
+                {
+                    "scales": true,
+                    "id": "8F799103-FBC3-0AA2-924A-E0CA41110DAF",
+                    "bottom": "17.45",
+                    "width": "61.09",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "378.54",
+                    "dataend": "01:00.39",
+                    "databegin": "00:03.49",
+                    "duration": "00:56.90",
+                    "zIndex": 7,
+                    "label": "",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": 0.05087164733663355,
+                        "id": "DBADA804-B16F-4023-7DF1-E0CA411233A5",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideUp",
+                        "controlDY": 1.1762796697860616,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "72D62182-9A8E-E459-43A4-D05483A381A7"
+                    },
+                    "type": "klynt-arrow-bottom"
+                },
+                {
+                    "scales": true,
+                    "id": "56DC19BA-9F61-20D1-08E3-E0DAED615824",
+                    "width": "61.09",
+                    "transitionIn": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "centerX": "-0.00",
+                    "dataend": "01:00.39",
+                    "databegin": "00:03.49",
+                    "duration": "00:56.90",
+                    "zIndex": 8,
+                    "label": "",
+                    "top": "17.45",
+                    "height": "61.09",
+                    "link": {
+                        "controlDX": 0.6599763418926026,
+                        "id": "556BAA06-1CD9-1DD8-EEA9-E0DAED673E91",
+                        "hideInMindmap": false,
+                        "linkType": "linkToSequence",
+                        "automaticTransition": false,
+                        "hideArrowInMindmap": false,
+                        "transition": "slideDown",
+                        "controlDY": 1.493713334339735,
+                        "color": "rgba(104,86,129,1)",
+                        "targetSequence": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615"
+                    },
+                    "type": "klynt-arrow-top"
                 }
             ],
             "texts": [
                 {
                     "scales": true,
-                    "id": "296066A2-660E-71FA-9DA0-C042E0CABAD9",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;&nbsp;BACK-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">- &nbsp; &nbsp; &nbsp;MASK-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">ING</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp;<span style=\"background-color: #3399ff;\"> &nbsp;</span> THE</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;&nbsp; &nbsp;ECHO</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>",
-                    "left": "582.16",
-                    "width": "647.99",
+                    "id": "7F74D8E0-6341-C686-067C-C0973B13B542",
+                    "text": "<p style=\"text-align: left;\"><span style=\"color: #ff3300; font-family: HomepageBaukasten;\">&nbsp;-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;-RHIZO</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">MATIC</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">-</span></p>\n<p style=\"text-align: left;\"><span style=\"color: #ff3300; background-color: #33ff00; font-family: HomepageBaukasten;\">&nbsp;</span></p>",
+                    "left": "845.39",
+                    "right": "-121.23",
                     "name": "Text 1",
-                    "dataend": "00:06.69",
+                    "dataend": "00:55.97",
                     "transitionOut": {
                         "duration": "3",
                         "type": "fade"
                     },
                     "databegin": "00:02.19",
-                    "duration": "00:04.50",
+                    "duration": "00:53.78",
                     "zIndex": 2,
-                    "top": "123.13",
+                    "top": "-8.06",
                     "height": "418.03",
                     "type": "txt-Title-1",
                     "transitionIn": {
@@ -6993,17 +6989,21 @@ klynt.data = {
                 },
                 {
                     "scales": true,
-                    "id": "0342DC3A-C83E-CA69-54B7-C042E0CBA297",
-                    "text": "<p style=\"text-align: left;\"><span style=\"color: #33ff00;\"><em><span style=\"color: #66ffcc;\">What is the importance of the time between seconds? Do eons pass on the laboratory slide just as my entire life is a blink in the eye of the cosmos?</span><br /></em></span></p>",
-                    "left": "322.92",
-                    "width": "343.31",
+                    "id": "30B3DA30-CA17-2957-0E74-C0973B14F645",
+                    "text": "<p>&nbsp;</p>\n<p style=\"text-align: left;\"><span style=\"font-family: HomepageBaukasten; color: #66ffcc;\"><em>Can I leave a lasting trace? Are monuments a point of fruition within an unseen network?</em></span></p>",
+                    "left": "68.79",
+                    "width": "330.74",
                     "name": "Text 2",
-                    "dataend": "00:56.48",
-                    "databegin": "00:37.21",
-                    "duration": "00:19.27",
+                    "dataend": "00:55.97",
+                    "transitionOut": {
+                        "duration": "1",
+                        "type": "fade"
+                    },
+                    "databegin": "00:02.19",
+                    "duration": "00:53.78",
                     "zIndex": 3,
-                    "top": "466.68",
-                    "height": "64.37",
+                    "top": "451.16",
+                    "height": "146.52",
                     "type": "txt-Paragraph",
                     "transitionIn": {
                         "duration": "1",
@@ -7011,60 +7011,60 @@ klynt.data = {
                     }
                 }
             ],
-            "description": "What is the importance of the time between seconds? Do eons pass on the laboratory slide just as my entire life is a blink in the eye of the cosmos?",
+            "description": "Can I leave a lasting trace? Are monuments a point of fruition within an unseen network?",
             "hideTitleInMindmap": false,
-            "tags": "bolex",
-            "color": "rgba(120,192,168,1)"
+            "tags": "circleparticle",
+            "color": "rgba(104,86,129,1)"
         }
     },
     "aliases": {
         "aliasToId": {
-            "Sub_Chaotic_Order": "28E30679-51F2-D943-8D33-B2245BEE73BA",
-            "Are_you_born_or_bred_": "22ABBCF5-20C7-55F8-F5EF-B22344377737",
-            "Gag_Act": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
-            "384_Chances": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
-            "Quantifiable_Outcomes": "D6939662-0785-2FBF-4D56-A8C2A1F9B075",
-            "Commemorative_Camouflage": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B",
-            "Familiar_Anarchy": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
-            "Outside_Acceptable_Parameters": "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
-            "Terminal_Velocity": "72D62182-9A8E-E459-43A4-D05483A381A7",
-            "Game_Theory": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
-            "Objects_Are_Closer_": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5",
-            "I__Reboot": "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D",
-            "Rhizomatic": "072CA418-48C0-A2BD-D23D-B229E8D4842D",
-            "Interesting_Times": "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B",
-            "The_Sky's_Mouth_Was_Filled": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
-            "Monumental_On_A_Subatomic_Scale": "DB2620A3-D6DC-682F-0341-B2237F985571",
-            "Backmasking_the_Echo": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
-            "Post_Intelligence": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
-            "Reversed_Hierarchy": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D",
             "Mayhem_Explored": "9F401E1D-B50B-C593-E26C-A8B987A00393",
+            "Terminal_Velocity": "72D62182-9A8E-E459-43A4-D05483A381A7",
+            "Backmasking_the_Echo": "F5029D57-06F1-E478-D4D1-B21BBCD2D858",
+            "I__Reboot": "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D",
+            "Reversed_Hierarchy": "EA611BAB-21EB-5F65-B405-A8BA5B879E7D",
+            "Familiar_Anarchy": "DB6CA14F-9051-E6BE-E263-A8BACE5B2615",
+            "Rhizomatic": "072CA418-48C0-A2BD-D23D-B229E8D4842D",
+            "Sub_Chaotic_Order": "28E30679-51F2-D943-8D33-B2245BEE73BA",
+            "384_Chances": "9F5A314A-671C-3E18-3150-B21E3122D1B4",
+            "Gag_Act": "50AAD418-2324-4768-0BFC-B221F96E5BA8",
+            "Monumental_On_A_Subatomic_Scale": "DB2620A3-D6DC-682F-0341-B2237F985571",
+            "Outside_Acceptable_Parameters": "EFF14793-31B1-D20D-2130-CBE6AA643ACC",
             "Quitting_but_Surviving": "452423DF-F904-5D46-A88E-CE6E65FBC44E",
-            "F.U.E._(fucked_up_everything)": "A6AACE12-738D-1FE5-F018-B224F477D83A"
+            "The_Sky's_Mouth_Was_Filled": "800A7613-272A-BA7D-7D3E-B2266BA246D8",
+            "Commemorative_Camouflage": "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B",
+            "Quantifiable_Outcomes": "D6939662-0785-2FBF-4D56-A8C2A1F9B075",
+            "Post_Intelligence": "A1128346-E5B3-30CB-9DC7-CBF90D9AD676",
+            "F.U.E._(fucked_up_everything)": "A6AACE12-738D-1FE5-F018-B224F477D83A",
+            "Are_you_born_or_bred_": "22ABBCF5-20C7-55F8-F5EF-B22344377737",
+            "Game_Theory": "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84",
+            "Interesting_Times": "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B",
+            "Objects_Are_Closer_": "9CABE6C0-8F8D-33A6-18C5-B22098D003D5"
         },
         "idToAlias": {
             "22ABBCF5-20C7-55F8-F5EF-B22344377737": "Are_you_born_or_bred_",
             "4FB8D2E7-FEC3-AD36-9E21-B22AAA8A6A8D": "I__Reboot",
             "AA4099DF-9D17-F2B8-F31B-B22D7BC6954B": "Interesting_Times",
             "78FE662F-DF6B-BA4C-2BD8-B2282C5C1A9B": "Commemorative_Camouflage",
-            "072CA418-48C0-A2BD-D23D-B229E8D4842D": "Rhizomatic",
+            "452423DF-F904-5D46-A88E-CE6E65FBC44E": "Quitting_but_Surviving",
             "28E30679-51F2-D943-8D33-B2245BEE73BA": "Sub_Chaotic_Order",
             "6D74910A-C60C-F8AF-DD3D-B225ABFCFB84": "Game_Theory",
             "EA611BAB-21EB-5F65-B405-A8BA5B879E7D": "Reversed_Hierarchy",
             "9F5A314A-671C-3E18-3150-B21E3122D1B4": "384_Chances",
-            "452423DF-F904-5D46-A88E-CE6E65FBC44E": "Quitting_but_Surviving",
-            "DB2620A3-D6DC-682F-0341-B2237F985571": "Monumental_On_A_Subatomic_Scale",
-            "A1128346-E5B3-30CB-9DC7-CBF90D9AD676": "Post_Intelligence",
+            "F5029D57-06F1-E478-D4D1-B21BBCD2D858": "Backmasking_the_Echo",
+            "72D62182-9A8E-E459-43A4-D05483A381A7": "Terminal_Velocity",
+            "9F401E1D-B50B-C593-E26C-A8B987A00393": "Mayhem_Explored",
             "9CABE6C0-8F8D-33A6-18C5-B22098D003D5": "Objects_Are_Closer_",
             "DB6CA14F-9051-E6BE-E263-A8BACE5B2615": "Familiar_Anarchy",
-            "9F401E1D-B50B-C593-E26C-A8B987A00393": "Mayhem_Explored",
+            "A1128346-E5B3-30CB-9DC7-CBF90D9AD676": "Post_Intelligence",
             "800A7613-272A-BA7D-7D3E-B2266BA246D8": "The_Sky's_Mouth_Was_Filled",
-            "72D62182-9A8E-E459-43A4-D05483A381A7": "Terminal_Velocity",
+            "DB2620A3-D6DC-682F-0341-B2237F985571": "Monumental_On_A_Subatomic_Scale",
             "A6AACE12-738D-1FE5-F018-B224F477D83A": "F.U.E._(fucked_up_everything)",
             "EFF14793-31B1-D20D-2130-CBE6AA643ACC": "Outside_Acceptable_Parameters",
             "D6939662-0785-2FBF-4D56-A8C2A1F9B075": "Quantifiable_Outcomes",
             "50AAD418-2324-4768-0BFC-B221F96E5BA8": "Gag_Act",
-            "F5029D57-06F1-E478-D4D1-B21BBCD2D858": "Backmasking_the_Echo"
+            "072CA418-48C0-A2BD-D23D-B229E8D4842D": "Rhizomatic"
         }
     },
     "miniPlayer": {
