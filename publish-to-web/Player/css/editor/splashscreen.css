@@ -7,11 +7,11 @@
 /* This file is auto-generated. All modifications directly in the file will be overwritten by editor when project is saved*/
 
 body {
-	background-color: rgba(51, 51, 51, 1); /* PRIMARY_COLOR */
+	background-color: rgba(255, 102, 0, 1); /* PRIMARY_COLOR */
 }
 
 #splashscreen {
-	background: rgba(51, 51, 51, 1); /* PRIMARY_COLOR */
+	background: rgba(255, 102, 0, 1); /* PRIMARY_COLOR */
 }
 
 #logo {
@@ -19,13 +19,13 @@ body {
 }
 
 .loader-stroke-color-empty {
-	stroke: rgba(102, 102, 102, 1); /* TERTIARY_COLOR */
+	stroke: rgba(0, 0, 153, 1); /* TERTIARY_COLOR */
 }
 
 .loader-stroke-color-filled {
-	stroke: rgba(102, 102, 102, 1); /* TERTIARY_COLOR */
+	stroke: rgba(0, 0, 153, 1); /* TERTIARY_COLOR */
 }
 
 .loader-label {
-	color: rgba(102, 102, 102, 1); /* TERTIARY_COLOR */
+	color: rgba(0, 0, 153, 1); /* TERTIARY_COLOR */
 }
